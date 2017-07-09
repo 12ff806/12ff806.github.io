@@ -1,0 +1,99 @@
+/**
+ * MoveBox CSS
+ * by sin
+ * 27 June 2017
+ */
+
+
+/* global */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #000;
+}
+
+/* container */
+#container{
+    margin: 50px auto;
+    padding-bottom: 50px;
+    background-color: #fff;
+    color: #000;
+}
+
+/* form */
+#form{
+    width: 100%;
+    text-align: center;
+}
+
+#cmd-input{
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+}
+
+#cmd-execution{
+    width: 80px;
+    height: 40px;
+    border-style: none;
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px #333;
+    background-color: #3388ee;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 8px;
+    padding-left: 8px;
+    opacity: 0.8;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+/* mount point */
+#mount-point{
+    position: relative;
+    padding: 50px;
+}
+
+.xli{
+    position: absolute;
+    top: 20px;
+    list-style-type: none;
+    width: 25px;
+    height: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.yli{
+    position: absolute;
+    left: 20px;
+    list-style-type: none;
+    width: 25px;
+    height: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.playground{
+    position: relative;
+    border: solid 2px #000;
+}
+
+.little-box{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: solid 1px #eee;
+}
+
+#box{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-image: linear-gradient(to bottom, blue, blue 25%, red 25%, red);
+    transition: top 0.5s 0.5s, left 0.5s 0.5s, transform 0.5s 0.5s, border-radius 0.5s 0s; 
+}
+
