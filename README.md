@@ -1,3 +1,4 @@
-# This is My Page
+12ff806.github.io
+=================
 
-you can visit "[here](http://number92.tk)"
+This is [My Page](http://number92.tk).
