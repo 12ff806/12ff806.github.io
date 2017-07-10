@@ -2,8 +2,7 @@
 layout: post
 notes: active
 projects: passive
-title: "Object in JavaScript"
+title: JavaScript 的对象
 date: 2017-07-09
 ---
 
-blablablabla....
