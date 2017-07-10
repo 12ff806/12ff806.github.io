@@ -1,4 +1,7 @@
 ---
+layout: tree
+notes: passive
+projects: passive
 title: JavaScript 知识点
 ---
 
