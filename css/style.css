@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: "Helvetica Neue", Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+p,
+ul{
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333; 
+}
+
+h1{
+    font-size: 3em;
+}
+
+h2{
+    font-size: 2.7em;
+}
+
+h3{
+    font-size: 2.3em;
+}
+
+h4{
+    font-size: 1.9em;
+}
+
+
+/* container */
+.container{
+    max-width: 920px;
+    margin: 0px auto;
+    padding: 0px 80px;
+}
+
+
+/* header */
+header{
+    border-bottom: solid 1px #eee;
+    overflow: auto;
+    margin-bottom: 60px;
+    padding: 20px 0px;
+    font-size: 12px;
+}
+
+header nav .title{
+    padding: 10px 0px;
+    color: #888;
+}
+
+header nav .title:hover{
+    color: #0088aa;
+}
+
+header nav .title a{
+    color: inherit;
+}
+
+header nav ul{
+    float: right;
+    list-style: none;
+}
+
+header nav ul li{
+    float: left;
+    padding: 10px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+header nav ul li a{
+    color: inherit;
+}
+
+header nav ul li.active{
+    color: #fff;
+    background-color: #0088aa;
+}
+
+header nav ul li.passive{
+    color: #0088aa;
+    background-color: #fff;
+}
+
+header nav ul li.passive:hover{
+    background-color: #eee;
+}
+
+
+/* footer */
+footer{
+    border-top: 1px solid #eee;
+    margin-top: 40px;
+    padding-top: 10px;
+    font-size: 10px;
+}
+
+footer p{
+    color: #aaa;
+    text-align: right;
+}
+
+footer p a{
+    color: #0088aa;
+}
+
+footer p a:hover{
+    text-decoration: underline;
+}
+
+
+/* notes */
+ul.posts{
+    margin: 20px auto 40px;
+    font-size: 1.5em;
+}
+
+ul.posts li{
+    list-style: none;
+}
+
