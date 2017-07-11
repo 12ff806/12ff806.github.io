@@ -18,6 +18,14 @@ ul{
     line-height: 1.5;
 }
 
+h1{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 18px;
+}
+
 p{
     line-height: 1.5;
 }
@@ -114,16 +122,18 @@ footer p a:hover{
 
 .tree-list ul li a{
     display: inline-block;
-    font-size: 20px;
+    font-size: 16px;
     background-color: #00a0aa;
     color: #fff;
     width: 100px;
     text-align: center;
     border-radius: 50%;
     margin: 20px 32px;
-    padding: 45px 10px;
+    padding: 47px 10px;
 }
 
+
+/* tree */
 .tree{
     padding: 0px 60px;
 }
@@ -143,7 +153,7 @@ footer p a:hover{
 .posts table tr td ul li{
     position: relative;
     margin-bottom: -1px;
-    padding: 10px 20px;
+    padding: 10px 30px;
     border: solid 1px #eee;
     cursor: pointer;
 }
@@ -165,12 +175,15 @@ footer p a:hover{
 .posts table tr td ul li a{
     color: #00a0aa;
     font-size: 16px;
+    letter-spacing: 1px;
 }
 
 
 /* post */
 .post{
     padding: 0px 60px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
 }
 
 .post .title{
@@ -184,8 +197,7 @@ footer p a:hover{
     display: inline-block;
     margin: 20px 0px;
     padding-bottom: 2px;
-    font-size: 16px;
-    word-spacing: 5px;
+    font-size: 14px;
 }
 
 .post .post-content h2{
@@ -197,9 +209,8 @@ footer p a:hover{
 
 .post .post-content p{
     margin: 10px 0px;
-    line-height: 1.6;
-    font-size: 20px;
-    word-spacing: 4px;
+    line-height: 1.5;
+    font-size: 16px;
 }
 
 .post .post-content .language-sh{
@@ -210,8 +221,9 @@ footer p a:hover{
 
 .post .post-content ul{
     list-style-type: square;
-    padding: 5px 40px;
+    padding: 5px 50px;
     margin: 10px 0px;
+    font-size: 16px;
 }
 
 
@@ -220,13 +232,9 @@ footer p a:hover{
     padding: 0px 60px;
 }
 
-.about p{
-    font-size: 18px;
-}
-
 .about ul{
     list-style-type: square;
-    font-size: 14px;
+    font-size: 16px;
     margin: 20px 16px;
     line-height: 2;
 }

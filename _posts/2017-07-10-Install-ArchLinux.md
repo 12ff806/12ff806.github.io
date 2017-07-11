@@ -2,7 +2,7 @@
 layout: post
 notes: active
 projects: passive
-title: 安装 ArchLinux 系统
+title: Install ArchLinux
 date: 2017-07-10
 ---
 
