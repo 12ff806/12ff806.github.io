@@ -1,5 +1,14 @@
-debmirror
-=========
+---
+layout: post
+notes: active
+projects: passive
+title: problem with debmirror
+date: 2017-07-11
+---
+
+
+{::options auto_ids="false" /}
+
 
 I used debmirror for mirroring Debian repositories, on a Debian server in docker
 

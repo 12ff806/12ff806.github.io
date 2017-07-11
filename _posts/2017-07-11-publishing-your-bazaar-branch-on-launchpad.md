@@ -1,5 +1,14 @@
+---
+layout: post
+notes: active
+projects: passive
+title: Publishing your Bazaar branch on Launchpad
+date: 2017-07-11
+---
 
-# Publishing your Bazaar branch on Launchpad
+
+{::options auto_ids="false" /}
+
 
 ## preparation
 you should install Bazaar first.

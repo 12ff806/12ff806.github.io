@@ -1,5 +1,10 @@
-deploy debsources
-=================
+---
+layout: post
+notes: active
+projects: passive
+title: deploy debsources
+date: 2017-07-11
+---
 
 deploy debsources instance use docker
 

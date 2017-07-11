@@ -11,6 +11,7 @@ body{
 
 a{
     text-decoration: none;
+    color: #00a0aa;
 }
 
 ul{
@@ -19,11 +20,11 @@ ul{
 }
 
 h1{
-    font-size: 20px;
+    font-size: 18px;
 }
 
 h2{
-    font-size: 18px;
+    font-size: 16px;
 }
 
 p{
@@ -33,7 +34,7 @@ p{
 
 /* container */
 .container{
-    max-width: 920px;
+    max-width: 740px;
     margin: 0px auto;
     padding: 0px 80px;
 }
@@ -44,12 +45,12 @@ header{
     border-bottom: solid 1px #eee;
     overflow: auto;
     margin-bottom: 40px;
-    padding: 20px 0px;
-    font-size: 18px;
+    padding: 12px 0px;
+    font-size: 16px;
 }
 
 header nav .title{
-    padding: 10px 0px;
+    padding: 6px 0px;
     color: #333;
 }
 
@@ -64,7 +65,7 @@ header nav ul{
 
 header nav ul li{
     float: left;
-    padding: 10px;
+    padding: 6px;
     margin-left: 5px;
     border-radius: 5px;
 }
@@ -122,14 +123,14 @@ footer p a:hover{
 
 .tree-list ul li a{
     display: inline-block;
-    font-size: 16px;
+    font-size: 14px;
     background-color: #00a0aa;
     color: #fff;
     width: 100px;
     text-align: center;
     border-radius: 50%;
     margin: 20px 32px;
-    padding: 47px 10px;
+    padding: 50px 10px;
 }
 
 
@@ -174,7 +175,7 @@ footer p a:hover{
 
 .posts table tr td ul li a{
     color: #00a0aa;
-    font-size: 16px;
+    font-size: 14px;
     letter-spacing: 1px;
 }
 
@@ -197,7 +198,7 @@ footer p a:hover{
     display: inline-block;
     margin: 20px 0px;
     padding-bottom: 2px;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .post .post-content h2{
@@ -210,7 +211,7 @@ footer p a:hover{
 .post .post-content p{
     margin: 10px 0px;
     line-height: 1.5;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .post .post-content pre{
@@ -220,12 +221,16 @@ footer p a:hover{
     overflow: auto;
 }
 
+.post .post-content ol,
 .post .post-content ul{
-    list-style-type: square;
     padding: 5px 50px;
     margin: 10px 0px;
     line-height: 2;
-    font-size: 16px;
+    font-size: 14px;
+}
+
+.post .post-content ul{
+    list-style-type: square;
 }
 
 
@@ -236,12 +241,8 @@ footer p a:hover{
 
 .about ul{
     list-style-type: square;
-    font-size: 16px;
+    font-size: 14px;
     margin: 20px 16px;
     line-height: 2;
-}
-
-.about ul li a{
-    color: #00a0aa;
 }
 

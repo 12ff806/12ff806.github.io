@@ -1,5 +1,14 @@
-set up git server
-=================
+---
+layout: post
+notes: active
+projects: passive
+title: set up git server
+date: 2017-07-11
+---
+
+
+{::options auto_ids="false" /}
+
 
 install git
 -----------
