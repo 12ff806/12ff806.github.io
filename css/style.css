@@ -34,7 +34,7 @@ p{
 
 /* container */
 .container{
-    max-width: 740px;
+    max-width: 700px;
     margin: 0px auto;
     padding: 0px 80px;
 }
@@ -161,7 +161,7 @@ footer p a:hover{
 /* post | tree */
 .tree,
 .post{
-    padding: 0px 60px;
+    padding: 0px 40px;
     letter-spacing: 1px;
     word-spacing: 2px;
 }
@@ -222,13 +222,17 @@ footer p a:hover{
 
 /* about */
 .about{
-    padding: 0px 60px;
+    padding: 0px 40px;
+}
+
+.about h2{
+    font-weight: normal;
 }
 
 .about ul{
     list-style-type: square;
     font-size: 14px;
-    margin: 20px 16px;
+    margin: 20px 18px;
     line-height: 2;
 }
 
