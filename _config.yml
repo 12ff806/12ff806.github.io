@@ -4,7 +4,6 @@ markdown: kramdown
 
 permalink: /notes/:year/:month/:day/:title
 
-highlighter: rouge
+plugins: 
+  - jekyll-sitemap
 
-kramdown:
-    syntax_highlighter: rouge
