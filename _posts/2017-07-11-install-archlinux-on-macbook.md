@@ -2,7 +2,7 @@
 layout: post
 notes: active
 projects: passive
-title: Macbook安装ArchLinux
+title: Macbook 安装 ArchLinux
 date: 2017-07-11
 ---
 
