@@ -3,7 +3,7 @@ layout: post
 notes: active
 projects: passive
 title: problem with debmirror
-date: 2017-07-11
+date: 2017-07-09
 ---
 
 
