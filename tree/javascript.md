@@ -2,22 +2,21 @@
 layout: tree
 notes: passive
 projects: passive
-title: JavaScript 知识点
+title: JavaScript
+date: 2017-07-12
 ---
 
-对象
-====
 
-继承
-====
+{::options auto_ids="false" /}
 
-Prototype
-=========
 
-This
-====
+## 对象
 
-Promise
-=======
+## 继承
 
+## Prototype
+
+## This
+
+## Promise
 

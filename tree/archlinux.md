@@ -2,6 +2,7 @@
 layout: tree
 notes: passive
 projects: passive
-title: ArchLinux 知识点
+title: ArchLinux
+date: 2017-07-12
 ---
 
