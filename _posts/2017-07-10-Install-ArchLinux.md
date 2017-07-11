@@ -7,9 +7,6 @@ date: 2017-07-10
 ---
 
 
-install arch linux
-==================
-
 create a arch linux installer usb drive
 ---------------------------------------
 

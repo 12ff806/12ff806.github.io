@@ -6,6 +6,7 @@
 body{
     font-family: "Helvetica Neue", Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
     font-size: 14px;
+    color: #666;
 }
 
 a{
@@ -41,11 +42,7 @@ header{
 
 header nav .title{
     padding: 10px 0px;
-    color: #888;
-}
-
-header nav .title:hover{
-    color: #0088aa;
+    color: #333;
 }
 
 header nav .title a{
@@ -70,11 +67,11 @@ header nav ul li a{
 
 header nav ul li.active{
     color: #fff;
-    background-color: #0088aa;
+    background-color: #00a0aa;
 }
 
 header nav ul li.passive{
-    color: #0088aa;
+    color: #00a0aa;
     background-color: #fff;
 }
 
@@ -97,7 +94,7 @@ footer p{
 }
 
 footer p a{
-    color: #0088aa;
+    color: #00a0aa;
 }
 
 footer p a:hover{
@@ -122,9 +119,9 @@ footer p a:hover{
     color: #fff;
     width: 100px;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 50%;
     margin: 20px 32px;
-    padding: 40px 10px;
+    padding: 45px 10px;
 }
 
 .tree{
@@ -166,8 +163,55 @@ footer p a:hover{
 }
 
 .posts table tr td ul li a{
-    color: #0088aa;
+    color: #00a0aa;
     font-size: 16px;
+}
+
+
+/* post */
+.post{
+    padding: 0px 60px;
+}
+
+.post .title{
+    border-bottom: solid 1px #eee;
+    margin: 40px 0px 5px 0px;
+    padding-bottom: 2px;
+    color: #444;
+}
+
+.post .meta{
+    display: inline-block;
+    margin: 20px 0px;
+    padding-bottom: 2px;
+    font-size: 16px;
+    word-spacing: 5px;
+}
+
+.post .post-content h2{
+    border-bottom: solid 1px #eee;
+    padding-bottom: 2px;
+    margin: 30px 0px 18px 0px;
+    color: #555;
+}
+
+.post .post-content p{
+    margin: 10px 0px;
+    line-height: 1.6;
+    font-size: 20px;
+    word-spacing: 4px;
+}
+
+.post .post-content .language-sh{
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #f8f8f8;
+}
+
+.post .post-content ul{
+    list-style-type: square;
+    padding: 5px 40px;
+    margin: 10px 0px;
 }
 
 
@@ -188,6 +232,6 @@ footer p a:hover{
 }
 
 .about ul li a{
-    color: #0088aa;
+    color: #00a0aa;
 }
 

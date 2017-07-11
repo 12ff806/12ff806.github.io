@@ -1,3 +1,10 @@
 name: Sin
+
 markdown: kramdown
+
 permalink: /notes/:year/:month/:day/:title
+
+highlighter: rouge
+
+kramdown:
+    syntax_highlighter: rouge
