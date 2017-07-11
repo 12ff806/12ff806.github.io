@@ -1,0 +1,55 @@
+set up git and github
+=====================
+
+setting up git
+--------------
+
+1. Download and install git
+2. config git
+
+```sh
+$ git config --global user.name "Janus Zhao"
+$ git config --global user.email "JanusKernel@gmail.com"
+```
+
+generate a new ssh key
+----------------------
+
+if you connecting over ssh, you must generate ssh keys on each computer you use to push or pull from github.
+
+```sh
+$ ssh-keygen -t rsa -C "JanusKernel@gmail.com"
+```
+
+add your ssh key to your account
+--------------------------------
+
+install xclip
+
+```sh
+$ sudo pacman -S xclip
+```
+
+copy the ssh key to your clipboard
+
+```sh
+$ xclip -sel clip < ~/.ssh/id_rsa.pub
+```
+
+add the ssh key to your github
+
+test the connection
+-------------------
+
+```sh
+$ ssh -T git@github.com
+```
+
+set proxy
+---------
+
+if you are behind a proxy, you'd need SSH via tunneling (using corkscrew). install corkscrew on your machine, add the following lines to ~/.ssh/config:
+    
+    Host github.com
+        User JanusZhao
+        ProxyCommand corkscrew 119.40.56.* 1989 %h %p

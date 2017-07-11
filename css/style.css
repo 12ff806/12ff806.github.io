@@ -213,16 +213,18 @@ footer p a:hover{
     font-size: 16px;
 }
 
-.post .post-content .language-sh{
+.post .post-content pre{
     border-radius: 5px;
     padding: 20px;
     background-color: #f8f8f8;
+    overflow: auto;
 }
 
 .post .post-content ul{
     list-style-type: square;
     padding: 5px 50px;
     margin: 10px 0px;
+    line-height: 2;
     font-size: 16px;
 }
 

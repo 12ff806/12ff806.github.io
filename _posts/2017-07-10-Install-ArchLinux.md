@@ -7,6 +7,9 @@ date: 2017-07-10
 ---
 
 
+{::options auto_ids="false" /}
+
+
 create a arch linux installer usb drive
 ---------------------------------------
 
