@@ -10,11 +10,15 @@ date: 2017-07-12
 {::options auto_ids="false" /}
 
 
-* 控制流程 if / for / switch
-* 数组
-  * 数组高级应用
+* 变量
 * string
 * number
+* boolean
+* null undefined
+* 内置对象 Date
+* 数组
+  * 数组高级应用
+* 控制流程 if / switch / for / while
 * 函数
   * 高级函数
   * 参数 形参 实参
@@ -33,6 +37,9 @@ date: 2017-07-12
   * 原型链 Prototype
   * 原型开发
 * 事件
+  * 单线程和异步队列
+  * 事件冒泡和捕获
+  * 事件代理
   * 回调函数
   * event对象高级应用
   * Promise
