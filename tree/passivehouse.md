@@ -1,5 +1,6 @@
 ---
 layout: tree
+tree: active
 notes: passive
 projects: passive
 title: Passive House

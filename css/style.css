@@ -45,7 +45,7 @@ header{
     border-bottom: solid 1px #eee;
     overflow: auto;
     margin-bottom: 40px;
-    padding: 12px 0px;
+    padding: 21px 0px;
     font-size: 16px;
 }
 
@@ -236,3 +236,18 @@ footer p a:hover{
     line-height: 2;
 }
 
+
+/* 404 */
+.error p{
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.error p span{
+    display: inline-block;
+    margin: 40px;
+    font-size: 220px;
+    font-weight: 700;
+    color: #aa2000;
+}

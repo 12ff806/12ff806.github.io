@@ -1,5 +1,6 @@
 ---
 layout: post
+tree: passive
 notes: active
 projects: passive
 title: Macbook 安装 ArchLinux

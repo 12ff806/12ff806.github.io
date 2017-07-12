@@ -1,5 +1,6 @@
 ---
 layout: post
+tree: passive
 notes: active
 projects: passive
 title: problem with debmirror
