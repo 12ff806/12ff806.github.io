@@ -208,8 +208,8 @@ footer p a:hover{
 .tree .tree-content ul,
 .post .post-content ol,
 .post .post-content ul{
-    padding: 5px 50px;
-    margin: 10px 0px;
+    padding: 0px 50px;
+    margin: 5px 0px;
     line-height: 2;
     font-size: 14px;
 }
@@ -217,6 +217,11 @@ footer p a:hover{
 .tree .tree-content ul,
 .post .post-content ul{
     list-style-type: square;
+}
+
+.tree .tree-content .linethrough,
+.post .post-content .linethrough{
+    text-decoration: line-through;
 }
 
 
