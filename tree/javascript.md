@@ -11,12 +11,21 @@ date: 2017-07-12
 {::options auto_ids="false" /}
 
 
-* 变量
-* string
-* number
-* boolean
-* null undefined
-* 内置对象 Date
+## JavaScript 语言基础
+
+* 变量定义
+* 数据类型 
+  * string (基本数据类型)
+  * number (基本数据类型)
+  * boolean (基本数据类型)
+  * null
+  * undefined
+  * object (引用数据类型)
+* 内置对象
+  * Date
+  * Array
+  * JSON
+  * RegExp
 * 数组
   * 数组高级应用
 * 控制流程 if / switch / for / while
@@ -55,6 +64,19 @@ date: 2017-07-12
   * apply
   * bind
 * 设计模式
+
+## DOM
+
+* dom 操作 
+
+## BOM
+
+* window
+* 定时器
+  * setTimeOut()
+  * setInterval()
+
+## 交互
 * ajax
 * json
 * json Dom解析
