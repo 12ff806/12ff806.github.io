@@ -112,13 +112,13 @@ web后端
 项目
 * 旅行 地图相关
 * 音乐清单 - 爬取个人网站上的数据
-* 电影爬虫 | 电影清单 - 爬取个人网站上的数据
+* 电影爬虫 - 电影清单 - 爬取个人网站上的数据
 * gps track viewer
-* blog | markdown
+* blog - markdown
 * 学习英语的记事本
 * 仿课程图谱
 * 抢票软件
-* fuckgfw | tor
+* fuckgfw - tor
 * 类似 www.globalfreeloaders.com 提供免费住宿的网页
 * 搭便车
 * 飞行器

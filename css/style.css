@@ -27,6 +27,11 @@ h2{
     font-size: 16px;
 }
 
+h3{
+    font-size: 14px;
+    font-weight: normal;
+}
+
 p{
     line-height: 1.5;
 }
@@ -189,6 +194,11 @@ footer p a:hover{
     color: #555;
 }
 
+.tree .tree-content h3,
+.post .post-content h3{
+    margin: 12px 0px;
+}
+
 .tree .tree-content p,
 .post .post-content p{
     margin: 10px 0px;
@@ -208,9 +218,9 @@ footer p a:hover{
 .tree .tree-content ul,
 .post .post-content ol,
 .post .post-content ul{
-    padding: 0px 50px;
+    padding: 0px 35px;
     margin: 5px 0px;
-    line-height: 2;
+    line-height: 1.6;
     font-size: 14px;
 }
 

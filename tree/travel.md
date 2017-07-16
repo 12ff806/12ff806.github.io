@@ -63,20 +63,23 @@ date: 2017-07-12
 * 抓绒裤 --- marmot / the north face / decathlon
 * 牛仔裤 --- levi's(511-29) / lee(706)
 * 休闲裤 --- gap / hm / 优衣裤
-* 羽绒服[可打包] --- marmot / the north face / 优衣裤
+* 羽绒服(可打包) --- marmot / the north face / 优衣裤
 * 卫衣 --- onitsuka tiger / the north face
 * T恤 --- lee(s) / levi's / onitsuka tiger / the north face / decathlon
-* 内裤 --- decathlon
+* 内衣 --- decathlon
 * 拖鞋 --- decathlon
 * 毛巾 --- decathlon
 * 袜子 --- decathlon
 * 手电 --- decathlon
-* 睡袋[抓绒] --- decathlon
-* 睡袋[羽绒] --- 黑冰
+* 睡袋(抓绒) --- decathlon
+* 睡袋(羽绒) --- 黑冰
 * 防潮垫 --- 锡箔纸 / 泡沫
-* 帐篷[双层单人] --- 公狼 / 三峰
-* 吊床 --- 非帆布
-* 餐具 --- 锅 + 炉头 + 气罐
-* 水壶 / 水袋(一般用不着)
+* 帐篷(双层单人) --- 公狼 / 三峰
+* 吊床(非帆布)
+* 锅
+* 炉头
+* 气罐
+* 水壶
+* 水袋(一般用不着)
 * 户外品牌 --- arc'teryx / mammut / marmot / mountain hardwear / patagonia / haglofs / the north face / decathlon
 
