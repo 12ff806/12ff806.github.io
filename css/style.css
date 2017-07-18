@@ -211,6 +211,9 @@ footer p a:hover{
     border-radius: 5px;
     padding: 20px;
     background-color: #f8f8f8;
+    /*
+    color: #f03030;
+    */
     overflow: auto;
 }
 
@@ -234,10 +237,9 @@ footer p a:hover{
     text-decoration: line-through;
 }
 
-.tree .tree-content .highlight,
-.post .post-content .highlight{
+.tree .tree-content .important,
+.post .post-content .important{
     color: #f03030;
-    font-weight: 600;
 }
 
 
