@@ -234,6 +234,13 @@ footer p a:hover{
     text-decoration: line-through;
 }
 
+.tree .tree-content .highlight,
+.post .post-content .highlight{
+    color: #f03030;
+    font-weight: 600;
+}
+
+
 
 /* about */
 .about{
