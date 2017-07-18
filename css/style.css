@@ -54,13 +54,11 @@ header{
     font-size: 16px;
 }
 
-header nav .title{
-    padding: 6px 0px;
-    color: #333;
-}
-
 header nav .title a{
-    color: inherit;
+    display: inline-block;
+    padding: 3px 0px;
+    margin-left: 1px;
+    color: #000;
 }
 
 header nav ul{
@@ -70,27 +68,33 @@ header nav ul{
 
 header nav ul li{
     float: left;
-    padding: 6px;
-    margin-left: 5px;
-    border-radius: 5px;
+    margin-left: 3px;
 }
 
 header nav ul li a{
-    color: inherit;
+    display: inline-block;
+    padding: 3px 0px;
+    border: solid 1px #00a0aa;
+    border-radius: 3px;
+    color: #00a0aa;
+    width: 70px;
+    text-align: center;
 }
 
-header nav ul li.active{
+header nav ul li a.active{
     color: #fff;
     background-color: #00a0aa;
 }
 
-header nav ul li.passive{
-    color: #00a0aa;
-    background-color: #fff;
+header nav ul li a.passive:hover{
+    color: #fff;
+    background-color: #00a0aa;
 }
 
-header nav ul li.passive:hover{
-    background-color: #eee;
+header a.github_tag{
+    position: fixed;
+    top: 0px;
+    left: 0px;
 }
 
 
