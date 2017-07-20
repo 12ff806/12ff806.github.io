@@ -6,7 +6,7 @@
 body{
     font-family: "Helvetica Neue", Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
     font-size: 14px;
-    color: #666;
+    color: #555;
 }
 
 a{
@@ -59,6 +59,7 @@ header nav .title a{
     padding: 3px 0px;
     margin-left: 1px;
     color: #000;
+    letter-spacing: 1px;
 }
 
 header nav ul{
@@ -74,21 +75,22 @@ header nav ul li{
 header nav ul li a{
     display: inline-block;
     padding: 3px 0px;
-    border: solid 1px #00a0aa;
+    border: solid 1px #000;
     border-radius: 3px;
-    color: #00a0aa;
-    width: 70px;
+    color: #000;
+    width: 75px;
     text-align: center;
+    letter-spacing: 1px;
 }
 
 header nav ul li a.active{
     color: #fff;
-    background-color: #00a0aa;
+    background-color: #000;
 }
 
 header nav ul li a.passive:hover{
     color: #fff;
-    background-color: #00a0aa;
+    background-color: #000;
 }
 
 header a.github_tag{
@@ -112,7 +114,7 @@ footer p{
 }
 
 footer p a{
-    color: #00a0aa;
+    color: #aaa;
 }
 
 footer p a:hover{
@@ -161,7 +163,7 @@ footer p a:hover{
 .trees ul li a,
 .projects ul li a,
 .posts table tr td ul li a{
-    color: #00a0aa;
+    color: #000;
     font-size: 14px;
     letter-spacing: 1px;
 }
@@ -180,7 +182,7 @@ footer p a:hover{
     border-bottom: solid 1px #eee;
     margin: 40px 0px 5px 0px;
     padding-bottom: 2px;
-    color: #444;
+    color: #333;
 }
 
 .tree .meta,
@@ -195,7 +197,7 @@ footer p a:hover{
     border-bottom: solid 1px #eee;
     padding-bottom: 2px;
     margin: 30px 0px 18px 0px;
-    color: #555;
+    color: #444;
 }
 
 .tree .tree-content h3,
@@ -215,9 +217,6 @@ footer p a:hover{
     border-radius: 5px;
     padding: 20px;
     background-color: #f8f8f8;
-    /*
-    color: #f03030;
-    */
     overflow: auto;
 }
 
@@ -277,5 +276,5 @@ footer p a:hover{
     margin: 40px;
     font-size: 220px;
     font-weight: 700;
-    color: #aa2000;
+    color: #bb4400;
 }
