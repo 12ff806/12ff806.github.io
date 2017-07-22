@@ -44,7 +44,7 @@ web后端
 
 技术栈
 * tools
-  * github page - 写博客
+  * github page
   {: .linethrough }
   * vim
   * emacs
