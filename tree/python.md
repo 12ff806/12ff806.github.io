@@ -13,7 +13,7 @@ date: 2017-07-12
 
 ## Python 基础
 
-* 数据类型
+* 基础数据类型
   * 数字
     * 整型
     * 浮点
@@ -22,17 +22,9 @@ date: 2017-07-12
   * 布尔
     * True
     * False
-  * 列表
-    * 可变的
-    * 切片
-    * 可迭代
-    * 列表生成式
-  * 元组
-    * 不可变
-    * 切片
-    * 可迭代
-  * 字典
-    * 可迭代
+  * 列表 (可变的/切片/可迭代/列表生成式)
+  * 元组 (不可变/可迭代/切片)
+  * 字典 (可迭代)
   * 集合
   * None
 * 变量
@@ -64,13 +56,15 @@ date: 2017-07-12
 * generator
 * iterator
 * 模块
+  * 使用模块
+  * 安装第三方模块
 * 面向对象
   * 类和实例
   * 访问限制(私有属性)
   * 继承和多态
   * 获取对象信息
   * 实例属性和类属性
-  * 使用 \__slots__
+  * 使用 \_\_slots\_\_
   * 使用 @property
   * 多重继承
   ^
@@ -79,12 +73,100 @@ date: 2017-07-12
   * 使用元类
   {: .important }
 
-## 工程化
 
-* 错误/调试/测试
-  * 错误处理
-  * 调试
-  * 单元测试
-  * 文档测试
+## 错误/调试/测试
+
+* 错误处理
+* 调试
+* 单元测试
+* 文档测试
+
+
+## IO操作
+
+* 文件读写
+* StringIO
+* BytesIO
+* 操作文件和目录
+* 序列化
+
+
+## 进程和线程
+
+* 多进程
+* 多线程
+* ThreadLocal
+* 进程 vs 线程
+* 分布式进程
+
+
+## 正则表达式
+
+
+## virtualenv
+
+
+## 常用内建模块
+
+* datetime
+* collections
+* base64
+* struct
+* hashlib
+* itertools
+* contextlib
+* XML
+* HTMLParser
+* urllib
+
+
+## 常用第三方模块
+
+* PIL (Pillow)
+
+
+## 图形界面
+
+* tkinter
+
+
+## 网络编程
+
+* TCP/IP 简介
+* TCP 编程
+* UDP 编程
+
+
+## 电子邮件
+
+* SMTP 发送邮件
+* POP3 收取邮件
+
+
+## 数据库
+
+* SQLite
+* MySQL
+* SQLAlchemy
+
+
+## Web开发
+
+* HTTP 协议简介
+* HTML 简介
+* WSGI 接口
+* Flask 框架
+* 模板引擎
+
+
+## 异步IO
+
+* 协程
+* asyncio
+* async/await
+* aiohttp
+
+
+## 项目
 
 
