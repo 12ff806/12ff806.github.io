@@ -90,7 +90,7 @@ True
 ~~~
 
 
-## 生成器函数
+## 生成器函数和 yield 表达式
 
 如果生成算法比较复杂, 用生成器表达是无法实现时, 还可以使用生成器函数来实现. 下面用生成器函数实现 Fibonacci:
 
@@ -219,6 +219,61 @@ while True:
 [1, 9, 36, 84, 126, 126, 84, 36, 9, 1]
 Done
 ~~~
+
+
+## 生成器的方法
+
+先来看个例子:
+
+~~~sh
+>>> def echo(value=None):
+...     print("Execution starts when 'next()' is called for the first time.")
+...     try:
+...         while True:
+...             try:
+...                 value = (yield value)
+...             except Exception as e:
+...                 value = e
+...     finally:
+...         print("Don't forget to clean up when 'close()' is called.")
+... 
+>>> g = echo(1)
+>>> g
+<generator object echo at 0x7fa8807bff10>
+>>> next(g)
+Execution starts when 'next()' is called for the first time.
+1
+>>> print(next(g))
+None
+>>> print(g.send(3))
+3
+>>> print(g.send("hello sin"))
+hello sin
+>>> g.throw(TypeError, "spam")
+TypeError('spam',)
+>>> g.close()
+Don't forget to clean up when 'close()' is called.
+~~~
+
+generator.send(value)
+
+yield 表达式不仅可以发送值, 还能接收值. 生成器的 send(value) 方法会发送一个值(参数 value)给生成器函数, 这个参数 value 就会被当前的 yield 表达式接收成为它的值. 同时 send(value) 方法会返回生成器 yield 的下一个值, 或者当生成器没有值的时候抛出 StopIteration 异常. 如果在 generator 刚生成的时候就调用 send() 方法, 那么 send() 的参数就必须使用 None, 因为这是时候生成器里还没有 yield 表达式能够接收这个参数 value.
+
+generator.throw(type[, value[, traceback]])
+
+在生成器上一次停止的地方抛出一个 type (参数 type) 类型的异常, 并且返回生成器的下一个值. 如果正好生成器没有值了, 就会抛出 StopIteration 的异常. 如果生成器函数没有捕获 throw() 方法传送的异常, 或者生成器函数抛出了一个不一样的异常, 那么这个异常会传递给调用者.
+
+generator.close()
+
+
+
+
+## yield from
+
+When yield from <expr> is used, it treats the supplied expression as a subiterator. All values produced by that subiterator are passed directly to the caller of the current generator’s methods. Any values passed in with send() and any exceptions passed in with throw() are passed to the underlying iterator if it has the appropriate methods. If this is not the case, then send() will raise AttributeError or TypeError, while throw() will just raise the passed in exception immediately.
+
+
+## 异步生成器函数
 
 
 
