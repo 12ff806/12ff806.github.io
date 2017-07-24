@@ -261,16 +261,16 @@ yield 表达式不仅可以发送值, 还能接收值. 生成器的 send(value) 
 
 generator.throw(type[, value[, traceback]])
 
-在生成器上一次停止的地方抛出一个 type (参数 type) 类型的异常, 并且返回生成器的下一个值. 如果正好生成器没有值了, 就会抛出 StopIteration 的异常. 如果生成器函数没有捕获 throw() 方法传送的异常, 或者生成器函数抛出了一个不一样的异常, 那么这个异常会传递给调用者.
+在生成器上次停止的地方抛出一个 type (参数 type) 类型的异常, 并且返回生成器的下一个值. 如果正好生成器没有值了, 就会抛出 StopIteration 的异常. 如果生成器函数没有捕获 throw() 方法传送的异常, 或者生成器函数抛出了一个不一样的异常, 那么这个异常会传递给调用者.
 
 generator.close()
 
-
+在生成器上次停止的地方抛出一个 GeneratorExit 异常, 生成器函数就会优雅地退出, 停止 yield a value 给调用者. 如果生成器已经是退出的, 那调用 close() 方法就不会做任何事情.
 
 
 ## yield from
 
-When yield from <expr> is used, it treats the supplied expression as a subiterator. All values produced by that subiterator are passed directly to the caller of the current generator’s methods. Any values passed in with send() and any exceptions passed in with throw() are passed to the underlying iterator if it has the appropriate methods. If this is not the case, then send() will raise AttributeError or TypeError, while throw() will just raise the passed in exception immediately.
+当使用 yield from \<expr\> 语句时, 表示将 yield from 后面的表达式作为一个子迭代器, 由子迭代器产生的所有的值直接传递给当前生成器方法的调用者. 通过 send 方法传递的值或者 throw() 方法传递的异常都直接传递给底层迭代器, 如果它具有适当的方式来处理的话. 如果没有适当的处理方式, 那么 send() 方法将抛出 AttributeError 异常或者 TypeError 异常, throw() 方法将立马抛出正传递的异常.
 
 
 ## 异步生成器函数
