@@ -31,17 +31,18 @@ web后端
   * 后端入门
 
 项目
-0. HELLO GITHUB
-1. web开发 博客 论坛 CMS WIKI flask bottle
-2. 爬虫
+1. HELLO GITHUB
+2. web开发 博客 论坛 CMS WIKI flask bottle
+3. 爬虫
   * 模拟登录 - 微信/微博 (https://github.com/xchaoinfo/fuck-login) (https://foofish.net/python-auto-login-zhihu.html)
   * 多线程 / 多进程 / 协程
   * 代理
-3. 12306抢票
-4. 求职信息爬取及分析
-5. 自然语言处理
-6. XSS 前端安全
-7. 单页应用
+  * http://cuiqingcai.com/category/technique/python
+4. 12306抢票
+5. 求职信息爬取及分析
+6. 自然语言处理
+7. XSS 前端安全
+8. 单页应用
 
 
 ## 重要
