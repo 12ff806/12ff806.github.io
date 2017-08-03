@@ -54,6 +54,8 @@ date: 2017-07-12
     * 阶乘
     * 汉诺塔
 * generator
+  * http://pyzh.readthedocs.io/en/latest/the-python-yield-keyword-explained.html
+  * http://blog.theerrorlog.com/yield-from-in-python-3.html
 * iterator
 * 模块
   * 使用模块
@@ -89,6 +91,7 @@ date: 2017-07-12
 * BytesIO
 * 操作文件和目录
 * 序列化
+* json
 
 
 ## 进程和线程
@@ -155,16 +158,31 @@ date: 2017-07-12
 * HTTP 协议简介
 * HTML 简介
 * WSGI 接口
+  * http://www.cnblogs.com/oceansea/p/5939453.html
 * Flask 框架
+  * https://spacewander.github.io/explore-flask-zh/index.html
 * 模板引擎
 
 
 ## 异步IO
 
 * 协程
+  * http://www.dabeaz.com/coroutines
+  * http://www.dabeaz.com/coroutines/Coroutines.pdf
 * asyncio
 * async/await
+  * https://ipfans.github.io/2015/10/coroutines-with-async-and-await-syntax-chinese
 * aiohttp
+
+
+## 爬虫
+
+* http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html
+* http://drafts.damnever.com/2015/A-Web-Crawler-With-asyncio-Coroutines.html
+* http://cuiqingcai.com/category/technique/python
+* book: Python网络数据采集.pdf
+* http://xchaoinfo.github.io
+* https://github.com/xchaoinfo/fuck-login
 
 
 ## 项目
