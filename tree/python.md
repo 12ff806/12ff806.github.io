@@ -175,6 +175,7 @@ date: 2017-07-12
   * (http://www.dabeaz.com/coroutines)
   * (http://www.dabeaz.com/coroutines/Coroutines.pdf)
   * (https://ipfans.github.io/2015/10/coroutines-with-async-and-await-syntax-chinese)
+  * (http://www.blog.pythonlibrary.org/2014/02/24/python-concurrency-an-intro-to-threads)
 
 
 ## python 设计模式
@@ -231,6 +232,7 @@ date: 2017-07-12
 * books
   * Python网络数据采集.pdf
 * links
+  * (https://github.com/luyishisi/Anti-Anti-Spider)
   * (http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
   * (http://drafts.damnever.com/2015/A-Web-Crawler-With-asyncio-Coroutines.html)
   * (https://compiletoi.net/fast-scraping-in-python-with-asyncio)
@@ -245,6 +247,8 @@ date: 2017-07-12
 
 ## 项目
 
+* Anti-Anti-Spider
+  * (https://github.com/luyishisi/Anti-Anti-Spider)
 * awesome-python-webapp
   * (https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001432170876125c96f6cc10717484baea0c6da9bee2be4000)
 * 500 Lines or Less
