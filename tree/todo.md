@@ -11,14 +11,14 @@ date: 2017-07-12
 {::options auto_ids="false" /}
 
 
-## web
+## 基础
 
 * javascript / css / html
 * 百度ife: 基础 / 商业平台 / 糯米 / 可视化 / 移动web
-* freecodecamp
 * 各种排序算法的可视化
-* python
+* freecodecamp
 * udacity
+* python
 * 数据库
 * 网络基础
 * web开发
