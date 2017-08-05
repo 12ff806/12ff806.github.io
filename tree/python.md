@@ -233,12 +233,23 @@ date: 2017-07-12
 * books
   * Python网络数据采集.pdf
 * links
-  * (https://github.com/luyishisi/Anti-Anti-Spider)
+  * (http://drafts.damnever.com/2015/A-Web-Crawler-With-asyncio-Coroutines.html)
   * (http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
+  * (http://www.cnblogs.com/zhijun/)
+  * (http://blog.csdn.net/whd526/article/details/52279174)
+  * (http://www.cnblogs.com/jixin/p/5144333.html)
+  * (http://blog.csdn.net/seven_2016/article/details/52245727)
+  * (https://www.zhihu.com/question/21395276/answer/115805610)
+  * (https://github.com/luyishisi/Anti-Anti-Spider)
   * (http://drafts.damnever.com/2015/A-Web-Crawler-With-asyncio-Coroutines.html)
   * (https://compiletoi.net/fast-scraping-in-python-with-asyncio)
   * (http://cuiqingcai.com/category/technique/python)
   * (http://xchaoinfo.github.io)
+  * (https://www.urlteam.org/category/web_crawlers)
+  * (https://zhuanlan.zhihu.com/c_68756530)
+  * (https://www.urlteam.org/2016/09/%E7%A0%B4%E8%A7%A3%E6%9F%90%E6%BB%91%E5%8A%A8%E8%A1%8C%E4%B8%BA%E9%AA%8C%E8%AF%81%E9%AA%8C%E8%AF%81%E7%A0%81)
+  * (https://zhuanlan.zhihu.com/p/24062137)
+  * (https://zhuanlan.zhihu.com/Ehco-python)
   * (https://yq.aliyun.com/articles/26043?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_11234)
   * (https://yq.aliyun.com/articles/26030?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_11235)
   * (https://yq.aliyun.com/articles/26050?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_11236)
@@ -251,6 +262,8 @@ date: 2017-07-12
 
 * HELLO GITHUB
   * (https://hellogithub.com/category/Python%20%E9%A1%B9%E7%9B%AE)
+* qrcode
+  * (https://github.com/sylnsfar/qrcode)
 * ngrok - Introspected tunnels to localhost
   * (https://github.com/inconshreveable/ngrok)
 * awesome-python-webapp
