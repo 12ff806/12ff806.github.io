@@ -235,6 +235,7 @@ date: 2017-07-12
 * links
   * (http://drafts.damnever.com/2015/A-Web-Crawler-With-asyncio-Coroutines.html)
   * (http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
+  * (https://foofish.net)
   * (http://www.cnblogs.com/zhijun/)
   * (http://blog.csdn.net/whd526/article/details/52279174)
   * (http://www.cnblogs.com/jixin/p/5144333.html)
@@ -262,6 +263,11 @@ date: 2017-07-12
 
 * HELLO GITHUB
   * (https://hellogithub.com/category/Python%20%E9%A1%B9%E7%9B%AE)
+* itchat
+  * (https://github.com/littlecodersh/ItChat)
+  * (https://itchat.readthedocs.io/zh/latest/)
+  * (http://python.jobbole.com/84918/)
+  * (http://python.jobbole.com/86532/)
 * qrcode
   * (https://github.com/sylnsfar/qrcode)
 * ngrok - Introspected tunnels to localhost
@@ -299,9 +305,6 @@ date: 2017-07-12
   * (http://blog.jobbole.com/94326)
   * (http://blog.jobbole.com/94686)
   * (http://blog.jobbole.com/95145)
-* 爬取在线教程制作成 PDF
-  * (https://foofish.net/python-crawler-html2pdf.html)
-  * (https://github.com/lzjun567/crawler_html2pdf/tree/master/pdf)
 * fuck-login
   * (https://github.com/xchaoinfo/fuck-login)
 * fake-useragent
