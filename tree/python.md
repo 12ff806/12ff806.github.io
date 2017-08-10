@@ -242,7 +242,6 @@ date: 2017-07-12
   * (http://blog.csdn.net/seven_2016/article/details/52245727)
   * (https://www.zhihu.com/question/21395276/answer/115805610)
   * (https://github.com/luyishisi/Anti-Anti-Spider)
-  * (http://drafts.damnever.com/2015/A-Web-Crawler-With-asyncio-Coroutines.html)
   * (https://compiletoi.net/fast-scraping-in-python-with-asyncio)
   * (http://cuiqingcai.com/category/technique/python)
   * (http://xchaoinfo.github.io)

@@ -13,15 +13,19 @@ date: 2017-07-12
 
 ## 基础
 
-* javascript / css / html
+* javascript / css / html - 进阶
+* python - 进阶
+* 数据库 - sqlite - mysql - redis - mongodb - memcached
+* 网络基础 - python 网络编程基础
+* web开发 - blog - wiki - 问答社区
+* 提出问题 >> 数据采集(爬虫/api) >> 清洗数据 >> 数据分析 >> 可视化/分享
+
+
+## 学习平台
+
 * 百度ife: 基础 / 商业平台 / 糯米 / 可视化 / 移动web
-* 各种排序算法的可视化
 * freecodecamp
 * udacity
-* python
-* 数据库
-* 网络基础
-* web开发
 
 
 ## 项目
@@ -51,6 +55,7 @@ date: 2017-07-12
 * 类似 www.globalfreeloaders.com 提供免费住宿的网页
 * 搭便车
 * 飞行器
+  * (https://www.urlteam.org/2017/06/diy%e9%a3%9e%e8%a1%8c%e5%99%a8%e5%88%b6%e4%bd%9c%e6%b5%81%e7%a8%8b%ef%bc%88%e7%ba%af%e6%89%8b%e5%b7%a5%e5%86%99%e5%99%a2%ef%bc%89/)
 
 
 ## 英语
@@ -61,6 +66,7 @@ date: 2017-07-12
 
 
 ## 哲学
+
 * 网易公开课 - 死亡
 ^
 * 网易公开课 - 幸福课
