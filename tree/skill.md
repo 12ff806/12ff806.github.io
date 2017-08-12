@@ -11,115 +11,192 @@ date: 2017-08-05
 {::options auto_ids="false" /}
 
 
-## 工具
+## 操作系统
 
-* vim
-* emacs
-* git
-* markdown - kramdown
-
-
-## 系统管理
-
-* shell
-* zsh
-* arch linux
-* kaili linux
-* lfs
+* linux kernel
+* minix
+* 自己写简单的操作系统
 
 
-## web 前端
-  
-* html
-* css
-* javascript
-* jquery
-* bootstrap
-* vue
+## 计算机语言
+
+* 各种编程语言
+  * python
+  * R
+  * matlab
+  * javascript
+  * asm
+  * c
+  * scheme
+  * common lisp
+  * haskell
+  * prolog
+  * smalltalk
+  * erlang
+  * lua
+  * ruby
+  * perl
+  * go
+* 编译原理
 
 
-## web 后端
-  
-* node.js
-* python - dive into python
-* flask
-* django
-* http - http权威指南
-* regular expressions
-* json
+## 计算机网络
+
+* 各种协议/原理
+  * TCP/IP
+  * HTTP
 
 
 ## 数据库
 
-* sqlite
-* mysql
-* postgrasql
-* mongodb
-* redis
+* 各种数据库
+  * sqlite
+  * mysql
+  * postgrasql
+  * mongodb
+  * redis
+* 数据库原理和实现
 
 
-## web 服务器
-
-* nginx
-* apache
-* lighttpd
-* rhserver
-* squid
+## 数据结构与算法
 
 
-## 语言
-
-* python
-* javascript
-* c
-* scheme
-* asm
-* R
-* matlab
-* haskell
-* prolog
-* smalltalk
-* erlang
-* common lisp
-
-
-## 数据结构
-
-
-## 算法
-
-
-## linux 编程
+## LINUX 编程
 
 * linux programming
-
-
-## 网络 & 网络编程
-
-* network
 * network programming
 
 
-## os
+## LINUX 系统管理
 
-* 自己写简单的操作系统
-* linux kernel
-* minix
+* Tools
+  * vim
+  * emacs
+  * git
+  * github
+  * kramdown
+* Shell
+  * bash
+  * zsh
+* Operating System
+  * arch
+  * kaili
+  * lfs
+* Web Server
+  * Nginx
+  * Apache
+  * Lighttpd
+  * Rhserver
+* Reverse Proxy
+  * Nginx
+* Caching Server
+  * Squid
+  * Nginx
+  * Varnish
+* Load Balancer
+  * HAProxy
+  * Nginx
+* Ftp Server
+  * sftp
+* SSH 
+* Automation
+  * Puppet
+  * Ansible
+* Monitoring and Alerting
+  * Nagios
+* Containers
+  * LXC
+  * Docker
+* Cluster Manager
+  * Docker Swarm
+  * Kubernetes
+  * Mesos
+  * Nomad
 
 
-## ai
+## WEB 全栈
+
+* 基础
+  * HTTP/HTTPS
+  * WebSocket
+  * JSON
+  * AJAX
+* 前端
+  * HTML
+  * CSS
+    * CSS3
+    * Responsive Web
+    * Sass
+    * Bootstrap
+  * JavaScript
+    * ES6
+    * TypeScript
+    * npm
+    * gulp
+    * Yarn
+    * webpack
+    * jQuery
+    * Vue.js
+* 后端
+  * node.js
+    * Express
+  * python
+    * aiohttp
+    * Tornado
+    * Flask
+    * Django
+    * unittest/pyUnit
+  * Storage
+    * MySQL
+    * MariaDB
+    * PostgreSQL
+    * MongoDB
+    * Redis
+    * Memcached
+  * Regular Expressions
+  * RESTful APIs
+  * Authentication
+    * OAuth 2.0
+    * JSON Web Token
+  * Search Engines
+    * ElasticSearch
+  * GOF Design Patterns
+  * Architectural
+    * MVC
+  * Testing
+  * Security
+
+
+## 数据分析
+
+* 数据分析
+  * 数据采集
+  * 数据清洗
+  * 数据分析
+  * 数据可视化
+* 数据挖掘
+
+
+## AI
 
 * 机器学习
-* 自然语言处理
-* 数据挖掘
 * 深度学习
-* 神经网络
+* 自然语言处理
+* 图像处理
+* 推荐系统
 
 
-## 硬件
+## IOT
 
-* arm
-* arduino
+* Arduino
 * 树莓派
+* ARM
 * 飞行器
+* 机器人
+
+
+## 安全
+
+* 渗透测试
+
 
