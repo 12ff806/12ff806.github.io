@@ -164,6 +164,7 @@ date: 2017-07-12
   * (http://www.cnblogs.com/oceansea/p/5939453.html)
   * (https://spacewander.github.io/explore-flask-zh/index.html)
   * (http://mingxinglai.com/cn/2016/08/flask-source-code)
+  * (https://crackstation.net/hashing-security.htm)
 
 
 ## 异步IO
