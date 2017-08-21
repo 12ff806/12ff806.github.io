@@ -259,6 +259,10 @@ date: 2017-07-12
   * (http://www.gatherproxy.com/zh/proxylistbycountry)
 
 
+## 用Python做科学计算
+  * (http://old.sebug.net/paper/books/scipydoc/index.html)
+
+
 ## 项目
 
 * HELLO GITHUB
