@@ -236,6 +236,7 @@ date: 2017-07-12
 * links
   * (http://drafts.damnever.com/2015/A-Web-Crawler-With-asyncio-Coroutines.html)
   * (http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
+  * (https://www.gitbook.com/book/piaosanlang/spiders/details)
   * (https://foofish.net)
   * (http://www.cnblogs.com/zhijun/)
   * (http://blog.csdn.net/whd526/article/details/52279174)
