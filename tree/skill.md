@@ -3,7 +3,7 @@ layout: tree
 tree: active
 notes: passive
 projects: passive
-title: Skill Tree
+title: 技能树
 date: 2017-08-05
 ---
 
@@ -21,10 +21,10 @@ date: 2017-08-05
 ## 计算机语言
 
 * 各种编程语言
-  * python
+  * [python](/tree/python)
   * R
   * matlab
-  * javascript
+  * [javascript](/tree/javascript)
   * asm
   * c
   * scheme
@@ -58,7 +58,7 @@ date: 2017-08-05
 * 数据库原理和实现
 
 
-## 数据结构与算法
+## [数据结构与算法](/tree/algorithms)
 
 
 ## LINUX 编程
@@ -123,7 +123,7 @@ date: 2017-08-05
   * AJAX
 * 前端
   * HTML
-  * CSS
+  * [CSS](/tree/css)
     * CSS3
     * Responsive Web
     * Sass
@@ -167,14 +167,7 @@ date: 2017-08-05
   * Security
 
 
-## 数据分析
-
-* 数据分析
-  * 数据采集
-  * 数据清洗
-  * 数据分析
-  * 数据可视化
-* 数据挖掘
+## [数据分析](/tree/data_analysis)
 
 
 ## AI
@@ -198,5 +191,16 @@ date: 2017-08-05
 ## 安全
 
 * 渗透测试
+* WEB 安全
+  * XSS
+  * CSRF
+  * 点击劫持
+  * URL 跳转
+  * SQL 注入
+  * 命令注入
+* 工具
+  * Nmap
+  * Kali Linux
+  * Spiderfoot
 
 
