@@ -293,6 +293,19 @@ footer p a:hover{
     color: #f03030;
 }
 
+.tree .tree-content table,
+.post .post-content table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tree .tree-content ul li,
+.post .post-content table tr td ul li{
+    padding: 10px 30px;
+    border: solid 1px #eee;
+    cursor: pointer;
+}
+
 
 /* 404 */
 .error p{
