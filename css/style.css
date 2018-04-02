@@ -295,6 +295,7 @@ footer p a:hover{
 
 .tree .tree-content table,
 .post .post-content table{
+    margin-top: 5px;
     width: 100%;
     border-collapse: collapse;
 }
@@ -302,7 +303,6 @@ footer p a:hover{
 .post .post-content table tr td{
     padding: 10px 30px;
     border: solid 1px #eee;
-    cursor: pointer;
 }
 
 
