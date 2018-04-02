@@ -299,8 +299,7 @@ footer p a:hover{
     border-collapse: collapse;
 }
 
-.tree .tree-content ul li,
-.post .post-content table tr td ul li{
+.post .post-content table tr td{
     padding: 10px 30px;
     border: solid 1px #eee;
     cursor: pointer;
