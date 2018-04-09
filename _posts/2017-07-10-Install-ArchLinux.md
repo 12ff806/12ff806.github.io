@@ -323,6 +323,11 @@ export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS=@im=fcitx
 /usr/bin/fcitx &
+
+$ su - root
+# gtk-query-immodules-2.0 > gtk.immodules
+# mv gtk.immodules /usr/lib/gtk-2.0/
+# cp gtk.immodules 2.10.0/
 ```
 
 install fonts:
