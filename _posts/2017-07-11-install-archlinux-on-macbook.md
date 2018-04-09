@@ -65,3 +65,7 @@ date: 2017-07-11
 * 图片查看 feh
 * 安装字体 ttf-inconsolata (~/.Xresources: "URxvt.font: xft:Inconsolata-Regular:size=18")
 * 墙 shadowsocks sslocal -c configfile
+
+## 10 参考 ##
+* https://wireless.wiki.kernel.org/en/users/Drivers/b43/developers
+* https://github.com/mbuesch/b43-tools
