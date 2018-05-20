@@ -77,14 +77,10 @@ body{
 #footer{
     clear: both;
     width: 450px;
+    text-align: center;
     margin: 15px auto 30px auto;
     font-size: 1em;
     color: #FFFFFF;
-}
-
-#footer-link{
-    width: 450px;
-    text-align: center;
 }
 
 #footer-by{
