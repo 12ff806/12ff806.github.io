@@ -79,8 +79,16 @@ body{
     width: 450px;
     margin: 15px auto 30px auto;
     font-size: 1em;
-    text-align: center;
     color: #FFFFFF;
+}
+
+#footer-link{
+    width: 450px;
+    text-align: center;
+}
+
+#footer-by{
+    float: right;
 }
 
 #footer a{
