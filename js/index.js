@@ -35,15 +35,15 @@ function get_quote(){
                 // change the color
                 var color = Math.floor(Math.random() * colors.length);
                 var bodyObj = document.getElementsByTagName("body")[0];
-                var buttonObj = document.getElementById("opt-button");
-                var buttonsObj = buttonObj.getElementsByTagName("a");
-                var newButtonObj = document.getElementById("new-quote");
+                //var buttonObj = document.getElementById("opt-button");
+                //var buttonsObj = buttonObj.getElementsByTagName("a");
+                //var newButtonObj = document.getElementById("new-quote");
                 bodyObj.style.backgroundColor = colors[color];
                 bodyObj.style.color = colors[color];
-                for(var i = 0; i < buttonsObj.length; i++){
-                    buttonsObj[i].style.backgroundColor = colors[color];
-                }
-                newButtonObj.style.backgroundColor = colors[color];
+                //for(var i = 0; i < buttonsObj.length; i++){
+                //    buttonsObj[i].style.backgroundColor = colors[color];
+                //}
+                //newButtonObj.style.backgroundColor = colors[color];
             }
         }
         else{
@@ -64,6 +64,6 @@ function get_quote(){
 
 window.onload = function(){
     get_quote();
-    var newQuoteObj = document.getElementById("new-quote");
-    newQuoteObj.addEventListener("click", get_quote);
+    //var newQuoteObj = document.getElementById("new-quote");
+    //newQuoteObj.addEventListener("click", get_quote);
 }
