@@ -1,0 +1,90 @@
+body{
+    background-color: #333333;
+    color: #333333;
+    font-family: monospace;
+    font-weight: 400;
+}
+
+#quote-box{
+    width: 450px;
+    margin: 8% auto auto auto;
+    padding: 40px 50px;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+}
+
+#quote-left{
+    font-size: 64px;
+}
+
+#quote-text{
+    width: 450px;
+    font-size: 2em;
+    font-weight: 500;
+    text-align: center;
+}
+
+#quote-text #icon{
+    font-size: 1.0em;
+    margin-right: 2px;
+}
+
+#quote-author{
+    width: 450px;
+    height: auto;
+    font-size: 1.2em;
+    text-align: right;
+    padding-top: 20px;
+}
+
+#opt-button{
+    overflow: auto;
+    width: 450px;
+}
+
+.button{
+    border: none;
+    border-radius: 3px;
+    height: 38px;
+    background-color: #333333;
+    color: #FFFFFF;
+    font-size: 1.2em;
+    padding: 8px 18px 6px 18px;
+    margin-top: 30px;
+    opacity: 1;
+}
+
+.button:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+#tweet-quote, #tumblr-quote, #weibo-quote, #wechat-quote{
+    float: left;
+    padding: 0px;
+    padding-top: 8px;
+    text-align: center;
+    font-size: 1.2em;
+    margin-right: 5px;
+    height: 30px;
+    width: 40px;
+}
+
+#new-quote{
+    float: right;
+}
+
+#footer{
+    clear: both;
+    width: 450px;
+    margin: 15px auto 30px auto;
+    font-size: 1em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#footer a{
+    font-weight: 500;
+    text-decoration: none;
+    color: #FFFFFF;
+}

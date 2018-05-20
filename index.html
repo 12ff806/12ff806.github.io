@@ -1,11 +1,29 @@
----
-layout: index
-title: Home
-tree: active
-notes: passive
-projects: passive
----
-
-<div class="index">
-    <div class="text"><a href="/tree">Welcome</a></div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Random Quote Machine | js - ajax</title>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.2.0/css/font-awesome.min.css"/>
+    <link href="css/random_quote_machine.css" type="text/css" rel="stylesheet">
+    <script src="js/random_quote_machine.js" type="text/javascript"></script>
+</head>
+<body>
+    <div id="quote-box">
+        <div id="quote-text">
+            <span class="fa fa-quote-left" id="icon"></span>
+            <span id="text"></span>
+        </div>
+        <div id="quote-author">
+            - <span id="author"></span>
+        </div>
+        <div id="opt-button">
+            <a class="button" id="tweet-quote"><span class="fa fa-twitter"></span></a>
+            <a class="button" id="tumblr-quote"><span class="fa fa-tumblr"></span></a>
+            <a class="button" id="wechat-quote"><span class="fa fa-wechat"></span></a>
+            <a class="button" id="weibo-quote"><span class="fa fa-weibo"></span></a>
+            <button class="button" id="new-quote">New quote</button>
+        </div>
+    </div>
+    <div id="footer"> by <a href="https://github.com/JanusZhao">sin</a></div>
+</body>
+</html>
