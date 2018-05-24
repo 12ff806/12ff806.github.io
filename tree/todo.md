@@ -11,15 +11,6 @@ date: 2017-07-12
 {::options auto_ids="false" /}
 
 
-## April 10, 2018
-
-* odoo user manual
-  * 销售
-  * 采购
-  * 库存
-* odoo developer manual
-
-
 ## todo
 
 * python - 进阶
