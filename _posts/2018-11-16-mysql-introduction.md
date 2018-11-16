@@ -3,7 +3,7 @@ layout: post
 tree: passive
 notes: active
 projects: passive
-title: mysql简单使用
+title: mysql 的简单使用
 date: 2018-11-16
 ---
 
