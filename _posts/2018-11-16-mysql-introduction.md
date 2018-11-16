@@ -66,7 +66,7 @@ $ mysql -udebian-sys-maint -p    # 登录 我这里的默认账户为"debian-sys
 
 ~~~sh
 mysql> use mysql;
-mysql> UPDATE user SET password=PASSWORD('new_password') WHERE User='debian-sys-maint' and Host='localhost'; 
+mysql> UPDATE user SET authentication_string=PASSWORD('new_password') WHERE User='debian-sys-maint' and Host='localhost'; 
 mysql> flush privileges;
 ~~~
 
