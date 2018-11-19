@@ -3,7 +3,7 @@ layout: post
 tree: passive
 notes: active
 projects: passive
-title: problem with debmirror
+title: Problem with Debmirror
 date: 2017-07-09
 ---
 

@@ -3,7 +3,7 @@ layout: post
 tree: passive
 notes: active
 projects: passive
-title: deploy debsources
+title: Deploy Debsources
 date: 2017-07-08
 ---
 

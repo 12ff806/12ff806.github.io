@@ -3,7 +3,7 @@ layout: post
 tree: passive
 notes: active
 projects: passive
-title: 在 archlinux 上安装 odoo11
+title: 在 ArchLinux 上安装 Odoo11
 date: 2018-04-09
 ---
 

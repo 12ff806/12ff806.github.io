@@ -3,7 +3,7 @@ layout: post
 tree: passive
 notes: active
 projects: passive
-title: Publishing your Bazaar branch on Launchpad
+title: Publishing Your Bazaar Branch on Launchpad
 date: 2017-07-11
 ---
 

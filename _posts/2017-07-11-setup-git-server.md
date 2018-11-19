@@ -3,7 +3,7 @@ layout: post
 tree: passive
 notes: active
 projects: passive
-title: set up git server
+title: Set Up Git Server
 date: 2017-07-11
 ---
 
