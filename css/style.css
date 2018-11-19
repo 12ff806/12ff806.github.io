@@ -104,7 +104,9 @@ header a.github_tag{
 footer{
     max-width: 700px;
     margin: 0px auto;
+    /*
     border-top: 1px solid #eee;
+    */
     padding: 10px 0px;
     font-size: 12px;
 }
