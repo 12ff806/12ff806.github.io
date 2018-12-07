@@ -6,7 +6,7 @@ body{
 }
 
 #img-box{
-    width: 600px;
+    width: 450px;
     margin: 8% auto auto auto;
     padding: 5px 5px 1px 5px;
     border-radius: 3px;
@@ -90,7 +90,7 @@ img{
 
 #footer{
     clear: both;
-    width: 600px;
+    width: 450px;
     text-align: center;
     margin: 15px auto 30px auto;
     font-size: 1em;
