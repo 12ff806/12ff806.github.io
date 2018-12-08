@@ -91,7 +91,10 @@ img{
 #footer{
     clear: both;
     width: 450px;
+    /*
     text-align: center;
+    */
+    text-align: right;
     margin: 15px auto 30px auto;
     font-size: 1em;
     color: #000000;
