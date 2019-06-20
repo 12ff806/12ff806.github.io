@@ -8,7 +8,7 @@ date: 2018-04-02
 ---
 
 
-## 参数传递 ##
+## 参数传递
 
 ~~~python3
 a = 1
@@ -35,7 +35,7 @@ print(a)    # [1]
 ~~~
 
 
-## 元类 ##
+## 元类
 
 元类就是创建类的东西。元类创建类，类创建实例。用class定义类本质上是使用内建函数type来创建。type函数的定义为：
 
@@ -115,14 +115,7 @@ print(Person.name)    # [1]
 
 ## Python自省
 
-获得对象的类型、属性等，比如type(), dir(), getattr(), hasattr(), isinstance().
-
-
-## 字典推导式
-
-~~~python3
-d = {key: value for (key, value) in iterable}
-~~~
+获得对象的类型、属性等，比如type(), dir(), getattr(), hasattr(), isinstance(), id().
 
 
 ## 私有属性
@@ -139,7 +132,9 @@ print(mc._semiprivate)    # World
 print(mc.__dict__)    # {'_MyClass__superprivate': 'Hello', '_semiprivate': 'World'}
 ~~~
 
-\_\_foo\_\_: Python内部的名字，用来区别其他用户自定义的命名。不能直接访问。
+\_\_foo\_\_: Python内部的名字，用来区别其他用户自定义的命名。能直接访问。
+
+\_\_foo: 私有属性，不能直接访问。
 
 \_foo: 一种用来指定私有变量的命名约定。可直接访问，但不建议。
 
@@ -155,9 +150,6 @@ print(mc.__dict__)    # {'_MyClass__superprivate': 'Hello', '_semiprivate': 'Wor
 ~~~python3
 "Hi there %s" % (name, )
 ~~~
-
-
-## 迭代器和生成器
 
 
 ## 函数参数及\*args & \**kwargs
@@ -215,16 +207,6 @@ print("d =", d)
 > c = [1, 2, 3, 4, ["a", "b", "d"]]
 > d = [1, 2, 3, 4, ["a", "b"]]
 ~~~
-
-
-## 装饰器
-
-
-## 鸭子类型
-
-
-## 新式类和旧式类
-
 
 
 ## \_\_new\_\_ & \_\_init\_\_
@@ -296,9 +278,6 @@ class MyClass(Singleton):
 ~~~
 
 
-## Python中的作用域
-
-
 ## super方法
 
 super并不是指父类，而是MRO中的下一个类。super其实干的是这件事：
@@ -310,28 +289,95 @@ def super(cls, inst):
 ~~~
 
 
-## 多进程 & 多线程
-
-
 ## GIL
 
 由于GIL的存在，对于任何Python程序，不管处理器有多少核，任何时候都只有一个线程在执行。
 
 
+## 列表生成式
+
+~~~python3
+d = [x**2 for x in range(10)]
+~~~
+
+
+## 字典生成式
+
+~~~python3
+d = {key: value for (key, value) in iterable}
+~~~
+
+
+## 集合生成式
+
+~~~python3
+d = {x**2 for x in range(10)}
+~~~
+
+
+## \_\_future\_\_
+
+用来兼容python2和python3，如在python2中使用print()函数
+
+~~~python2
+from __future__ import print_function
+
+print("print function in python2")
+~~~
+
+
+## for-else语句
+
+
+## Python中的作用域
+
+
 ## 垃圾回收机制
 
 
-## with
+## with 上下文管理器
+
+### 用类实现
+
+### 用生成器实现
 
 
 ## 闭包
 
 
+## 匿名函数
+
+
+## 函数式编程
+
+
+## 函数缓存
+
+
+## 装饰器
+
+### 用函数实现
+
+### 用类实现
+
+
+## 鸭子类型
+
+
+## 新式类和旧式类
+
+
+## 多进程 & 多线程
+
+
+## 迭代器和生成器
+
+
 ## 协程和异步IO
 
 
-## future
-
-
 ## select & poll & epoll
+
+
+## C扩展
 
