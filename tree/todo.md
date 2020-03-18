@@ -3,7 +3,7 @@ layout: tree
 tree: active
 notes: passive
 projects: passive
-title: Todo List
+title: Todo
 date: 2020-03-18
 ---
 

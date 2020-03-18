@@ -11,196 +11,133 @@ date: 2020-03-18
 {::options auto_ids="false" /}
 
 
-## 操作系统
+## 语言
+* 新概念英语
+* 简明法语教程
 
-* linux kernel
-* minix
-* 自己写简单的操作系统
+## 数学
+* 普林斯顿微积分读本
+* 线性代数
+* 概率论与数理统计
+* 机器学习数学基础
+* 离散数学
+* 具体数学
 
+## 统计学
+* 深入浅出统计学
+* 可汗学院统计学
+* 商务与经济统计
+
+## 算法
+* 数据结构与算法分析 C语言描述
+* 算法设计与分析基础
+* 算法引论
+* 编程原本
+* 编程语言实现模式
+* Writing Efficient Programs
+* The Algorithm Design Manual
+* 编程珠玑
+* 编程珠玑续
+* 算法导论
+* The Science of Programming
+* Algorithms - JeffE
+
+## Linux 编程
+* C程序设计语言
+* C和指针
+* C标准库
+* C接口与实现
+* Unix/Linux编程实践教程
+* Linux程序设计
+* Unix环境高级编程
+* Unix网络编程
+
+## Python and System Design
+* System Design (Github)
+* 500 Lines
+* Python Cookbook
+* dabeaz Python Tutorial
+* Redis in Action
+* MongoDB
+* Graph Databases 2e Neo4j
+* Python 数据分析
 
 ## 计算机语言
+* Rust
+* How To Design Programs
+* 计算机程序的构造和解释
+* The Little Schemer
 
-* 各种编程语言
-  * [python](/tree/python)
-  * R
-  * matlab
-  * [javascript](/tree/javascript)
-  * asm
-  * c
-  * scheme
-  * common lisp
-  * haskell
-  * prolog
-  * smalltalk
-  * erlang
-  * lua
-  * ruby
-  * perl
-  * go
-* 编译原理
-
-
-## 计算机网络
-
-* 各种协议/原理
-  * TCP/IP
-  * HTTP
-
-
-## 数据库
-
-* 各种数据库
-  * sqlite
-  * mysql
-  * postgrasql
-  * mongodb
-  * redis
-* 数据库原理和实现
-
-
-## [数据结构与算法](/tree/algorithms)
-
-
-## LINUX 编程
-
-* linux programming
-* network programming
-
-
-## LINUX 系统管理
-
-* Tools
-  * vim
-  * emacs
-  * git
-  * github
-  * kramdown
-* Shell
-  * bash
-  * zsh
-* Operating System
-  * arch
-  * kaili
-  * lfs
-* Web Server
-  * Nginx
-  * Apache
-  * Lighttpd
-  * Rhserver
-* Reverse Proxy
-  * Nginx
-* Caching Server
-  * Squid
-  * Nginx
-  * Varnish
-* Load Balancer
-  * HAProxy
-  * Nginx
-* Ftp Server
-  * sftp
-* SSH 
-* Automation
-  * Puppet
-  * Ansible
-* Monitoring and Alerting
-  * Nagios
-* Containers
-  * LXC
-  * Docker
-* Cluster Manager
-  * Docker Swarm
-  * Kubernetes
-  * Mesos
-  * Nomad
-
-
-## WEB 全栈
-
-* 基础
-  * HTTP/HTTPS
-  * WebSocket
-  * JSON
-  * AJAX
-* 前端
-  * HTML
-  * [CSS](/tree/css)
-    * CSS3
-    * Responsive Web
-    * Sass
-    * Bootstrap
-  * JavaScript
-    * ES6
-    * TypeScript
-    * npm
-    * gulp
-    * Yarn
-    * webpack
-    * jQuery
-    * Vue.js
-* 后端
-  * node.js
-    * Express
-  * python
-    * aiohttp
-    * Tornado
-    * Flask
-    * Django
-    * unittest/pyUnit
-  * Storage
-    * MySQL
-    * MariaDB
-    * PostgreSQL
-    * MongoDB
-    * Redis
-    * Memcached
-  * Regular Expressions
-  * RESTful APIs
-  * Authentication
-    * OAuth 2.0
-    * JSON Web Token
-  * Search Engines
-    * ElasticSearch
-  * GOF Design Patterns
-  * Architectural
-    * MVC
-  * Testing
-  * Security
-
-
-## [数据分析](/tree/data_analysis)
-
-
-## AI
-
-* 机器学习
+## 机器学习与深度学习
+* Machine Learning 吴恩达
+* CS229
+* 机器学习基石 林轩田
+* 机器学习技法 林轩田
+* 机器学习 周志华
+* 统计学系方法 李航
+* Hands-On Machine Learning with Scikit-Learn and Tensorflow
+* Kaggle
+* Scikit-Learn 官方文档
+* Deep Learning
+* Fast.ai 程序员深度学习实战
+* CS230 Deep Learning
+* 神经网络与深度学习 邱锡鹏
 * 深度学习
-* 自然语言处理
-* 图像处理
-* 推荐系统
+* 深度学习500问
+* Tensorflow 官方文档
+* PyTorch 官方文档
 
+## 强化学习
+* 深度强化学习 李宏毅
+* Reinforcement Learning David Silver
 
-## IOT
+## 自然语言处理
+* 统计自然语言处理基础
+* 自然语言处理综论
+* Python自然语言处理
+* 自然语言处理 Dan Jurafsky and Chris Manning
+* CS224N 斯坦福深度自然语言处理课
 
-* Arduino
-* 树莓派
-* ARM
-* 飞行器
-* 机器人
+## 计算机视觉
+* OpenCV3 编程入门
+* Computer Vision: Algorithms and applications
+* Computer Vision: Models, Learning and Inference
+* CS231n
+* CS223B
 
+## 推荐系统
+* Recommender Systems Handbook
+* 用户网络行为画像
+* 推荐系统 Dietmar jannach
+* 推荐系统实战 项亮
+* Recommender Systems Specialization
 
-## 安全
+## 机器人学
+* ROS
+* SLAM
+* 机器人学 建模 规划与控制
+* 机器人技术手册
+* Handbook of Robotics
 
-* 渗透测试
-* WEB 安全
-  * XSS
-  * CSRF
-  * 点击劫持
-  * URL 跳转
-  * SQL 注入
-  * 命令注入
-* 工具
-  * Nmap
-  * Kali Linux
-  * Spiderfoot
-
+## 复杂性科学
+* 复杂 一门诞生于秩序与混沌边缘的科学
+* 复杂
+* 规模 复杂世界的简单法则
+* 隐秩序 适应性造就复杂性
+* 链接 商业 科学 与生活的新思维
+* 宇宙为家
+* 从存在到演化
+* 预知社会 群体行为的内在法则
+* 失控
+* 哥德尔 艾舍尔 巴赫 集异璧之大成
+* 系统科学
+* 网络 群体与市场
+* 网络科学引论
+* 从抛物线谈起
+* 热力学与统计物理
+* 复杂性与临界现象
+* 信息论基础
+* 非线性动力学与混沌
+* 随机方法手册
+* A New kind of Science
 

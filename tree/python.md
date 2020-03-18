@@ -4,36 +4,15 @@ tree: active
 notes: passive
 projects: passive
 title: Python
-date: 2017-07-12
+date: 2020-03-18
 ---
 
 
 {::options auto_ids="false" /}
 
 
-## Python 基础
+## Python
 
-* 基础数据类型
-  * 数字
-    * 整型
-    * 浮点
-  * 字符串
-  * bytes
-  * 布尔
-    * True
-    * False
-  * 列表 (可变的/切片/可迭代/列表生成式)
-  * 元组 (不可变/可迭代/切片)
-  * 字典 (可迭代)
-  * 集合
-  * None
-* 变量
-* 常量
-* 字符编码
-* 控制语句
-  * if else
-  * for
-  * while
 * 函数
   * 函数参数
     * 位置参数
@@ -104,9 +83,6 @@ date: 2017-07-12
 
 
 ## 正则表达式
-
-
-## virtualenv
 
 
 ## 常用内建模块
@@ -231,8 +207,6 @@ date: 2017-07-12
 * 验证码 字符验证码 滑动验证码 12306验证码
 * 增量数据爬取 增量式抓取
 * 爬虫架构设计
-* books
-  * Python网络数据采集.pdf
 * links
   * (http://drafts.damnever.com/2015/A-Web-Crawler-With-asyncio-Coroutines.html)
   * (http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
@@ -310,8 +284,6 @@ date: 2017-07-12
   * (http://blog.jobbole.com/94326)
   * (http://blog.jobbole.com/94686)
   * (http://blog.jobbole.com/95145)
-* fuck-login
-  * (https://github.com/xchaoinfo/fuck-login)
 * fake-useragent
   * (https://github.com/hellysmile/fake-useragent)
 * Anti-Anti-Spider
