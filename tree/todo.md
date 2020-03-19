@@ -3,7 +3,7 @@ layout: tree
 tree: active
 notes: passive
 projects: passive
-title: todo
+title: Todo
 date: 2020-03-18
 ---
 
@@ -13,18 +13,18 @@ date: 2020-03-18
 
 ## 写代码
 * System Design (Github)
-* Python cookbook
-* unix/linux编程实践教程
+* Python Cookbook
+* Unix/Linux编程实践教程
+* Redis in Action
+* 12306 抢票
+* 玩树莓派
 * Python for Data Analysis
-* Redis实战
-* 12306抢票
-* 树莓派开发
 
 ## 算法
 * 剑指offer (Python实现)
 
 ## 英语
-* NCE 1 (3课/天)
+* NCE
 
 ## 数学
 * 普林斯顿微积分读本
