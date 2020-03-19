@@ -3,7 +3,7 @@ layout: tree
 tree: active
 notes: passive
 projects: passive
-title: english words
+title: words
 date: 2020-03-18
 ---
 
