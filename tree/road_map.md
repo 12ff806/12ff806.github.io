@@ -14,7 +14,7 @@ date: 2020-03-22
 ## 语言
 1. 新概念英语
 2. 简明法语教程
-3. 日语
+3. 标准日本语
 
 ## 数学
 1. Discrete Mathematics Lecture Notes, Yale University

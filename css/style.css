@@ -232,13 +232,18 @@ footer p a:hover{
     border-bottom: solid 1px #eee;
     margin-bottom: 5px;
     padding-bottom: 2px;
+    text-align: center;
     color: #333;
 }
 
 .tree .meta,
 .post .meta{
     display: inline-block;
+    /*
     margin: 20px 0px;
+    */
+    margin: 13px 0px 20px 0px;
+    text-align: center;
     font-size: 12px;
 }
 
