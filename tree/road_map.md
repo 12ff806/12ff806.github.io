@@ -12,38 +12,40 @@ date: 2020-03-22
 
 
 ## 语言
-1. 新概念英语
-2. 简明法语教程
-3. 日语
+0. 新概念英语
+1. 简明法语教程
+2. 日语
 
 ## 数学
-* 0 Discrete Mathematics Lecture Notes, Yale University
-* 1 计算机科学中的数学
-* 2 Essence of linear algebra
-* 3 线性代数 Gilbert Strang/ MIT视频
-* 4 普林斯顿微积分读本
-* 5 概率论与数理统计 陈希孺
-* 6 机器学习数学基础
-* 7 具体数学
+0. Discrete Mathematics Lecture Notes, Yale University
+1. 计算机科学中的数学
+2. Essence of linear algebra
+3. 线性代数 Gilbert Strang/ MIT视频
+4. 普林斯顿微积分读本
+5. 概率论与数理统计 陈希孺
+6. 机器学习数学基础
+7. 具体数学
 
 ## 统计学
-* 深入浅出统计学
-* 可汗学院统计学
-* 商务与经济统计
+0. 深入浅出统计学
+1. 可汗学院统计学视频
+2. 商务与经济统计
 
-## 算法
-* 数据结构与算法分析 C语言描述
-* 算法设计与分析基础
-* 算法引论
-* 编程原本
-* 编程语言实现模式
-* Writing Efficient Programs
-* The Algorithm Design Manual
-* 编程珠玑
-* 编程珠玑续
-* 算法导论
-* The Science of Programming
-* Algorithms - JeffE
+## 算法与数据结构
+0. The Algorithm Design Manual/ CSE373/ Stanford
+1. How to solve it
+2. 数据结构与算法分析 C语言描述
+3. 算法设计与分析基础
+4. 算法引论
+5. 编程原本
+6. Writing Efficient Programs
+7. 编程珠玑
+8. 编程珠玑续
+9. 算法导论
+10. The Science of Programming
+11. Algorithms - Jeff Erickson
+C. 剑指offer
+D. Leetcode
 
 ## Linux 编程
 * C程序设计语言
