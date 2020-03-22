@@ -238,11 +238,11 @@ footer p a:hover{
 
 .tree .meta,
 .post .meta{
-    display: inline-block;
     /*
+    display: inline-block;
     margin: 20px 0px;
     */
-    margin: 13px 0px 20px 0px;
+    margin: 9px 0px 20px 0px;
     text-align: center;
     font-size: 12px;
 }
