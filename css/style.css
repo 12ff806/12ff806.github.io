@@ -224,7 +224,7 @@ footer p a:hover{
     padding: 0px 40px;
     */
     letter-spacing: 1px;
-    word-spacing: 2px;
+    word-spacing: 3px;
 }
 
 .tree .title,
@@ -238,11 +238,9 @@ footer p a:hover{
 
 .tree .meta,
 .post .meta{
-    /*
     display: inline-block;
-    margin: 20px 0px;
-    */
     margin: 9px 0px 20px 0px;
+    width: 100%;
     text-align: center;
     font-size: 12px;
 }
