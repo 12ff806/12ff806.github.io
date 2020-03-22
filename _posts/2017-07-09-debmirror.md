@@ -16,7 +16,7 @@ I used debmirror for mirroring Debian repositories, on a Debian server in docker
 Problem: 'gpgv: can't check signature: public key not found'
 ------------------------------------------------------------
 
-when running debmirror script, it fails with a error similar to this one
+When running debmirror script, it fails with a error similar to this one
 
 ```sh
 [GNUPG:] ERRSIG AED4B06F473041FA 1 2 00 1374050431 9
@@ -33,7 +33,7 @@ Release signature does not verify.
 Solution
 --------
 
-update the repository and import the new keys
+Update the repository and import the new keys
 
 ```sh
 $ aptitude update
@@ -41,7 +41,7 @@ $ aptitude safe-upgrade
 $ gpg --keyring /usr/share/keyrings/debian-archive-keyring.gpg  --export | gpg --no-default-keyring --keyring /var/data/keyrings/debian/trustedkeys.gpg --import
 ```
 
-sidenote: if no keys were added, download the latest debian-archive-keyring package from the repositories, extract it and use those keyrings
+Sidenote: if no keys were added, download the latest debian-archive-keyring package from the repositories, extract it and use those keyrings
 
 ```sh
 $ wget http://ftp.us.debian.org/debian/pool/main/d/debian-archive-keyring/debian-archive-keyring_2012.4_all.deb
@@ -52,10 +52,10 @@ $ gpg --keyring ~/usr/share/keyrings/debian-archive-keyring.gpg  --export | gpg 
 Reference
 ---------
 
-[debmirror problem: gpgv: can't check signature: public key not found]
+[Debmirror problem: gpgv: can't check signature: public key not found]
 
-[how to build debian and ubuntu mirrors using debmirror]
+[How to build debian and ubuntu mirrors using debmirror]
 
-[debmirror problem: gpgv: can't check signature: public key not found]: http://lgallardo.com/en/2013/11/12/problema-de-debmirror-gpgv-cant-check-signature-public-key-not-found
-[how to build debian and ubuntu mirrors using debmirror]: http://lgallardo.com/en/2012/12/06/como-crear-un-mirror-de-debian-y-ubuntu-con-debmirror
+[Debmirror problem: gpgv: can't check signature: public key not found]: http://lgallardo.com/en/2013/11/12/problema-de-debmirror-gpgv-cant-check-signature-public-key-not-found
+[How to build debian and ubuntu mirrors using debmirror]: http://lgallardo.com/en/2012/12/06/como-crear-un-mirror-de-debian-y-ubuntu-con-debmirror
 

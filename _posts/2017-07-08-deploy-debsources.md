@@ -7,12 +7,12 @@ title: Deploy Debsources
 date: 2017-07-08
 ---
 
-deploy debsources instance use docker
+Deploy debsources instance use docker
 
 Dockerfile
 ----------
 
-download dockerfile, and modify 'config.local.ini'
+Download dockerfile, and modify 'config.local.ini'
 
 ```sh
 $ git clone https://github.com/matthieucan/Dockerfiles.git
