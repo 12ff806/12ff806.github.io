@@ -232,14 +232,14 @@ footer p a:hover{
     border-bottom: solid 1px #eee;
     margin-bottom: 5px;
     padding-bottom: 2px;
-    text-align: center;
+    text-align: right;
     color: #333;
 }
 
 .tree .meta,
 .post .meta{
     display: inline-block;
-    margin: 5px 0px 18px 0px;
+    margin: 0px 0px 18px 0px;
     width: 100%;
     text-align: center;
     font-size: 12px;
@@ -248,6 +248,7 @@ footer p a:hover{
 
 .tree .tree-content h2,
 .post .post-content h2{
+    display: inline-block;
     border-bottom: solid 1px #eee;
     padding-bottom: 2px;
     margin: 30px 0px 18px 0px;
