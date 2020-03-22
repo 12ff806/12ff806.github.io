@@ -11,10 +11,10 @@ date: 2017-07-11
 {::options auto_ids="false" /}
 
 
-## preparation
+## Preparation
 you should install Bazaar first.
 
-## introduction to Bazaar
+## Introduction to Bazaar
 before you start working, let's tell Bazaar who you are:
 
     $ bzr whoami "Janus Zhao <JanusKernel@gmail.com>"
@@ -36,10 +36,10 @@ and then commit, which saves a snapshot of all versioned files:
     
     $ bzr commit -m "Added first text"
 
-## create a launchpad account
+## Create a launchpad account
 visit the Launchpad login page and choose to create a new account.
 
-## create an SSH key
+## Create an SSH key
 install OpenSSH. once OpenSSH is installed, stay in the terminal and type:
 
     $ ssh-keygen -t rsa
@@ -54,20 +54,21 @@ if you're behind a proxy, you'd need SSH via tunneling (using corkscrew). instal
         User launchpad-username
         ProxyCommand corkscrew proxy-address proxy-port %h %p
 
-## using a custom SSH key for launchpad (option)
+## Using a custom SSH key for launchpad (option)
 you can safely use on SSH key per client machine to connect to multiple hosts. some people choose to use a separate SSH keypair per service and per client. To do this: you need to generate a key to a non-default name, perhaps id_rsa_launchpad (and .pub); upload that key to launchpad, as described above; you'll need to tell your SSH client to use this key. with OpenSSH, add these lines to your ~/.ssh/config file:
 
     Host bazaar.launchpad.net
         IdentityFile /home/Janus/.ssh/id_rsa_launchpad
         User launchpad-username
 
-## tell Bazaar your launchpad account name
+## Tell Bazaar your launchpad account name
     $ bzr launchpad-login janus
 
-## push the branch for your project
+## Push the branch for your project
 once you've committed your changes locally, you can publish them as the trunk of your new project by typing:
   
     $ bzr push lp:~janus/testproject/trunk
 
-## reference
+## Reference
 [http://doc.bazaar.canonical.com/bzr.dev/en/mini-tutorial/index.html](http://doc.bazaar.canonical.com/bzr.dev/en/mini-tutorial/index.html "reference^_^")
+

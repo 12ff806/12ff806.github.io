@@ -275,5 +275,6 @@ generator.close()
 
 ## 异步生成器函数
 
+pass
 
 

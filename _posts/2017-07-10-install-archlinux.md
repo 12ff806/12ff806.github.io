@@ -11,7 +11,7 @@ date: 2017-07-10
 {::options auto_ids="false" /}
 
 
-create a arch linux installer usb drive
+Create a Arch Linux installer usb drive
 ---------------------------------------
 
 find out the name of your usb drive with lsblk. make sure that it is not mounted. run the following command, replacing /dev/sdx with your drive, e.g. /dev/sdb. (do not append a partition number, so do not use something like /dev/sdb1)
@@ -20,7 +20,7 @@ find out the name of your usb drive with lsblk. make sure that it is not mounted
 # dd bs=4M if=/path/to/archlinux.iso of=/dev/sdx && sync
 ```
 
-how to restore the usb drive
+How to restore the usb drive
 ----------------------------
 
 because the iso image is a hybrid which can either be burned to a disc or directly written to a usb drive, it does not include a standard partition table. after you install arch linux and you are done with the usb drive, you should zero out its first 512 bytes (meaning the boot code from the MBR and the non-standard partition table) if you want to restore it to full capacity:
@@ -47,7 +47,7 @@ for fat32, install the dosfstools package and run:
 # dosfslabel /dev/sdx1 USB_STICK
 ```
 
-partition the disks
+Partition the disks
 -------------------
 
 there are two types of partition table:
@@ -65,7 +65,7 @@ for my system(BIOS system), my partition scheme:
 # fdisk /dev/sdx
 ```
 
-format the partitions
+Format the partitions
 ---------------------
 
 except for swap partitions
@@ -74,7 +74,7 @@ except for swap partitions
 # mkfs.ext4 /dev/sdxY
 ```
 
-activate swap
+Activate swap
 -------------
 
 ```sh
@@ -82,7 +82,7 @@ activate swap
 # swapon /dev/sdxY
 ```
 
-mount the partitions
+Mount the partitions
 --------------------
 
 ```sh
@@ -91,7 +91,7 @@ mount the partitions
 # mount /dev/sdxH /mnt/home
 ```
 
-connect to the internet
+Connect to the internet
 -----------------------
 
 ```sh
@@ -99,7 +99,7 @@ connect to the internet
 # wifi-menu interface_name
 ```
 
-select the mirrors
+Select the mirrors
 ------------------
 
 ```sh
@@ -115,14 +115,14 @@ Server = http://mirror.example.xyz/archlinux/$repo/os/$arch
 ...
 ```
 
-install the base system
+Install the base system
 -----------------------
 
 ```sh
 # pacstrap -i /mnt base base-devel
 ```
 
-generate an fstab file
+Generate an fstab file
 ----------------------
 
 use -U or -L to define by UUID or labels
@@ -134,14 +134,14 @@ use -U or -L to define by UUID or labels
 
 the last field determines the order in which partitions are checked at start up: use 1 for the (non-Btrfs) root partition, which should be checked first; 2 for all other partitions you want checked at start up; and 0 means 'do not check'. All Btrfs partitions should have 0 for this field. normally, you will also want your swap partition to have 0.
 
-change root into the new system
+Change root into the new system
 -------------------------------
 
 ```sh
 # arch-chroot /mnt
 ```
 
-configure the system
+Configure the system
 --------------------
 
 set the hostname:
@@ -192,7 +192,7 @@ set the hardware clock:
 # hwclock --systohc --utc
 ```
 
-configure the network
+Configure the network
 ---------------------
 
 wireless:
@@ -223,7 +223,7 @@ set the root password with:
 # passwd
 ```
 
-install and configure a bootloader
+Install and configure a bootloader
 ----------------------------------
 
 for BIOS motherboard:
@@ -241,7 +241,7 @@ tip: to automatically search for other operating systems on your computer, insta
 # grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
-exit from the chroot environment and reboot
+Exit from the chroot environment and reboot
 -------------------------------------------
 
 ```sh
@@ -249,7 +249,7 @@ exit from the chroot environment and reboot
 # reboot
 ```
 
-applications
+Applications
 ------------
 
 add user:
@@ -343,3 +343,4 @@ switch monitor:
 # xrandr --output LVDS1 --mode 1024x768 --output VGA1 --mode 1024x768
 # xrandr --output LVDS1 --mode 1366x768 --output VGA1 --off
 ```
+

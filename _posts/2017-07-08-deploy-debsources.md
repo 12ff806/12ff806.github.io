@@ -9,7 +9,7 @@ date: 2017-07-08
 
 deploy debsources instance use docker
 
-dockerfile
+Dockerfile
 ----------
 
 download dockerfile, and modify 'config.local.ini'
@@ -24,7 +24,7 @@ mirror_suites: wheezy
 wtf_csrf_enabled: false
 ```
 
-build docker image
+Build docker image
 ------------------
 
 ```sh
@@ -32,14 +32,14 @@ $ cd Dockerfiles/debsources/
 $ sudo docker build -t="debsources" .
 ```
 
-run docker container
+Run docker container
 --------------------
 
 ```sh
 $ sudo docker run -i -p=1992:80 -p=55667:22 -v /srv/debian:/opt/debsources/testdata -t debsources bash
 ```
 
-config debsources in container
+Config debsources in container
 ------------------------------
 
 ```sh
@@ -50,7 +50,7 @@ CONFFILE="/opt/debsources/etc/config.ini"
 ${bin_dir}/update-debsources
 ```
 
-set up ssh in container
+Set up ssh in container
 -----------------------
 
 ```sh
@@ -58,7 +58,7 @@ $ apt-get install openssh-server
 $ service ssh start
 ```
 
-add user for ssh login
+Add user for ssh login
 ----------------------
 
 ```sh
@@ -66,7 +66,7 @@ $ useradd admin
 $ echo "admin:admin" | chpasswd
 ```
 
-add root permission for admin
+Add root permission for admin
 -----------------------------
 
 ```sh
@@ -76,7 +76,7 @@ $ visudo
 admin   ALL=(ALL:ALL) ALL
 ```
 
-generate gnupg public key
+Generate gnupg public key
 -------------------------
 
 ```sh
@@ -90,14 +90,14 @@ $ gpg --keyring ~/usr/share/keyrings/debian-archive-keyring.gpg  --export | gpg 
 $ gpg --keyring ~/usr/share/keyrings/debian-archive-keyring.gpg  --export | gpg --no-default-keyring --keyring /.gnupg/trustedkeys.gpg --import
 ```
 
-start postgresql
+Start postgresql
 ----------------
 
 ```sh
 $ service postgresql start
 ```
 
-run script 'main'
+Run script 'main'
 -----------------
 
 ```sh
@@ -106,9 +106,10 @@ $ ./main enable
 $ ./main update &
 ```
 
-start apache2
+Start Apache2
 -------------
 
 ```sh
 $ service apache2 start
 ```
+

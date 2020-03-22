@@ -11,21 +11,21 @@ date: 2017-07-11
 {::options auto_ids="false" /}
 
 
-install git
+Install git
 -----------
 
 ```sh
 $ sduo apt-get install git
 ```
 
-add an user
+Add an user
 -----------
 
 ```sh
 # adduser anonymous
 ```
 
-add ssh public key
+Add ssh public key
 ------------------
 
 add user ssh public key to file authorized_keys on server.
@@ -40,7 +40,7 @@ or
 cat /path/to/id_rsa.pub >> ~anonymous/.ssh/authorized_keys
 ```
 
-create repository
+Create repository
 -----------------
 
 ```sh
@@ -48,7 +48,7 @@ create repository
 # chown -R git:git sample.git
 ```
 
-shutdown shell login
+Shutdown shell login
 --------------------
 
 ```sh
@@ -57,9 +57,10 @@ shutdown shell login
 anonymous:x:1001:1001:,,,:/home/git:/usr/bin/git-shell
 ```
 
-clone repository
+Clone repository
 ----------------
 
 ```sh
 $ git clone anonymous@server:/path/to/sample.git
 ```
+

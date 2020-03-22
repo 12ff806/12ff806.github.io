@@ -340,50 +340,91 @@ for循环后可以接一个else从句，这个else从句会在循环正常结束
 
 ## 垃圾回收机制
 
+pass
+
 
 ## with 上下文管理器
 
+pass
+
+
 ### 用类实现
 
+pass
+
+
 ### 用生成器实现
+
+pass
 
 
 ## 闭包
 
+pass
+
 
 ## 匿名函数
+
+pass
 
 
 ## 函数式编程
 
+pass
+
 
 ## 函数缓存
+
+pass
 
 
 ## 装饰器
 
+pass
+
+
 ### 用函数实现
 
+pass
+
+
 ### 用类实现
+
+pass
 
 
 ## 鸭子类型
 
+pass
+
 
 ## 新式类和旧式类
+
+pass
 
 
 ## 多进程 & 多线程
 
+pass
+
 
 ## 迭代器和生成器
+
+pass
 
 
 ## 协程和异步IO
 
+pass
+
 
 ## select & poll & epoll
 
+pass
+
 
 ## C扩展
+
+pass
+
 
