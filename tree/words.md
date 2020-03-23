@@ -49,4 +49,11 @@ date: 2020-03-18
 * shine
 * aeroplane
 * shave
-
+* butcher
+* meat
+* beef
+* lamb
+* steak
+* mince
+* chicken
+* either
