@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: Todo
-date: 2020-03-22
+date: 2020-03-31
 ---
 
 
@@ -32,4 +32,11 @@ date: 2020-03-22
 
 ## 复杂科学
 1. 复杂 一门诞生于秩序与混沌边缘的科学
+
+## 其他
+1. 领港澳通行证
+2. 衣服送干洗
+3. 雅思
+4. 导游证
+5. MIT MicroMaster
 
