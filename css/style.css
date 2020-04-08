@@ -12,13 +12,10 @@ body{
 
 
 a{
-    /*
     text-decoration: none;
+    /*
     color: #00a0aa;
     */
-    color: #333;
-    display: inline-block;
-    border-bottom: 1px;
 }
 
 ul{
@@ -315,6 +312,13 @@ footer p a:hover{
 .tree .tree-content ul,
 .post .post-content ul{
     list-style-type: square;
+}
+    
+.tree .tree-content ul li a,
+.tree .tree-content ol li a,
+.post .post-content ul li a,
+.post .post-content ol li a{
+    color: #333;
 }
 
 .tree .tree-content .linethrough,
