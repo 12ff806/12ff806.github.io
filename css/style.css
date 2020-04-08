@@ -16,6 +16,7 @@ a{
     /*
     color: #00a0aa;
     */
+    color: #333;
 }
 
 ul{
@@ -311,7 +312,10 @@ footer p a:hover{
 
 .tree .tree-content ul,
 .post .post-content ul{
+    /*
     list-style-type: square;
+    */
+    list-style-type: circle;
 }
     
 .tree .tree-content ul li a,
