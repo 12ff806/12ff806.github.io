@@ -12,12 +12,12 @@ date: 2020-04-14
 
 
 ## 编程
-* How To Design Programs (程序设计方法)
-* Python Cookbook               (第一章 写Jupyter)
-* Python 设计模式               (单例设计模式)
-* Unix/Linux编程实践教程        (第五章)
-* System Design (Github)        (CS75 lecture 9, 写Markdown)
-* 玩树莓派                      (装Kali Linux, 把Car组装好并写文档)
+* How To Design Programs
+* Python Cookbook
+* Python 设计模式
+* Unix/Linux编程实践教程
+* System Design (Github)
+* 树莓派
 
 ## 数学
 * Discrete Mathematics Lecture Notes, Yale University
@@ -32,7 +32,7 @@ date: 2020-04-14
 * NetLogo多主体建模入门
 
 ## 英语
-* NCE 1
+* NCE
 
 ## 面试准备
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
