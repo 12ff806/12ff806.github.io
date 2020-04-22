@@ -190,4 +190,35 @@ date: 2020-03-22
 12. Civilization and Capitalism, 15th-18th Century, Vol. I: The Structure of Everyday Life (15至18世纪的物质文明、经济和资本主义第一卷 日常生活的结构) - 布罗代尔
 13. The Modern World-System I (现代世界体系卷1) - Immanuel Wallerstein
 14. The Ascent of Man - Jacob Bronowski
+15. Guns, Germs, and Steel:The Fates of Human Societies (枪炮、病菌与钢铁:人类社会的命运) - Jared M. Diamond
+16. Science in History (历史上的科学) - Bernal, J. D.
+17. The Repubilc (理想国) - 柏拉图
+18. Motivation and Personality (动机与人格) - 亚伯拉罕 马斯洛
+19. Genetic Epistemology (发生认识论原理) - Jean Piaget
+20. Cows, Pigs, Wars, and Witches:The Riddles of Culture (母牛 猪 战争 妖巫:人类文化之谜) - Marvin Harris
+21. The Wealth of Nations (国富论) - 亚当斯密
+22. An Essay on the Principle of Population (人口原理) - Thomas Robert Malthus
+23. Principles of Economics (经济学原理) - Alfred Marshall
+24. Theory of Economic Development (经济发展理论:对利润、资本、信贷、利息和经济周期的探究) - Joseph A. Schumpeter
+25. Capitalism, Socialism, and Democracy (资本主义、社会主义与民主) - Joseph A. Schumpeter
+26. Prices and Production (物价与生产) - F.A. Hayek
+27. Risk, Uncertainty and Profit (风险、不确定性与利润) - Frank H. Knight
+28. The General Theory of Employment, Interest and Money (就业、利息和货币通论) - John Maynard Keynes
+29. John Maynard Keynes - Hyman Minsky
+30. The Stages of Economic Growth : A Non-Communist Manifesto (经济增长的阶段:非共产党宣言) - W. W. Rostow
+31. The Growth of Economic Thought (经济思想的成长) - Spiegel, Henry William
+32. More Heat than Light - Philip Mirowski
+33. The World in Depression, 1929-1939 - Charles P. Kindleberger
+34. The Cash Nexus (金钱关系) - Niall Ferguson
+35. Chinese Economic Performance in the Long Run:960-2030 AD (中国经济的长期表现:公元960-2030年) - Angus Maddison
+36. The Peasant Economy and Social Change in North China (华北的小农经济与社会变迁) - 黄宗智
+37. 十六世纪明代中国之财政与税收 - 黄仁宇
+38. Adam's Fallacy:A Guide to Economic Theology - Duncan K. Foley
+39. 马克思恩格斯选集（第三卷）- 恩格斯 在马克思墓前的讲话 574-576页 人民出版社 北京1972年版本
+40. 资本论 第一卷/第三卷 - 马克思 人民出版社 北京2004版
+41. 家庭、私有制和国家的起源 - 恩格斯 人民出版社 北京1972版
+42. 毛泽东选集 第一卷 - 中国革命战争的战略问题 45-47页 人民出版社 北京1991版
+43. 道德经 - 老子
+44. 世界经济千年史 - 安格斯麦迪森 北京大学出版社2003版
+45. 万历十五年 - 黄仁宇
 
