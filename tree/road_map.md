@@ -175,3 +175,19 @@ date: 2020-03-22
 19. 随机方法手册
 20. A New kind of Science
 
+## 跨学科思维书单
+1. From being to becoming (从存在到演化) - 普里戈金
+2. Order Out of Chaos (从混沌到有序) - 普里戈金
+3. What is Life (生命是什么) - 薛定谔
+4. Cybernetics (控制论) - 维纳
+5. Chaos II - Hao Bai-Lin
+6. Stability and Complexity in Model Ecosystems - Robert M. May
+7. Evolutionary Ecology - Eric R. Pianka
+8. Models in Ecology - John Maynard Smith
+9. Investigations on the Theory of the Brownian Movement - Einstein Albert
+10. The Origin of Species (物种起源) - 达尔文
+11. The Selfish Gene (自私的基因) - 道金斯
+12. Civilization and Capitalism, 15th-18th Century, Vol. I: The Structure of Everyday Life (15至18世纪的物质文明、经济和资本主义第一卷 日常生活的结构) - 布罗代尔
+13. The Modern World-System I (现代世界体系卷1) - Immanuel Wallerstein
+14. The Ascent of Man - Jacob Bronowski
+
