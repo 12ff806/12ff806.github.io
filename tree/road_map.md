@@ -48,20 +48,21 @@ date: 2020-03-22
 14. Leetcode
 
 ## 编程
-1. How To Design Programs (程序设计方法)
-2. 计算机程序的构造和解释/ Berkeley CS61A/ MIT视频
-3. Concepts, Techniques, and Models of Computer Programming
-4. The Little Schemer
-5. C程序设计语言
-6. Unix/Linux编程实践教程
-7. Python Cookbook
-8. C和指针
-9. C标准库
-10. C接口与实现
-11. 500 Lines
-12. System Design (Github)
-13. Unix环境高级编程
-14. Unix网络编程
+1. Composing Programs
+2. How To Design Programs (程序设计方法)
+3. 计算机程序的构造和解释/ Berkeley CS61A/ MIT视频
+4. Concepts, Techniques, and Models of Computer Programming
+5. The Little Schemer
+6. C程序设计语言
+7. Unix/Linux编程实践教程
+8. Python Cookbook
+9. C和指针
+10. C标准库
+11. C接口与实现
+12. 500 Lines
+13. System Design (Github)
+14. Unix环境高级编程
+15. Unix网络编程
 
 ## 计算机组成原理
 1. 计算机系统要素/ Coursera 视频课程

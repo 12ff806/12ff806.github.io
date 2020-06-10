@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: Todo
-date: 2020-04-14
+date: 2020-06-10
 ---
 
 
@@ -12,20 +12,24 @@ date: 2020-04-14
 
 
 ## 编程
+* [Composing Programs](https://composingprograms.com)
 * How To Design Programs
+* 计算机程序构造与解释
 * Python Cookbook
 * Python 设计模式
 * Unix/Linux编程实践教程
 * System Design (Github)
 * 树莓派
 
-## 数学
-* Discrete Mathematics Lecture Notes, Yale University
-* 计算机科学中的数学
-
 ## 算法
 * 剑指offer (Python实现)
 * The Algorithm Design Manual/ CSE373/ Stanford
+
+## 数学
+* Discrete Mathematics Lecture Notes, Yale University
+* 计算机科学中的数学
+* 普林斯顿微积分读本
+* 线性代数
 
 ## 复杂科学
 * 复杂 一门诞生于秩序与混沌边缘的科学
