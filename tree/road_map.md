@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: Road Map
-date: 2020-03-22
+date: 2020-07-02
 ---
 
 
@@ -17,14 +17,13 @@ date: 2020-03-22
 3. 标准日本语
 
 ## 数学
-1. Discrete Mathematics Lecture Notes, Yale University
-2. 计算机科学中的数学
-3. Essence of linear algebra
-4. 线性代数 Gilbert Strang/ MIT视频
-5. 普林斯顿微积分读本
-6. 概率论与数理统计 陈希孺
-7. 机器学习数学基础
-8. 具体数学
+1. 计算机科学中的数学
+2. Essence of linear algebra
+3. 线性代数 Gilbert Strang/ MIT视频
+4. 普林斯顿微积分读本
+5. 概率论与数理统计 陈希孺
+6. 机器学习数学基础
+7. 具体数学
 
 ## 统计学
 1. 深入浅出统计学
