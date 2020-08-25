@@ -36,6 +36,7 @@ date: 2020-08-25
 * Python 参考手册
 * Python Cookbook
 * Python 设计模式
+* Twisted/ Tornado/ Asyncio/ Celery/ 元类
 * MySQL技术内幕
 * 高性能MySQL
 * Redis in Action
