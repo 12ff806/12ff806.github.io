@@ -14,7 +14,28 @@ date: 2020-07-02
 ## 语言
 1. 新概念英语
 2. 简明法语教程
-3. 标准日本语
+
+## 编程
+1. Composing Programs
+2. How To Design Programs (程序设计方法)
+3. 计算机程序的构造和解释/ Berkeley CS61A/ MIT视频
+4. Concepts, Techniques, and Models of Computer Programming
+5. The Little Schemer
+6. C程序设计语言
+7. C和指针
+8. C标准库
+9. C接口与实现
+10. Unix/Linux编程实践教程
+11. Unix环境高级编程
+12. Unix网络编程
+13. Python 参考手册
+14. Python Cookbook
+15. MySQL技术内幕
+16. 高性能MySQL
+17. Redis in Action
+18. 图解密码技术
+19. 500 Lines
+20. System Design (Github)
 
 ## 数学
 1. 计算机科学中的数学
@@ -45,23 +66,6 @@ date: 2020-07-02
 12. Algorithms Jeff Erickson
 13. 剑指offer
 14. Leetcode
-
-## 编程
-1. Composing Programs
-2. How To Design Programs (程序设计方法)
-3. 计算机程序的构造和解释/ Berkeley CS61A/ MIT视频
-4. Concepts, Techniques, and Models of Computer Programming
-5. The Little Schemer
-6. C程序设计语言
-7. Unix/Linux编程实践教程
-8. Python Cookbook
-9. C和指针
-10. C标准库
-11. C接口与实现
-12. 500 Lines
-13. System Design (Github)
-14. Unix环境高级编程
-15. Unix网络编程
 
 ## 计算机组成原理
 1. 计算机系统要素/ Coursera 视频课程
@@ -105,23 +109,24 @@ date: 2020-07-02
 
 ## 机器学习与深度学习
 1. Python 数据分析
-2. Machine Learning 吴恩达
-3. CS229
-4. 机器学习基石 林轩田
-5. 机器学习技法 林轩田
-6. 机器学习 周志华
-7. 统计学系方法 李航
-8. Hands-On Machine Learning with Scikit-Learn and Tensorflow
-9. Kaggle
-10. Scikit-Learn 官方文档
-11. Deep Learning
-12. Fast.ai 程序员深度学习实战
-13. CS230 Deep Learning
-14. 神经网络与深度学习 邱锡鹏
-15. 深度学习
-16. 深度学习500问
-17. Tensorflow 官方文档
-18. PyTorch 官方文档
+2. CS231N
+3. Machine Learning 吴恩达
+4. CS229
+5. 机器学习基石 林轩田
+6. 机器学习技法 林轩田
+7. 机器学习 周志华
+8. 统计学系方法 李航
+9. Hands-On Machine Learning with Scikit-Learn and Tensorflow
+10. Kaggle
+11. Scikit-Learn 官方文档
+12. Deep Learning
+13. Fast.ai 程序员深度学习实战
+14. CS230 Deep Learning
+15. 神经网络与深度学习 邱锡鹏
+16. 深度学习
+17. 深度学习500问
+18. Tensorflow 官方文档
+19. PyTorch 官方文档
 
 ## 强化学习
 1. 深度强化学习 李宏毅
