@@ -13,7 +13,12 @@ date: 2020-08-25
 
 ## 语言
 * 新概念英语
+* 雅思
 * 简明法语教程
+
+## 面试准备
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+* [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
 
 ## 编程
 * Composing Programs
@@ -30,11 +35,14 @@ date: 2020-08-25
 * Unix网络编程
 * Python 参考手册
 * Python Cookbook
+* Python 设计模式
 * MySQL技术内幕
 * 高性能MySQL
 * Redis in Action
 * 图解密码技术
 * 500 Lines
+* Git/ Docker
+* 树莓派
 * System Design (Github)
 
 ## 数学
@@ -165,7 +173,6 @@ date: 2020-08-25
 * 隐秩序 适应性造就复杂性
 * 链接 商业 科学 与生活的新思维
 * 宇宙为家
-* 从存在到演化
 * 预知社会 群体行为的内在法则
 * 失控
 * 哥德尔 艾舍尔 巴赫 集异璧之大成
