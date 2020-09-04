@@ -8,7 +8,9 @@ body{
 #img-box{
     width: 450px;
     margin: 8% auto auto auto;
-    padding: 5px 5px 1px 5px;
+    #padding: 5px 5px 1px 5px;
+    padding: 300px 225px 300px 225px;
+    border-color: 000000;
     border-radius: 3px;
     background-color: #FFFFFF;
 }
