@@ -14,7 +14,6 @@ date: 2020-08-25
 ## 语言
 * 新概念英语
 * 雅思
-* 简明法语教程
 
 ## 面试准备
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
@@ -33,24 +32,23 @@ date: 2020-08-25
 * Unix/Linux编程实践教程
 * Unix环境高级编程
 * Unix网络编程
-* Python 参考手册
 * Python Cookbook
+* Generator/ Iterator/ Twisted/ Tornado/ Asyncio/ Celery/ 元编程
 * Python 设计模式
-* Twisted/ Tornado/ Asyncio/ Celery/ 元类
+* 500 Lines
 * MySQL技术内幕
 * 高性能MySQL
 * Redis in Action
 * 图解密码技术
-* 500 Lines
 * Git/ Docker
-* 树莓派
 * System Design (Github)
+* 树莓派
 
 ## 数学
 * 计算机科学中的数学
+* 普林斯顿微积分读本
 * Essence of linear algebra
 * 线性代数 Gilbert Strang/ MIT视频
-* 普林斯顿微积分读本
 * 概率论与数理统计 陈希孺
 * 机器学习数学基础
 * 具体数学
