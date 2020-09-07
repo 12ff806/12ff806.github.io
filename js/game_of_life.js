@@ -80,7 +80,7 @@ function run() {
             board[i] = []
             for(var j=0; j<n; ++j) {
                 board[i][j] = Math.round(Math.random());
-                board[i][j] = 0;
+                //board[i][j] = 0;
             }
         }
         this.init = true;
