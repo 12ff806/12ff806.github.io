@@ -4,4 +4,4 @@
  */
 
 var ctx = document.getElementById("gol_canvas").getContext("2d");
-log.console(ctx)
+console.log(ctx)
