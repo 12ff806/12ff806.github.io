@@ -8,15 +8,11 @@ body{
     font-weight: 400;
 }
 
-#container{
-    width: 800px;
-    height: 600px;
-    margin: 8%, auto, auto, auto;
-}
-
 #gol_canvas{
     background-color: #ffffff;
     border: 1px solid black;
+    display: block;
+    margin: 8% auto auto auto;
 }
 
 /*
