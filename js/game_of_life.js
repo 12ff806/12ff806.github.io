@@ -74,5 +74,5 @@ function run() {
     draw_board(board, m, n);
 }
 
-setInterval("run()", 300);
+setInterval("run()", 200);
 
