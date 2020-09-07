@@ -8,13 +8,16 @@ body{
     font-weight: 400;
 }
 
+#gol_canvas{
+    background-color: #000000;
+    margin: 20px, 20px, 20px, 20px;
+}
+
+/*
 #img-box{
     width: 600px;
     height: 450px;
     margin: 8% auto auto auto;
-    /*
-    padding: 5px 5px 1px 5px;
-    */
     border-radius: 3px;
     background-color: #000000;
 }
@@ -23,7 +26,6 @@ img{
     border-radius: 3px;
 }
 
-/*
 #quote-box{
     width: 450px;
     margin: 8% auto auto auto;
