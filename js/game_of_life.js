@@ -10,7 +10,7 @@ function draw_board(board, m, n) {
 			if(board[i][j] & 0x1) {
 				ctx.beginPath();
 				ctx.arc((i+1/2)*d, (j+1/2)*d, d/2, 0, 2*Math.PI);
-				ctx.fillStyle = 'green';
+				ctx.fillStyle = 'white';
 				// ctx.fillStyle = randomColor();
 				ctx.fill();
 			}
@@ -19,7 +19,7 @@ function draw_board(board, m, n) {
 			}
 			ctx.beginPath();
 			ctx.lineWidth = "1";
-			ctx.strokeStyle="black";
+			ctx.strokeStyle="white";
 			ctx.rect(i*d, j*d, d, d);
 			ctx.stroke();
 		}

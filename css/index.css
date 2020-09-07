@@ -9,7 +9,7 @@ body{
 }
 
 #gol_canvas{
-    background-color: #ffffff;
+    background-color: #000000;
     border: 1px solid black;
     display: block;
     margin: 8% auto auto auto;
