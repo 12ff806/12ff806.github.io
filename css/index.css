@@ -10,7 +10,7 @@ body{
 
 #gol_canvas{
     background-color: #000000;
-    margin: 20px, 20px, 20px, 20px;
+    margin: 8%, auto, auto, auto;
 }
 
 /*
@@ -98,12 +98,12 @@ img{
 
 #footer{
     clear: both;
-    width: 600px;
+    width: 800px;
     /*
     text-align: center;
     */
     text-align: right;
-    margin: 15px auto 30px auto;
+    margin: 20px auto 30px auto;
     font-size: 1em;
     color: #000000;
 }
