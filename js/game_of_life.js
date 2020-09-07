@@ -1,72 +1,56 @@
-/*
- * author: 12ff806
- * Sep 07 2020
- */
-
-var ctx = document.getElementById("gol_canvas").getContext("2d");
-var canvas_width = 800, canvas_height = 600;
-var box_size = 10;
+var ctx = document.getElementById('gol_canvas').getContext("2d");
+var bw = 800, bh = 600; // 画布宽、高
+var d = 10; // 格子大小
 
 
 function draw_board(board, m, n) {
-    for(var i=0; i<m; ++i) {
-        for(var j=0; j<n; ++j) {
-            if(board[i][j] & 0x1) {
-                ctx.beginPath();
-                ctx.rect(i*box_size, j*box_size, box_size, box_size);
-                ctx.fillStyle = "black";
-                ctx.fill();
-            }
-            else {
-                ctx.clearRect(i*box_size, j*box_size, box_size, box_size);
-            }
-            ctx.beginPath();
-            ctx.lineWidth = "1";
-            ctx.strokeStyle = "black";
-            ctx.rect(i*box_size, j*box_size, box_size, box_size);
-            ctx.stroke();
-        }
-    }
+	// 绘制格子
+	for(var i=0; i < m; ++i) {
+		for(var j = 0; j < n; ++j) {
+			if(board[i][j] & 0x1) {
+				ctx.beginPath();
+				ctx.arc((i+1/2)*d, (j+1/2)*d, d/2, 0, 2*Math.PI);
+				ctx.fillStyle = 'green';
+				// ctx.fillStyle = randomColor();
+				ctx.fill();
+			}
+			else {
+				ctx.clearRect(i*d, j*d, d, d);
+			}
+			ctx.beginPath();
+			ctx.lineWidth = "1";
+			ctx.strokeStyle="black";
+			ctx.rect(i*d, j*d, d, d);
+			ctx.stroke();
+		}
+	}
 }
 
 
 function get_neighbors(board, x, y, m, n) {
-    var cnt = 0;
-    for(var i=x-1; i<=x+1; ++i) {
-        for(var j=y-1; j<=y+1; ++j) {
-            if(i>=0 && j>=0 && i<m && j<n) {
-                if(i!=x || j!=y) {
-                    cnt += board[i][j] & 0x1;
-                }
-            }
-        }
-    }
+	var cnt = 0;
+	for(var i=x-1; i<=x+1; ++i)
+		for(var j=y-1; j<=y+1; ++j)
+			if(i>=0 && j>=0 && i<m && j<n) {
+				if((i != x || j != y)) cnt += board[i][j] & 0x1;
+			}
+	return cnt;
 }
 
 
 function game_of_life(board, m, n) {
-    for(var i=0; i<m; ++i) {
-        for(var j=0; j<n; ++j) {
-            var neighbors = get_neighbors(board, i, j, m, n);
-            // 不变
-            if(neighbors == 2) {
-                board[i][j] |= (board[i][j] & 0x1) << 1;
-            }
-            // 重生
-            else if(neighbors == 3) {
-                board[i][j] |= 0x2;
-            }
-            // 死亡
-            else {
-                board[i][j] &= 0x1;
-            }
-        }
-    }
-    for(var i=0; i<m; ++i) {
-        for(var j=0; j<n; ++j) {
-            board[i][j] >>= 1;
-        }
-    }
+	for (var i = 0; i < m; ++i)
+		for (var j = 0; j < n; ++j) {
+			var nebs = get_neighbors(board, i, j, m, n);
+			// console.log("("+i+", "+j + "): " + nebs);
+			if(nebs == 2) board[i][j] |= (board[i][j] & 0x1) << 1; // 保持不变
+			else if(nebs == 3) board[i][j] |= 0x2; // 增生
+			else board[i][j] &= 0x1; // 死亡
+		}
+
+	for (var i = 0; i < m; ++i)
+		for (var j = 0; j < n; ++j)
+			board[i][j] >>= 1;
 }
 
 
@@ -74,13 +58,12 @@ function run() {
     // 初始化数组
     if(typeof this.init == "undefined") {
         board = [];
-        m = parseInt(canvas_width/box_size);
-        n = parseInt(canvas_height/box_size);
+        m = parseInt(80);
+        n = parseInt(60);
         for(var i=0; i<m; ++i) {
-            board[i] = []
+            board[i] = [];
             for(var j=0; j<n; ++j) {
                 board[i][j] = Math.round(Math.random());
-                //board[i][j] = 0;
             }
         }
         this.init = true;
@@ -88,7 +71,6 @@ function run() {
     game_of_life(board, m, n);
     draw_board(board, m, n);
 }
-
 
 setInterval("run()", 400);
 
