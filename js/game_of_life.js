@@ -1,56 +1,58 @@
 var ctx = document.getElementById('gol_canvas').getContext("2d");
-var bw = 800, bh = 600; // 画布宽、高
-var d = 10; // 格子大小
+// 画布宽、高
+var bw = 800, bh = 600; 
+// 格子大小
+var d = 10; 
 
 
 function draw_board(board, m, n) {
-	// 绘制格子
-	for(var i=0; i < m; ++i) {
-		for(var j = 0; j < n; ++j) {
-			if(board[i][j] & 0x1) {
-				ctx.beginPath();
-				ctx.arc((i+1/2)*d, (j+1/2)*d, d/2, 0, 2*Math.PI);
-				ctx.fillStyle = 'white';
-				// ctx.fillStyle = randomColor();
-				ctx.fill();
-			}
-			else {
-				ctx.clearRect(i*d, j*d, d, d);
-			}
-			ctx.beginPath();
-			ctx.lineWidth = "1";
-			ctx.strokeStyle="white";
-			ctx.rect(i*d, j*d, d, d);
-			ctx.stroke();
-		}
+    // 绘制格子
+    for(var i=0; i < m; ++i) {
+	for(var j = 0; j < n; ++j) {
+	    if(board[i][j] & 0x1) {
+		ctx.beginPath();
+                //ctx.arc((i+1/2)*d, (j+1/2)*d, d/2, 0, 2*Math.PI);
+                ctx.rect(i*d, j*d, d, d);
+		ctx.fillStyle = 'white';
+		// ctx.fillStyle = randomColor();
+		ctx.fill();
+	    }
+	    else {
+		ctx.clearRect(i*d, j*d, d, d);
+	    }
+	    ctx.beginPath();
+	    ctx.lineWidth = "1";
+	    ctx.strokeStyle="white";
+	    ctx.rect(i*d, j*d, d, d);
+	    ctx.stroke();
 	}
+    }
 }
 
 
 function get_neighbors(board, x, y, m, n) {
-	var cnt = 0;
-	for(var i=x-1; i<=x+1; ++i)
-		for(var j=y-1; j<=y+1; ++j)
-			if(i>=0 && j>=0 && i<m && j<n) {
-				if((i != x || j != y)) cnt += board[i][j] & 0x1;
-			}
-	return cnt;
+    var cnt = 0;
+    for(var i=x-1; i<=x+1; ++i)
+	for(var j=y-1; j<=y+1; ++j)
+	    if(i>=0 && j>=0 && i<m && j<n) {
+		if((i != x || j != y)) cnt += board[i][j] & 0x1;
+	    }
+    return cnt;
 }
 
 
 function game_of_life(board, m, n) {
-	for (var i = 0; i < m; ++i)
-		for (var j = 0; j < n; ++j) {
-			var nebs = get_neighbors(board, i, j, m, n);
-			// console.log("("+i+", "+j + "): " + nebs);
-			if(nebs == 2) board[i][j] |= (board[i][j] & 0x1) << 1; // 保持不变
-			else if(nebs == 3) board[i][j] |= 0x2; // 增生
-			else board[i][j] &= 0x1; // 死亡
-		}
-
-	for (var i = 0; i < m; ++i)
-		for (var j = 0; j < n; ++j)
-			board[i][j] >>= 1;
+    for (var i = 0; i < m; ++i)
+	for (var j = 0; j < n; ++j) {
+	    var nebs = get_neighbors(board, i, j, m, n);
+	    // console.log("("+i+", "+j + "): " + nebs);
+	    if(nebs == 2) board[i][j] |= (board[i][j] & 0x1) << 1; // 保持不变
+	    else if(nebs == 3) board[i][j] |= 0x2; // 增生
+	    else board[i][j] &= 0x1; // 死亡
+	}
+    for (var i = 0; i < m; ++i)
+	for (var j = 0; j < n; ++j)
+	    board[i][j] >>= 1;
 }
 
 
@@ -72,5 +74,5 @@ function run() {
     draw_board(board, m, n);
 }
 
-setInterval("run()", 400);
+setInterval("run()", 500);
 
