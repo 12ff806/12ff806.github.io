@@ -104,13 +104,13 @@ date: 2020-08-25
 * [xv6](https://pdos.csail.mit.edu/6.828/2016/xv6.html)
     * [MIT course](https://pdos.csail.mit.edu/6.828/2020/)
     * [lab projects xv6](http://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf)
-* 操作系统概念 恐龙书 (Operating System Concepts)
-* 现代操作系统 (Modern Operating Systems)
+* Operating System Concepts (操作系统概念 恐龙书)
+* Modern Operating Systems (现代操作系统)
 
-## 计算机网络
-* 计算机网络: 自顶向下方法
-* Stanford: Introduction to Computer Networking
-* 项目: HTTP服务器/ 基于UDP的聊天APP/ 迷你TCP栈/ 代理/ 负载均衡器/ 分布式哈希表
+## Computer Networking
+* Computer Networking: A Top-Down Approach (计算机网络: 自顶向下方法)
+* [Wireshark labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm)
+* [Stanford: Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
 
 ## 数据库
 * Berkeley CS186
