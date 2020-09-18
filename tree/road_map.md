@@ -10,19 +10,8 @@ date: 2020-08-25
 
 {::options auto_ids="false" /}
 
-
-## 语言
-* 新概念英语
-* 雅思
-
-## 面试准备
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
-* [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
-
-## 编程
+## todo
 * Composing Programs
-* How To Design Programs (程序设计方法)
-* 计算机程序的构造和解释/ Berkeley CS61A/ MIT视频
 * Concepts, Techniques, and Models of Computer Programming
 * The Little Schemer
 * C程序设计语言
@@ -44,22 +33,42 @@ date: 2020-08-25
 * System Design (Github)
 * 树莓派
 
-## 数学
-* 计算机科学中的数学
-* 普林斯顿微积分读本
-* Essence of linear algebra
-* 线性代数 Gilbert Strang/ MIT视频
-* 概率论与数理统计 陈希孺
-* 机器学习数学基础
-* 具体数学
+## 面试准备
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+* [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
+
+## 语言
+* 新概念英语
+* 雅思
 
 ## 统计学
 * 深入浅出统计学
 * 可汗学院统计学视频
 * 商务与经济统计
 
-## 算法与数据结构
-* The Algorithm Design Manual/ CSE373/ Stanford
+## Programming
+* Structure and Interpretation of Computer Programs
+    * [book](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+    * [Brian Harvey’s SICP lectures (61A course at Berkeley)](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
+    * [MIT video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+* [Composing Programs](https://composingprograms.com/)
+* [How To Design Programs](http://htdp.org/)
+
+## Computer Architecture
+* [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
+* The Elements of Computing Systems (Nand2Tetris)
+    * [website](https://www.nand2tetris.org/)
+    * [a Coursera course with accompanying videos](https://www.coursera.org/learn/build-a-computer)
+* Berkeley CS61C (Great Ideas in Computer Architecture)
+    * [lectures](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
+    * [specific readings](https://inst.eecs.berkeley.edu//~cs61c/sp15/)
+    * Computer Organization and Design
+
+## Algorithms and Data Structures
+* The Algorithm Design Manual
+    * [Skiena's lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
+    * [Tim Roughgarden’s course](https://www.coursera.org/specializations/algorithms)
+    * [Tim Roughgarden’s course](http://timroughgarden.org/videos.html)
 * How to solve it
 * 数据结构与算法分析 C语言描述
 * 算法设计与分析基础
@@ -74,19 +83,29 @@ date: 2020-08-25
 * 剑指offer
 * Leetcode
 
-## 计算机组成原理
-* 计算机系统要素/ Coursera 视频课程
-* 计算机组成与设计
-* Berkeley CS61C
+## Mathematics
+* Discrete Mathematics lecture notes by László Lovász
+* 计算机科学中的数学 (Mathematics for Computer Science)
+    * [MIT course's video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+* [Essence of linear algebra video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* 线性代数 Gilbert Strang
+    * [video lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+* 普林斯顿微积分读本
+* 概率论与数理统计 陈希孺
+* 机器学习数学基础
+* 具体数学
 
-## 操作系统
-* 操作系统导论 (Operating Systems: Three Easy Pieces)
+## Operating Systems
+* [操作系统导论 (Operating Systems: Three Easy Pieces)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* Robert Love's Linux Kernel Development
 * Lion's commentary on Unix
 * The Design and Implementation of the FreeBSD Operating System
 * Mac OS X Internals
-* 操作系统概念 恐龙书
-* 现代操作系统
-* xv6 实验项目
+* [xv6](https://pdos.csail.mit.edu/6.828/2016/xv6.html)
+    * [MIT course](https://pdos.csail.mit.edu/6.828/2020/)
+    * [lab projects xv6](http://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf)
+* 操作系统概念 恐龙书 (Operating System Concepts)
+* 现代操作系统 (Modern Operating Systems)
 
 ## 计算机网络
 * 计算机网络: 自顶向下方法
