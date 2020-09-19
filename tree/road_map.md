@@ -16,8 +16,17 @@ date: 2020-08-25
 * Generator/ Iterator/ Twisted/ Tornado/ Asyncio/ Celery/ 元编程
 * Python 设计模式
 * 500 Lines
+* Redis in Action
+* Git
+* Docker
+* System Design (Github)
+* Raspberry Pi
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 * [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
+* MySQL技术内幕
+* 高性能MySQL
+* 图解密码技术
+* 剑指offer
 
 ## 语言
 * 新概念英语
@@ -70,7 +79,6 @@ date: 2020-08-25
 * 算法导论
 * The Science of Programming
 * Algorithms Jeff Erickson
-* 剑指offer
 * Leetcode
 
 ## Mathematics
@@ -111,9 +119,6 @@ date: 2020-08-25
 * Transaction Processing: Concepts and Techniques
 * 实现一个简单的关系型数据库管理系统
 * Data and Reality
-* MySQL技术内幕
-* 高性能MySQL
-* Redis in Action
 
 ## Languages and Compilers
 * [Crafting Interpreters by Bob Nystrom](https://craftinginterpreters.com/contents.html)
@@ -130,15 +135,6 @@ date: 2020-08-25
 * [MIT's 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
     * [readings](https://pdos.csail.mit.edu/6.824/schedule.html)
 * [论文列表](http://dsrg.pdos.csail.mit.edu/papers/)
-
-## 安全
-* 图解密码技术
-
-## 其他
-* Git
-* Docker
-* System Design (Github)
-* Raspberry Pi
 
 ## 统计学
 * 深入浅出统计学
