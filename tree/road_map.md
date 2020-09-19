@@ -12,28 +12,10 @@ date: 2020-08-25
 
 ## todo
 * Composing Programs
-* Concepts, Techniques, and Models of Computer Programming
-* The Little Schemer
-* C程序设计语言
-* C和指针
-* C标准库
-* C接口与实现
-* Unix/Linux编程实践教程
-* Unix环境高级编程
-* Unix网络编程
 * Python Cookbook
 * Generator/ Iterator/ Twisted/ Tornado/ Asyncio/ Celery/ 元编程
 * Python 设计模式
 * 500 Lines
-* MySQL技术内幕
-* 高性能MySQL
-* Redis in Action
-* 图解密码技术
-* Git/ Docker
-* System Design (Github)
-* 树莓派
-
-## 面试准备
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 * [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
 
@@ -41,18 +23,26 @@ date: 2020-08-25
 * 新概念英语
 * 雅思
 
-## 统计学
-* 深入浅出统计学
-* 可汗学院统计学视频
-* 商务与经济统计
+## Linux Programming
+* C程序设计语言
+* C和指针
+* C标准库
+* C接口与实现
+* Unix/Linux编程实践教程
+* Unix环境高级编程
+* Unix网络编程
 
 ## Programming
 * Structure and Interpretation of Computer Programs
     * [book](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
     * [Brian Harvey’s SICP lectures (61A course at Berkeley)](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
+    * [Brian Harvey 开设的 SICP 课程(英文字幕)](https://www.bilibili.com/video/av40460492/)
     * [MIT video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+    * [MIT的免费视频课程(中英字幕)](https://www.bilibili.com/video/av8515129/)
+    * [SICP学习相关资源](https://github.com/DeathKing/Learning-SICP)
 * [Composing Programs](https://composingprograms.com/)
 * [How To Design Programs](http://htdp.org/)
+* Concepts, Techniques, and Models of Computer Programming
 
 ## Computer Architecture
 * [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
@@ -111,27 +101,49 @@ date: 2020-08-25
 * Computer Networking: A Top-Down Approach (计算机网络: 自顶向下方法)
 * [Wireshark labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm)
 * [Stanford: Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
+* HTTP服务器/ 基于UDP的聊天APP/ 迷你TCP栈/ 代理/ 负载均衡器/ 分布式哈希表
 
-## 数据库
-* Berkeley CS186
-* Architecture of a Database System
-* Readings in Database Systems
+## Databases
+* [Joe Hellerstein’s databases course at Berkeley CS186](https://www.youtube.com/user/CS186Berkeley/videos)
+* [Architecture of a Database System](db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
+* [Readings in Database Systems](http://www.redbook.io/)
+* Database Management Systems by Ramakrishnan and Gehrke
 * Transaction Processing: Concepts and Techniques
 * 实现一个简单的关系型数据库管理系统
 * Data and Reality
+* MySQL技术内幕
+* 高性能MySQL
+* Redis in Action
 
-## 编程语言与编译器
+## Languages and Compilers
+* [Crafting Interpreters by Bob Nystrom](https://craftinginterpreters.com/contents.html)
+* [Compilers Alex Aiken Stanford](https://www.edx.org/course/compilers)
+* Compilers: Principles, Techniques & Tools (编译原理 龙书)
 * 编程语言实现模式
 * Make a Lisp
-* Compilers Alex Aiken Stanford
-* 编译原理 龙书
 * 现代编译原理 C语言描述
 * Engineering a Compiler
 
-## 分布式系统
-* 分布式系统原理与范型
-* MIT 6.824
-* 论文列表: dsrg.pdos.csail.mit.edu/papers
+## Distributed Systems
+* Designing Data-Intensive Applications (数据密集型应用系统设计)
+* [Distributed Systems (分布式系统原理与范型)](https://www.distributed-systems.net/index.php/books/ds3/)
+* [MIT's 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+    * [readings](https://pdos.csail.mit.edu/6.824/schedule.html)
+* [论文列表](http://dsrg.pdos.csail.mit.edu/papers/)
+
+## 安全
+* 图解密码技术
+
+## 其他
+* Git
+* Docker
+* System Design (Github)
+* Raspberry Pi
+
+## 统计学
+* 深入浅出统计学
+* 可汗学院统计学视频
+* 商务与经济统计
 
 ## 机器学习与深度学习
 * Python 数据分析
