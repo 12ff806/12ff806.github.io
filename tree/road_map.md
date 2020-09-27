@@ -12,6 +12,16 @@ date: 2020-08-25
 
 ## todo
 * Composing Programs
+* [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
+* The Elements of Computing Systems (Nand2Tetris)
+    * [website](https://www.nand2tetris.org/)
+    * [a Coursera course with accompanying videos](https://www.coursera.org/learn/build-a-computer)
+
+## 语言
+* 新概念英语
+* 雅思
+
+## System Design
 * Python Cookbook
 * Generator/ Iterator/ Twisted/ Tornado/ Asyncio/ Celery/ 元编程
 * Python 设计模式
@@ -21,16 +31,11 @@ date: 2020-08-25
 * Docker
 * System Design (Github)
 * Raspberry Pi
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
-* [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
 * MySQL技术内幕
 * 高性能MySQL
 * 图解密码技术
-* 剑指offer
-
-## 语言
-* 新概念英语
-* 雅思
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+* [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
 
 ## Linux Programming
 * C程序设计语言
