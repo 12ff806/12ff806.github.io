@@ -274,11 +274,11 @@ footer p a:hover{
     padding: 3px 5px;
     color: #000;
     background: #fff;
+    border-bottom: solid 1px #000;
     /*
     border: solid 1px #000;
-    */
-    border-bottom: solid 1px #000;
     border-radius: 2px;
+    */
 }
 
 .tree .tree-content h3,
