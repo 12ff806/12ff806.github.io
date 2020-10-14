@@ -265,7 +265,7 @@ date: 2020-10-06
 * 世界经济千年史 - 安格斯麦迪森 北京大学出版社2003版
 * 万历十五年 - 黄仁宇
 
-## A Quest for Meaning in life
+## A Quest for Meaning in Life
 
 * 生命的觉醒和开悟
 * 一颗自由喜悦爱的心
