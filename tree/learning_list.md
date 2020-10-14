@@ -11,11 +11,13 @@ date: 2020-10-06
 {::options auto_ids="false" /}
 
 ## todo
+* 新概念英语
 * Composing Programs
 * [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
 * The Elements of Computing Systems (Nand2Tetris)
     * [website](https://www.nand2tetris.org/)
     * [a Coursera course with accompanying videos](https://www.coursera.org/learn/build-a-computer)
+* 复杂 一门诞生于秩序与混沌边缘的科学
 
 ## 语言
 * 新概念英语
