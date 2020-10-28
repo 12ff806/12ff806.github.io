@@ -14,34 +14,33 @@ date: 2020-10-06
 * 新概念英语
 * Composing Programs
 * [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
-* The Elements of Computing Systems (Nand2Tetris)
-    * [website](https://www.nand2tetris.org/)
-    * [a Coursera course with accompanying videos](https://www.coursera.org/learn/build-a-computer)
-* 复杂 一门诞生于秩序与混沌边缘的科学
+* Designing Data-Intensive Applications (数据密集型应用系统设计)
 
 ## 语言
-* 新概念英语
-* 雅思
+* 新概念英语 -> 雅思
 
 ## System Design
 * Python Cookbook
-* Generator/ Iterator/ Twisted/ Tornado/ Asyncio/ Celery/ 元编程
+* Python Generator/ Iterator/ Asyncio/ Celery/ 元编程
 * Python 设计模式
-* 500 Lines
 * Redis in Action
-* Git
-* Docker
 * System Design (Github)
-* Raspberry Pi
+* 500 Lines
 * MySQL技术内幕
 * 高性能MySQL
 * 图解密码技术
+* [计算机教育中缺失的一课](https://missing-semester-cn.github.io)
+* Git
+* Docker
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 * [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
+* Raspberry Pi
 
 ## Linux Programming
 * C程序设计语言
 * C和指针
+* C专家编程
+* C陷阱与缺陷
 * C标准库
 * C接口与实现
 * Unix/Linux编程实践教程
