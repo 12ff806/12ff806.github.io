@@ -12,29 +12,39 @@ date: 2020-10-06
 
 ## todo
 * 新概念英语
-* Composing Programs
+* [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
 * [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
-* Designing Data-Intensive Applications (数据密集型应用系统设计)
+* The Algorithm Design Manual
+    * [Skiena's lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
+    * [Tim Roughgarden’s course](https://www.coursera.org/specializations/algorithms)
+    * [Tim Roughgarden’s course](http://timroughgarden.org/videos.html)
 
 ## 语言
 * 新概念英语 -> 雅思
 
 ## System Design
-* Python Cookbook
-* Python Generator/ Iterator/ Asyncio/ Celery/ 元编程
-* Python 设计模式
+* [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
+* [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
+* [500 Lines or Less](https://www.aosabook.org/en/index.html)
+* [深入设计模式](https://refactoringguru.cn/design-patterns/python)
+* Event Handling Pattern
+    * Reactor
+    * Proactor
+* Python
+    * Python Cookbook
+    * 高并发
+    * Generator
+    * Asyncio
+    * 装饰器
+    * 元类
 * Redis in Action
-* System Design (Github)
-* 500 Lines
 * MySQL技术内幕
 * 高性能MySQL
 * 图解密码技术
 * [计算机教育中缺失的一课](https://missing-semester-cn.github.io)
-* Git
-* Docker
+* Docker/ Git
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 * [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
-* Raspberry Pi
 
 ## Linux Programming
 * C程序设计语言
