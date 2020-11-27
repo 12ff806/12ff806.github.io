@@ -19,13 +19,13 @@ date: 2020-10-06
     * [Skiena's lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
     * [Tim Roughgarden’s course](https://www.coursera.org/specializations/algorithms)
     * [Tim Roughgarden’s course](http://timroughgarden.org/videos.html)
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 
 ## 语言
 * 新概念英语 -> 雅思
 
-## Do It Yourself
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+## Coding
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 
 ## System Design
 * [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
@@ -282,7 +282,6 @@ date: 2020-10-06
 * 万历十五年 - 黄仁宇
 
 ## A Quest for Meaning in Life
-
 * 生命的觉醒和开悟
 * 一颗自由喜悦爱的心
 * 走遍天下的气魄
@@ -294,9 +293,9 @@ date: 2020-10-06
 * 身体健康和内心富足
 * 感染并点燃他人的希望
 
-## 参考
+## References
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
-* [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+* [What Every Computer Science Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [Open Source Society University](https://github.com/ossu/computer-science)
 
