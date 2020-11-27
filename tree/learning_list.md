@@ -24,8 +24,11 @@ date: 2020-10-06
 ## 语言
 * 新概念英语 -> 雅思
 
-## Coding
+## Just Do It
+* [500 Lines or Less](https://www.aosabook.org/en/index.html)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+* [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+* [Nifty Assignments](http://nifty.stanford.edu)
 
 ## System Design
 * [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
@@ -49,7 +52,6 @@ date: 2020-10-06
 * 图解密码技术
 * Docker/ Git
 * [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
-* [500 Lines or Less](https://www.aosabook.org/en/index.html)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 * [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
 
@@ -298,4 +300,5 @@ date: 2020-10-06
 * [What Every Computer Science Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [Open Source Society University](https://github.com/ossu/computer-science)
+* [Learn Programming](https://www.reddit.com/r/learnprogramming/wiki/faq)
 
