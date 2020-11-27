@@ -10,7 +10,8 @@ date: 2020-10-06
 
 {::options auto_ids="false" /}
 
-## todo
+
+## Todo
 * 新概念英语
 * [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
 * [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
@@ -18,9 +19,13 @@ date: 2020-10-06
     * [Skiena's lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
     * [Tim Roughgarden’s course](https://www.coursera.org/specializations/algorithms)
     * [Tim Roughgarden’s course](http://timroughgarden.org/videos.html)
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 ## 语言
 * 新概念英语 -> 雅思
+
+## Do It Yourself
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 ## System Design
 * [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
@@ -288,4 +293,10 @@ date: 2020-10-06
 * 任何时候都真正懂你的人
 * 身体健康和内心富足
 * 感染并点燃他人的希望
+
+## 参考
+* [Teach Yourself Computer Science](https://teachyourselfcs.com)
+* [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+* [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+* [Open Source Society University](https://github.com/ossu/computer-science)
 
