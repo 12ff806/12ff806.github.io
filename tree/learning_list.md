@@ -24,12 +24,13 @@ date: 2020-10-06
 
 ## System Design
 * [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
-* [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
-* [500 Lines or Less](https://www.aosabook.org/en/index.html)
 * [深入设计模式](https://refactoringguru.cn/design-patterns/python)
 * Event Handling Pattern
     * Reactor
     * Proactor
+    * [https://wiesen.github.io/post/io-event-handling-design-patterns/](https://wiesen.github.io/post/io-event-handling-design-patterns/)
+    * [Comparing Two High-Performance I/O Design Patterns](https://www.artima.com/articles/io_design_patterns.html)
+* [计算机教育中缺失的一课](https://missing-semester-cn.github.io)
 * Python
     * Python Cookbook
     * 高并发
@@ -41,8 +42,9 @@ date: 2020-10-06
 * MySQL技术内幕
 * 高性能MySQL
 * 图解密码技术
-* [计算机教育中缺失的一课](https://missing-semester-cn.github.io)
 * Docker/ Git
+* [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
+* [500 Lines or Less](https://www.aosabook.org/en/index.html)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 * [大厂面试题2019](https://github.com/0voice/interview_internal_reference)
 
