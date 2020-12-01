@@ -16,9 +16,9 @@ date: 2020-10-06
 * [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
 * [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
 * The Algorithm Design Manual
-    * [Skiena's lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
-    * [Tim Roughgarden’s course](https://www.coursera.org/specializations/algorithms)
-    * [Tim Roughgarden’s course](http://timroughgarden.org/videos.html)
+    * [CSE373](https://www3.cs.stonybrook.edu/~skiena/373/)
+    * [Skiena's Lectures on bilibili](https://www.bilibili.com/video/BV1sa411w7qw)
+    * [Skiena's Lectures on Youtube](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 
 ## 语言
@@ -90,8 +90,10 @@ date: 2020-10-06
 
 ## Algorithms and Data Structures
 * The Algorithm Design Manual
-    * [Skiena's lectures](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
-    * [Tim Roughgarden’s course](https://www.coursera.org/specializations/algorithms)
+    * [CSE373](https://www3.cs.stonybrook.edu/~skiena/373/)
+    * [Skiena's Lectures on bilibili](https://www.bilibili.com/video/BV1sa411w7qw)
+    * [Skiena's Lectures on Youtube](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
+* Tim Roughgarden’s course
     * [Tim Roughgarden’s course](http://timroughgarden.org/videos.html)
 * How to solve it
 * 数据结构与算法分析 C语言描述
