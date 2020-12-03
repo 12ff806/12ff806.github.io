@@ -22,7 +22,14 @@ date: 2020-10-06
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 
 ## 语言
-* 新概念英语 -> 雅思
+* 新概念英语
+* TED-Ed
+* TED
+* 雅思
+* Hebrew
+* 阿拉伯语
+* 简明法语教程
+* 西班牙语
 
 ## Just Do It
 * [500 Lines or Less](https://www.aosabook.org/en/index.html)
