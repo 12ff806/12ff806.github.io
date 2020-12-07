@@ -19,17 +19,19 @@ date: 2020-10-06
     * [CSE373](https://www3.cs.stonybrook.edu/~skiena/373/)
     * [Skiena's Lectures on bilibili](https://www.bilibili.com/video/BV1sa411w7qw)
     * [Skiena's Lectures on Youtube](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
+* labuladong的算法小抄
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 
 ## 语言
 * 新概念英语
+* 西南联大英文课
 * TED-Ed
 * TED
 * 雅思
 * Hebrew
-* 阿拉伯语
 * 简明法语教程
 * 西班牙语
+* 阿拉伯语
 
 ## Just Do It
 * [500 Lines or Less](https://www.aosabook.org/en/index.html)
