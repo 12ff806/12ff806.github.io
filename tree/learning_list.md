@@ -20,6 +20,8 @@ date: 2020-10-06
     * [Skiena's Lectures on bilibili](https://www.bilibili.com/video/BV1sa411w7qw)
     * [Skiena's Lectures on Youtube](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 * labuladong的算法小抄
+    * [Gitbook](https://labuladong.gitbook.io/algo/)
+    * [Github Pages](https://labuladong.github.io/algo/)
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 
 ## 语言
