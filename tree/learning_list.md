@@ -26,14 +26,11 @@ date: 2020-10-06
 
 ## 语言
 * 新概念英语
-* 西南联大英文课
 * TED-Ed
 * TED
+* 西南联大英文课
 * 雅思
-* Hebrew
-* 简明法语教程
-* 西班牙语
-* 阿拉伯语
+* Hebrew ?
 
 ## Just Do It
 * [500 Lines or Less](https://www.aosabook.org/en/index.html)
