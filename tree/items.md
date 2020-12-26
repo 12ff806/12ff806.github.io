@@ -83,7 +83,7 @@ date: 2020-12-26
 * 洗面奶 协和精心
 * 牙膏 redseal
 * 速干毛巾 迪卡侬
-* 鞋 Converse 飞跃 crispi lasportiva lowa scarpa garmont zamberlan tecnica keen vibram
+* 鞋 Converse 飞跃 crispi lasportiva lowa scarpa garmont tecnica keen
 * 户外服装 ARC'TERYX MAMMUT Marmot patagonia haglofs blackyak uto klattermusen
 * 户外包 osprey gregory deuter fjallraven
 * 户外用品 PETZL fenix seatosummit blackdiamond camp blackice camelbak
