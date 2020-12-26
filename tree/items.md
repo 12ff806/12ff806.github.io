@@ -51,7 +51,7 @@ date: 2020-12-26
 * 宜家 马克杯
 * 雨伞
 
-## Books
+## 书
 * 深入理解计算机系统
 * The Algorithm Design Manual
 * 数据结构与算法分析
@@ -70,10 +70,21 @@ date: 2020-12-26
 * PostgreSQL 9X 之颠
 * PostgreSQL 实战
 
-## Shopping List
+## 购物清单
 * 宜家 铁床 1.8m 2.0m
 * 厚床垫 1.8m 2.0m
 * 四件套 2m 2.3m
 * 空调
 * 洗衣机
+
+## 购买指南
+* 硅霜 协和精心
+* 硅E乳 协和精心
+* 洗面奶 协和精心
+* 牙膏 redseal
+* 速干毛巾 迪卡侬
+* 鞋 Converse 飞跃 crispi lasportiva lowa scarpa garmont zamberlan tecnica keen vibram
+* 户外服装 ARC'TERYX MAMMUT Marmot patagonia haglofs blackyak uto klattermusen
+* 户外包 osprey gregory deuter fjallraven
+* 户外用品 PETZL fenix seatosummit blackdiamond camp blackice camelbak
 
