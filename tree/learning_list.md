@@ -171,6 +171,10 @@ date: 2020-10-06
     * [readings](https://pdos.csail.mit.edu/6.824/schedule.html)
 * [论文列表](http://dsrg.pdos.csail.mit.edu/papers/)
 
+## 嵌入式开发
+* 数字电路/ 模拟电路
+* Arduino/ Raspberry Pi
+
 ## 统计学
 * 深入浅出统计学
 * 可汗学院统计学视频
@@ -178,19 +182,22 @@ date: 2020-10-06
 
 ## 机器学习与深度学习
 * Python 数据分析
-* CS231N
-* Machine Learning 吴恩达
-* CS229
-* 机器学习基石 林轩田
-* 机器学习技法 林轩田
-* 机器学习 周志华
-* 统计学系方法 李航
+* [Machine Learning 吴恩达](https://www.coursera.org/learn/machine-learning)/ [CS229](https://see.stanford.edu/course/cs229)
+* Python机器学习 Sebastian Raschka
 * Hands-On Machine Learning with Scikit-Learn and Tensorflow
+* 统计学习导论 基于R应用
+* 机器学习 周志华
 * Kaggle
 * Scikit-Learn 官方文档
-* Deep Learning
+
+* Deep Learning Specialization deeplearning.ai
+* Deep Learning Ian GoodFellow
+* 统计学习方法 李航
+* Elements of Statistical Learning
+
 * Fast.ai 程序员深度学习实战
 * CS230 Deep Learning
+* CS231N
 * 神经网络与深度学习 邱锡鹏
 * 深度学习
 * 深度学习500问
