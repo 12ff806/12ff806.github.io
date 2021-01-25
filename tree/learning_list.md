@@ -180,6 +180,9 @@ date: 2020-10-06
 * 可汗学院统计学视频
 * 商务与经济统计
 
+## 人工智能
+* [Berkeley’s intro to AI course](http://ai.berkeley.edu/home.html)
+
 ## 机器学习与深度学习
 * Python 数据分析
 * [Machine Learning 吴恩达](https://www.coursera.org/learn/machine-learning)/ [CS229](https://see.stanford.edu/course/cs229)
@@ -187,22 +190,15 @@ date: 2020-10-06
 * Hands-On Machine Learning with Scikit-Learn and Tensorflow
 * 统计学习导论 基于R应用
 * 机器学习 周志华
-* Kaggle
-* Scikit-Learn 官方文档
-
+* Deep Learning CS230 吴恩达
 * Deep Learning Specialization deeplearning.ai
 * Deep Learning Ian GoodFellow
 * 统计学习方法 李航
 * Elements of Statistical Learning
-
-* Fast.ai 程序员深度学习实战
-* CS230 Deep Learning
-* CS231N
+* 程序员深度学习实战 Fast.ai
 * 神经网络与深度学习 邱锡鹏
-* 深度学习
-* 深度学习500问
-* Tensorflow 官方文档
-* PyTorch 官方文档
+* Scikit-Learn 官方文档
+* Kaggle
 
 ## 强化学习
 * 深度强化学习 李宏毅
@@ -216,10 +212,11 @@ date: 2020-10-06
 * CS224N 斯坦福深度自然语言处理课
 
 ## 计算机视觉
+* CS223B
+* CS231N
 * OpenCV3 编程入门
 * Computer Vision: Algorithms and Applications
 * Computer Vision: Models, Learning and Inference
-* CS223B
 
 ## 推荐系统
 * Recommender Systems Handbook
