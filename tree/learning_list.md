@@ -30,7 +30,6 @@ date: 2020-10-06
 * TED
 * 西南联大英文课
 * 雅思
-* Hebrew ?
 
 ## Just Do It
 * [500 Lines or Less](https://www.aosabook.org/en/index.html)
@@ -171,9 +170,13 @@ date: 2020-10-06
     * [readings](https://pdos.csail.mit.edu/6.824/schedule.html)
 * [论文列表](http://dsrg.pdos.csail.mit.edu/papers/)
 
-## 嵌入式开发
+## 嵌入式
 * 数字电路/ 模拟电路
 * Arduino/ Raspberry Pi
+
+## 飞行器
+* 航模
+* 空气动力学
 
 ## 统计学
 * 深入浅出统计学
