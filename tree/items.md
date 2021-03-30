@@ -25,31 +25,31 @@ date: 2020-12-26
 * The North Face 抓绒
 * CA 夹克
 * Pelliot 棉服外套 可做内胆
-* uniqlo 薄羽绒服
-* uniqlo 套头卫衣
+* Uniqlo 薄羽绒服
+* Uniqlo 套头卫衣
 * GAP 卫衣
 * RockPlan 卫衣
 * T恤 5件
 
 ## 裤子
 * GAP 休闲裤 夏天 2条
-* levi's 牛仔裤 秋冬
-* 优衣库 休闲裤 秋冬 2条
+* Levi's 牛仔裤 秋冬
+* Uniqlo 休闲裤 秋冬 2条
 * 秋裤 2条
 * 内裤 5条
 
 ## 鞋子
-* chunk70 帆布鞋
-* 飞跃 帆布鞋
-* 严选拖鞋 1双
+* Converse Chunk70
+* 飞跃
+* 拖鞋
 
 ## 袜子
 * 长袜 5双
 * 船袜 6双
 
 ## 背包
-* osprey 48寸小鹰
-* osprey 13寸日光
+* Osprey 48寸小鹰
+* Osprey 13寸日光
 
 ## 其他
 * The North Face 户外水壶
@@ -60,8 +60,8 @@ date: 2020-12-26
 * 深入理解计算机系统
 * The Algorithm Design Manual
 * 数据结构与算法分析
-* labuladong算法小抄
-* How to solve it
+* Labuladong算法小抄
+* How To Solve It
 * 算法设计与分析基础
 * 计算机科学中的数学
 * 线性代数
@@ -69,7 +69,7 @@ date: 2020-12-26
 * 计算机网络 自顶向下方法
 * C程序设计语言
 * C和指针
-* unix/linux编程实践教程
+* Unix/Linux编程实践教程
 * 简明法语教程上
 * PostgreSQL修炼之道
 * PostgreSQL 9X 之颠
