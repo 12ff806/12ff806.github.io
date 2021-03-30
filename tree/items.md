@@ -23,22 +23,27 @@ date: 2020-12-26
 * Patagonia 羊羔绒
 * The North Face 硬壳
 * The North Face 抓绒
-* pelliot 棉服外套 可做内胆
+* CA 夹克
+* Pelliot 棉服外套 可做内胆
 * uniqlo 薄羽绒服
 * uniqlo 套头卫衣
-* 白T 4件
+* GAP 卫衣
+* RockPlan 卫衣
+* T恤 5件
 
 ## 裤子
-* 探路者 速干裤 夏天 2条
-* uniqlo 休闲裤 秋冬 2条
+* GAP 休闲裤 夏天 2条
 * levi's 牛仔裤 秋冬
+* 优衣库 休闲裤 秋冬 2条
 * 秋裤 2条
 * 内裤 5条
 
-## 鞋袜
+## 鞋子
 * chunk70 帆布鞋
 * 飞跃 帆布鞋
 * 严选拖鞋 1双
+
+## 袜子
 * 长袜 5双
 * 船袜 6双
 
