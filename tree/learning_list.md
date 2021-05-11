@@ -28,8 +28,6 @@ date: 2020-10-06
 * 新概念英语
 * TED-Ed
 * TED
-* 西南联大英文课
-* 雅思
 
 ## Just Do It
 * [500 Lines or Less](https://www.aosabook.org/en/index.html)
