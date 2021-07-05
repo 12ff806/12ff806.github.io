@@ -37,7 +37,7 @@ date: 2020-12-26
 * 内裤 5条
 
 ## 鞋子
-* Converse Chunk70
+* Converse Chunk70 2双
 * 飞跃
 * 拖鞋
 
