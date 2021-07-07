@@ -248,6 +248,8 @@ date: 2020-10-06
 * 必然
 * 不论
 * 哥德尔 艾舍尔 巴赫 集异璧之大成
+* Thinking in Complexity (复杂性思维)
+* Thinking in Systems: A Primer (系统之美)
 * 系统科学
 * 网络 群体与市场
 * 网络科学引论
