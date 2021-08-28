@@ -26,8 +26,7 @@ date: 2020-10-06
 
 ## 语言
 * 新概念英语
-* TED-Ed
-* TED
+* TED-Ed/ TED
 
 ## Just Do It
 * [500 Lines or Less](https://www.aosabook.org/en/index.html)
@@ -168,9 +167,11 @@ date: 2020-10-06
     * [readings](https://pdos.csail.mit.edu/6.824/schedule.html)
 * [论文列表](http://dsrg.pdos.csail.mit.edu/papers/)
 
-## 嵌入式
-* 数字电路/ 模拟电路
-* Arduino/ Raspberry Pi
+## 嵌入式/ IOT
+* 数字电路
+* 模拟电路
+* Arduino
+* Raspberry Pi
 
 ## 飞行器
 * 航模

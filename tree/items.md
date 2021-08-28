@@ -28,7 +28,7 @@ date: 2020-12-26
 * Uniqlo 薄羽绒服
 * Uniqlo 套头卫衣
 * GAP 卫衣
-* T恤 5件
+* T恤 4件
 
 ## 裤子
 * GAP 休闲裤 夏天 2条
@@ -37,8 +37,8 @@ date: 2020-12-26
 * 内裤 5条
 
 ## 鞋子
-* Converse Chunk70 2双
-* 飞跃
+* Converse Chunk70
+* 飞跃 2双
 * 拖鞋
 
 ## 袜子
@@ -90,6 +90,6 @@ date: 2020-12-26
 * 速干毛巾 迪卡侬
 * 鞋 Converse 飞跃 crispi lasportiva lowa scarpa garmont tecnica keen
 * 户外服装 ARC'TERYX MAMMUT Marmot patagonia haglofs blackyak uto klattermusen
-* 户外包 osprey gregory deuter fjallraven
+* 户外包 osprey gregory fjallraven
 * 户外用品 PETZL fenix seatosummit blackdiamond camp blackice camelbak
 
