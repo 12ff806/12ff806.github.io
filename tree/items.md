@@ -14,8 +14,8 @@ date: 2020-12-26
 ## 电子产品
 * 13.3 MacBook Pro
 * iPhone SE 2
-* AirPods
 * iPad Mini 5
+* AirPods
 * Raspberry Pi 3B+
 * Google Pixel 2 xl
 
@@ -23,15 +23,15 @@ date: 2020-12-26
 * Patagonia 羊羔绒
 * The North Face 硬壳
 * The North Face 抓绒
+* Uniqlo 薄羽绒服
 * Pelliot 棉服外套 可做内胆
 * CA 夹克
-* Uniqlo 薄羽绒服
-* Uniqlo 套头卫衣
 * GAP 卫衣
+* Uniqlo 套头卫衣
 * T恤 4件
 
 ## 裤子
-* GAP 休闲裤 夏天 2条
+* GAP 休闲裤 夏天 3条
 * Levi's 牛仔裤 秋冬
 * 秋裤 2条
 * 内裤 5条
@@ -48,6 +48,8 @@ date: 2020-12-26
 ## 背包
 * Osprey 48寸小鹰
 * Osprey 13寸日光
+* Gregory 斜挎包
+* Osprey 帆布袋
 
 ## 其他
 * The North Face 户外水壶
@@ -83,13 +85,11 @@ date: 2020-12-26
 * 网易拖鞋 3
 
 ## 购买指南
-* 硅霜 协和精心
-* 硅E乳 协和精心
-* 洗面奶 协和精心
-* 牙膏 redseal
-* 速干毛巾 迪卡侬
-* 鞋 Converse 飞跃 crispi lasportiva lowa scarpa garmont tecnica keen
-* 户外服装 ARC'TERYX MAMMUT Marmot patagonia haglofs blackyak uto klattermusen
-* 户外包 osprey gregory fjallraven
-* 户外用品 PETZL fenix seatosummit blackdiamond camp blackice camelbak
+* 洗面奶/ 硅霜/ 硅E乳 (协和)
+* 牙膏 (redseal)
+* 速干毛巾 (迪卡侬)
+* 鞋 (Converse 飞跃 crispi lasportiva lowa scarpa garmont tecnica keen)
+* 户外服装 (ARC'TERYX MAMMUT Marmot patagonia haglofs blackyak uto klattermusen)
+* 户外包 (osprey gregory)
+* 户外用品 (PETZL fenix seatosummit blackdiamond camp blackice camelbak)
 
