@@ -24,10 +24,10 @@ date: 2020-12-26
 * The North Face 硬壳
 * The North Face 抓绒
 * Uniqlo 薄羽绒服
-* Pelliot 棉服外套 可做内胆
+* Pelliot 棉衣
 * CA 夹克
 * GAP 卫衣
-* Uniqlo 套头卫衣
+* Uniqlo 卫衣
 * T恤 (4件)
 
 ## 裤子

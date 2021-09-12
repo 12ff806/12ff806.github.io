@@ -19,14 +19,13 @@ date: 2021-09-10
 * [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
 * 跨学科总结
 * digital nomad 规划
+* 怎样解题
 * 苏格拉底式对话
 
 
 ### 次要
-* rick and morty
 * 体检
 * 塔可夫斯基
 * 阿瑟克拉克
 * 1984
-* 给四哥问etc 9月4日停的车
 
