@@ -18,7 +18,9 @@ date: 2021-09-10
 * [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
 * [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
 * Designing Data-Intensive Applications (数据密集型应用系统设计)
+* Unix/Linux编程实践教程
 * 怎样解题
+* 写个俄罗斯方块
 
 ## 瞎看
 * 人生的智慧
@@ -28,7 +30,9 @@ date: 2021-09-10
 * 幸福之路
 * 生命是什么
 
-## 其他
+## 生活
+* 生命以负熵为食 (戒烟/ 11:30前睡觉/ 跑步/ 调整饮食)
+* 取港澳通行证
 * 塔可夫斯基/ 阿瑟克拉克/ 1984
 * 体检
 
