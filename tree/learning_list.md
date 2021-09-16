@@ -74,6 +74,7 @@ date: 2020-10-06
 * The Elements of Computing Systems (Nand2Tetris)
     * [website](https://www.nand2tetris.org/)
     * [a Coursera course with accompanying videos](https://www.coursera.org/learn/build-a-computer)
+* [Build an 8-bit computer from scratch](https://eater.net/8bit)
 * Berkeley CS61C (Great Ideas in Computer Architecture)
     * [lectures](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
     * [specific readings](https://inst.eecs.berkeley.edu//~cs61c/sp15/)
