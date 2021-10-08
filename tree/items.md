@@ -33,7 +33,7 @@ date: 2020-12-26
 ## 裤子
 * A chock 抽绳 (春夏秋)
 * GAP 休闲裤 (春夏秋 3条)
-* Levi's 牛仔裤 (冬)
+* GOOGIMS 直筒阔腿卫裤 (秋冬)
 * 秋裤 2条
 * 内裤 5条
 
@@ -49,9 +49,9 @@ date: 2020-12-26
 ## 背包
 * Osprey 小鹰 (48寸)
 * ARC'TERYX INDEX 15 (15寸)
-* Osprey DAYLITE (13寸)
 * Gregory TRANSFER 斜挎包
 * Osprey 帆布袋
+* Osprey DAYLITE (13寸)
 
 ## 杯子
 * The North Face 水杯
