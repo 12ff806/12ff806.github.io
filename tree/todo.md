@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: Todo
-date: 2021-09-10
+date: 2021-10-15
 ---
 
 
@@ -15,12 +15,12 @@ date: 2021-09-10
 * 新概念英语
 
 ## 编程
+* 写个俄罗斯方块
+* Unix/Linux编程实践教程
+* 怎样解题
 * [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
 * [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)
 * Designing Data-Intensive Applications (数据密集型应用系统设计)
-* Unix/Linux编程实践教程
-* 怎样解题
-* 写个俄罗斯方块
 
 ## 瞎看
 * 跨学科总结
