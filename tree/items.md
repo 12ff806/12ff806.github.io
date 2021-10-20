@@ -21,6 +21,7 @@ date: 2020-12-26
 
 ## 上衣
 * Patagonia 羊羔绒
+* CHINISM 连帽卫衣
 * The North Face 硬壳
 * The North Face 抓绒
 * Uniqlo 薄羽绒服
