@@ -80,7 +80,7 @@ date: 2020-12-26
 ## 好用的品牌
 * 电动牙刷 (素士)
 * 牙膏 (redseal)
-* 洗面奶/ 硅霜/ 硅E乳 (协和)
+* 硅霜/ 硅E乳 (协和)
 * 速干毛巾 (迪卡侬)
 * 鞋 (Converse 飞跃 crispi lasportiva lowa scarpa garmont tecnica keen)
 * 户外服装 (ARC'TERYX MAMMUT Marmot patagonia haglofs blackyak uto klattermusen)
