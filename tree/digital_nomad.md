@@ -26,7 +26,6 @@ date: 2021-09-06
 ## 视频
 * Bilibili
 * Youtube
-* Acfun
 
 ## 终身成长
 * 学习多语言
