@@ -77,13 +77,12 @@ date: 2020-12-26
 * PostgreSQL 实战
 
 ## 好用的品牌
-* 电动牙刷 (素士)
+* 牙刷 (素士)
 * 牙膏 (redseal)
 * 硅霜/ 硅E乳 (协和)
-* 速干毛巾 (迪卡侬)
-* 鞋 (Converse 飞跃 crispi lasportiva lowa scarpa garmont tecnica keen)
-* 户外服装 (ARC'TERYX MAMMUT Marmot patagonia haglofs blackyak uto klattermusen)
-* 包 (osprey gregory ARC'TERYX)
+* 衣服 (ARC'TERYX MAMMUT Marmot patagonia haglofs)
+* 鞋子 (飞跃 Converse crispi lasportiva lowa scarpa keen)
+* 背包 (osprey gregory ARC'TERYX)
 * 户外用品 (PETZL fenix seatosummit blackdiamond camp blackice camelbak)
 
 ## 待添置

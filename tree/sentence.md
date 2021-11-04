@@ -19,6 +19,7 @@ date: 2021-09-06
 * your anger is a kind of madness, because you set a high price on worthless things.
 * you can't find peace by avoiding life.
 * when you look long into an abyss, the abyss looks into you.
+* i am not here, you may see me, but i am empty.
 
 
 ## 日本语
@@ -28,10 +29,12 @@ date: 2021-09-06
 * 大丈夫 (daijobu)
 * お疲れ様です (Otsukaresamadesu)
 
+
 ## 中文
 * 我们每分每秒都在接近生命的终点
 * 我们的存在 只不过是永恒长夜之间的一道短暂微光
 * 我们更像是被抛弃到了世界上 这是我们痛苦的根源
 * 生活的荒芜感
 * 我告诉你我喜欢你 并不是一定要和你在一起 只是希望今后的你 在遭遇人生低谷的时候 不要灰心 至少曾今有人被你的魅力所吸引 曾经是 以后也会是
+* 自由不是放纵的自由 自由始终是自律的自由
 
