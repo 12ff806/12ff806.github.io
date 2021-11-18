@@ -53,10 +53,6 @@ date: 2020-12-26
 * Gregory TRANSFER 斜挎包
 * Osprey 帆布袋
 
-## 杯子
-* The North Face 水杯
-* IKEA 马克杯
-
 ## 书
 * 深入理解计算机系统
 * The Algorithm Design Manual
@@ -77,11 +73,8 @@ date: 2020-12-26
 * PostgreSQL 实战
 
 ## 好用的品牌
-* 牙刷 (素士)
-* 牙膏 (redseal)
-* 硅霜/ 硅E乳 (协和)
 * 衣服 (ARC'TERYX MAMMUT Marmot patagonia haglofs)
-* 鞋子 (飞跃 Converse crispi lasportiva lowa scarpa keen)
+* 鞋子 (飞跃 Converse crispi lasportiva lowa scarpa)
 * 背包 (osprey gregory ARC'TERYX)
 * 户外用品 (PETZL fenix seatosummit blackdiamond camp blackice camelbak)
 
