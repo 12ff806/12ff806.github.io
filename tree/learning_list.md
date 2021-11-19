@@ -156,6 +156,7 @@ date: 2020-10-06
 * [论文列表](http://dsrg.pdos.csail.mit.edu/papers/)
 
 ## 嵌入式/ IOT
+* [IoT For Beginners](https://github.com/microsoft/IoT-For-Beginners)
 * 数字电路
 * 模拟电路
 * Arduino
@@ -174,6 +175,8 @@ date: 2020-10-06
 * [Berkeley’s intro to AI course](http://ai.berkeley.edu/home.html)
 
 ## 机器学习与深度学习
+* [Data Science For Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+* [ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
 * Python 数据分析
 * [Machine Learning 吴恩达](https://www.coursera.org/learn/machine-learning)/ [CS229](https://see.stanford.edu/course/cs229)
 * Python机器学习 Sebastian Raschka
