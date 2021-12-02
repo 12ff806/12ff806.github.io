@@ -230,19 +230,19 @@ date: 2020-10-06
 * 自卑与超越
 * 哈弗大学幸福课
 * 活出心花怒放的人生
-* 象与骑象人
 * 心流
-* 真实的幸福
-* 活出最乐观的自己
 * 被讨厌的勇气
+* 活出最乐观的自己
+* 真实的幸福
+* 象与骑象人
 * 苏菲的世界
 * 大问题
 * 幸福之路
 * 林超跨学科通识课
-* 认知科学揭秘 认识科学与广义进化论
 * 复杂 一门诞生于秩序与混沌边缘的科学
 * 复杂
 * NetLogo多主体建模入门
+* 认知科学揭秘 认识科学与广义进化论
 * 规模 复杂世界的简单法则
 * 隐秩序 适应性造就复杂性
 * 链接 商业 科学 与生活的新思维
@@ -301,6 +301,7 @@ date: 2020-10-06
 * The Cash Nexus (金钱关系) - Niall Ferguson
 * Chinese Economic Performance in the Long Run:960-2030 AD (中国经济的长期表现:公元960-2030年) - Angus Maddison
 * The Peasant Economy and Social Change in North China (华北的小农经济与社会变迁) - 黄宗智
+* 万历十五年 - 黄仁宇
 * 十六世纪明代中国之财政与税收 - 黄仁宇
 * Adam's Fallacy:A Guide to Economic Theology - Duncan K. Foley
 * 马克思恩格斯选集（第三卷）- 恩格斯 在马克思墓前的讲话 574-576页 人民出版社 北京1972年版本
@@ -309,7 +310,6 @@ date: 2020-10-06
 * 毛泽东选集 第一卷 - 中国革命战争的战略问题 45-75页 人民出版社 北京1991版
 * 道德经 - 老子
 * 世界经济千年史 - 安格斯麦迪森 北京大学出版社2003版
-* 万历十五年 - 黄仁宇
 
 ## References
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
