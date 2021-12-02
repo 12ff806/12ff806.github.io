@@ -311,18 +311,6 @@ date: 2020-10-06
 * 世界经济千年史 - 安格斯麦迪森 北京大学出版社2003版
 * 万历十五年 - 黄仁宇
 
-## A Quest For The Meaning Of Life
-* 生命的觉醒和开悟
-* 身体健康和内心富足
-* 安稳平和的睡眠
-* 享受属于自己的空间和时间
-* 一颗自由喜悦爱的心
-* 回归自然
-* 走遍天下的气魄
-* 感染并点燃他人的希望
-* 任何时候都真正懂你的人
-* 彼此相爱的灵魂伴侣
-
 ## References
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 * [What Every Computer Science Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
