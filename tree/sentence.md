@@ -20,6 +20,7 @@ date: 2021-09-06
 * you can't find peace by avoiding life.
 * when you look long into an abyss, the abyss looks into you.
 * i am not here, you may see me, but i am empty.
+* life is really full of uncertainty.
 
 
 ## 日本语
