@@ -21,22 +21,24 @@ date: 2020-12-26
 
 ## 上衣
 * Patagonia 羊羔绒
-* CHINISM 连帽卫衣
 * The North Face 硬壳
 * The North Face 抓绒
-* Uniqlo 薄羽绒服
-* Pelliot 棉衣
+* 迪卡侬 薄羽绒服
+* GOSOLO 连帽卫衣
 * CA 夹克
-* GAP 卫衣
+* Pelliot 棉衣
+* Uniqlo 薄羽绒服
+* CHINISM 连帽卫衣
 * Uniqlo 卫衣
+* GAP 卫衣
 * T恤 (4件)
 
 ## 裤子
-* A chock 抽绳 (春夏秋)
+* A Chock 抽绳 (春夏秋)
 * GAP 休闲裤 (春夏秋 2条)
 * GOOGIMS 直筒阔腿卫裤 (秋冬 2条)
 * 秋裤 4条
-* 内裤 5条
+* 内裤 6条
 
 ## 鞋子
 * Converse Chunk 70
