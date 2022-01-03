@@ -20,23 +20,22 @@ date: 2020-12-26
 * Raspberry Pi 3B+
 
 ## 上衣
+* The North Face 冲锋衣
 * Patagonia 羊羔绒
-* CHINISM 连帽卫衣
-* The North Face 硬壳
-* The North Face 抓绒
-* Uniqlo 薄羽绒服
-* Pelliot 棉衣
-* CA 夹克
+* GOSOLO 棉服
+* 迪卡侬 薄羽绒服
+* GOSOLO 连帽卫衣
 * GAP 卫衣
-* Uniqlo 卫衣
+* CA 夹克
 * T恤 (4件)
 
 ## 裤子
-* A chock 抽绳 (春夏秋)
+* UR 直筒运动裤 (秋冬)
+* GOOGIMS 直筒卫裤 (秋冬 2条)
+* A chock 抽绳 (春夏秋 2条)
 * GAP 休闲裤 (春夏秋 2条)
-* GOOGIMS 直筒阔腿卫裤 (秋冬 2条)
 * 秋裤 4条
-* 内裤 5条
+* 内裤 6条
 
 ## 鞋子
 * Converse Chunk 70
