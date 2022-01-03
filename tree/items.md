@@ -78,7 +78,6 @@ date: 2020-12-26
 * 户外用品 (PETZL fenix seatosummit blackdiamond camp blackice camelbak)
 
 ## 待添置
-* 组合书架 3
 * 宜家 铁床 180x200
 * 厚床垫 180x200
 * 四件套 200x230
