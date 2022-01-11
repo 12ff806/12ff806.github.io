@@ -40,7 +40,6 @@ date: 2020-12-26
 ## 鞋子
 * Converse Chunk 70
 * Feiyue (2双)
-* 拖鞋
 
 ## 袜子
 * 长袜 (6双)
@@ -51,25 +50,6 @@ date: 2020-12-26
 * ARC'TERYX INDEX 15 (15寸)
 * Gregory TRANSFER 斜挎包
 * Osprey 帆布袋
-
-## 书
-* 深入理解计算机系统
-* The Algorithm Design Manual
-* 数据结构与算法分析
-* Labuladong算法小抄
-* How To Solve It
-* 算法设计与分析基础
-* 计算机科学中的数学
-* 线性代数
-* 操作系统导论
-* 计算机网络 自顶向下方法
-* C程序设计语言
-* C和指针
-* Unix/Linux编程实践教程
-* 简明法语教程上
-* PostgreSQL修炼之道
-* PostgreSQL 9X 之颠
-* PostgreSQL 实战
 
 ## 好用的品牌
 * 衣服 (ARC'TERYX MAMMUT Marmot patagonia haglofs)
