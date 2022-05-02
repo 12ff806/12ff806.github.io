@@ -392,7 +392,7 @@ date: 2020-10-06
 * 人类简史
 * 苏格拉底
 * 爱的艺术
-* 西西弗斯的神话
+* 西西弗的神话
 
 ## References
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
