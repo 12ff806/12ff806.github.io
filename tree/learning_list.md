@@ -290,8 +290,12 @@ date: 2020-10-06
 * 林超跨学科通识课
 * 复杂 一门诞生于秩序与混沌边缘的科学
 * 复杂
+* 失效的科学
+* What is a Complex System (Paper) - Wiesner
 * NetLogo多主体建模入门
 * 认知科学揭秘 认识科学与广义进化论
+* 混沌 - 格雷克
+* 信息简史 - 格雷克
 * 规模 复杂世界的简单法则
 * 隐秩序 适应性造就复杂性
 * 链接 商业 科学 与生活的新思维
@@ -304,16 +308,20 @@ date: 2020-10-06
 * 哥德尔 艾舍尔 巴赫 集异璧之大成
 * Thinking in Complexity (复杂性思维)
 * Thinking in Systems: A Primer (系统之美)
-* 系统科学
+* 混沌与分形 科学的新疆界
+* 系统科学 - 许国志
 * 网络 群体与市场
 * 网络科学引论
+* 巴拉巴西网络科学
 * 从抛物线谈起
-* 热力学与统计物理
+* 热力学与统计物理学 - 林宗涵
 * 复杂性与临界现象
-* 信息论基础
-* 非线性动力学与混沌
-* 随机方法手册
-* A New kind of Science
+* 信息论基础 - THOMAS M.COVER
+* 非线性动力学与混沌 - 史蒂芬
+* Handbook of Stochastic Methods (随机方法手册) - Crispin Gardiner
+* A New Kind of Science
+* 科学与假设 - 彭加勒
+* 确定性的终结 - 普里戈金
 * From being to becoming (从存在到演化) - 普里戈金
 * Order Out of Chaos (从混沌到有序) - 普里戈金
 * What is Life (生命是什么) - 薛定谔
