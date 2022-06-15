@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: Items
-date: 2020-12-26
+date: 2022-06-15
 ---
 
 
@@ -23,10 +23,9 @@ date: 2020-12-26
 * The North Face 冲锋衣
 * Patagonia 羊羔绒
 * GOSOLO 棉服
-* 迪卡侬 薄羽绒服
 * CA 夹克
 * GAP 卫衣
-* T恤 (4件)
+* T恤 (5件)
 
 ## 裤子
 * GOOGIMS 直筒卫裤 (秋冬 2条)
@@ -38,7 +37,8 @@ date: 2020-12-26
 
 ## 鞋子
 * Converse Chunk 70
-* Feiyue (2双)
+* 无印良品帆布鞋
+* Feiyue
 
 ## 袜子
 * 长袜 (6双)
@@ -52,7 +52,7 @@ date: 2020-12-26
 
 ## 好用的品牌
 * 衣服 (ARC'TERYX MAMMUT Marmot patagonia haglofs)
-* 鞋子 (飞跃 Converse crispi lasportiva lowa scarpa)
+* 鞋子 (Converse 无印良品 crispi lasportiva lowa scarpa)
 * 背包 (osprey gregory ARC'TERYX)
 * 户外用品 (PETZL fenix seatosummit blackdiamond camp blackice camelbak)
 
