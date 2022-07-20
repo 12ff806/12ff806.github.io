@@ -3,7 +3,7 @@ layout: tree
 tree: active
 notes: passive
 projects: passive
-title: Learning List
+title: 书单
 date: 2020-10-06
 ---
 
@@ -15,13 +15,12 @@ date: 2020-10-06
 * 英语
     * 新概念英语
     * TED-Ed/ TED
-* 日语
-* 希伯来语
-* 阿拉伯语
 * 法语
+    * 简明法语教程
 * 西班牙语
 * 德语
-* 俄语
+* 希伯来语
+* 阿拉伯语
 
 ## Just Do It
 * [500 Lines or Less](https://www.aosabook.org/en/index.html)
@@ -365,9 +364,7 @@ date: 2020-10-06
 * 家庭、私有制和国家的起源 - 恩格斯 人民出版社 北京1972版
 * 毛泽东选集 第一卷 - 中国革命战争的战略问题 45-75页 人民出版社 北京1991版
 * 世界经济千年史 - 安格斯麦迪森 北京大学出版社2003版
-* 被讨厌的勇气
 * 津巴多普通心理学
-* 终身成长
 * 爱的艺术
 * 薄伽梵歌
 * 忏悔录
@@ -384,6 +381,9 @@ date: 2020-10-06
 * 苏格拉底
 * 西西弗的神话
 * 沉思录
+* 一个故事的99种讲法
+* what if
+* how to
 
 ## References
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)

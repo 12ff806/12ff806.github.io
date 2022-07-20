@@ -3,7 +3,7 @@ layout: tree
 tree: active
 notes: passive
 projects: passive
-title: Digital Nomad
+title: 数字游民
 date: 2021-09-06
 ---
 
