@@ -64,7 +64,9 @@ date: 2022-06-15
 * 霜 精心硅霜
 * 面膜 肌活糙米肌底精华面膜
 * 防晒霜 迪卡侬运动防晒液
-* 膳食补充 Swisse (LIVER DETOX/ GRAPE SEED+/ HAIR SKIN NAILS+/ SKIN REGENERATION+)
+* 膳食补充
+    * Swisse (LIVER DETOX/ GRAPE SEED+/ HAIR SKIN NAILS+/ SKIN REGENERATION+)
+    * NOW (Silymarin/ Grape Seed)
 * 充电器 Anker
 * 剃须刀 焕醒
 * 指甲剪 777
