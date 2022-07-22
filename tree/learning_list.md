@@ -15,12 +15,6 @@ date: 2020-10-06
 * 英语
     * 新概念英语
     * TED-Ed/ TED
-* 法语
-    * 简明法语教程
-* 西班牙语
-* 德语
-* 希伯来语
-* 阿拉伯语
 
 ## Just Do It
 * [500 Lines or Less](https://www.aosabook.org/en/index.html)
