@@ -57,20 +57,20 @@ date: 2022-06-15
 * 魔术头巾 Osprey
 
 ## 日用消耗品
-* 牙膏 RedSeal蜂胶牙膏
-* 洗面奶 肌活糙米洁面膏
-* 水 肌活糙米水
-* 乳 肌活糙米控油乳
-* 霜 精心硅霜
-* 面膜 肌活糙米肌底精华面膜
-* 防晒霜 迪卡侬运动防晒液
 * 膳食补充
     * Swisse (LIVER DETOX/ GRAPE SEED+/ HAIR SKIN NAILS+/ SKIN REGENERATION+)
     * NOW (Silymarin/ Grape Seed)
-* 充电器 Anker
+* 水 肌活糙米水
+* 乳 肌活糙米控油乳
+* 面膜 Swisse MANUKA HONEY/ 肌活糙米肌底精华面膜
+* 霜 精心硅霜
+* 防晒霜 迪卡侬运动防晒液
+* 牙膏 RedSeal蜂胶牙膏
+* 洗面奶 肌活糙米洁面膏
 * 剃须刀 焕醒
 * 指甲剪 777
 * 口罩 稳健
+* 充电器 Anker
 
 ## 好用的品牌
 * 衣服 (ARC'TERYX MAMMUT Marmot patagonia haglofs)
