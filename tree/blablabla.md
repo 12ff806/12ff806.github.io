@@ -3,7 +3,7 @@ layout: tree
 tree: active
 notes: passive
 projects: passive
-title: Sentence
+title: 胡言乱语
 date: 2021-09-06
 ---
 
@@ -11,7 +11,12 @@ date: 2021-09-06
 {::options auto_ids="false" /}
 
 
-## ENGLISH
+## 谬论
+
+* 一把烂牌打到现在 2.9/7.4已经入土了 回头看自己的这十年 前六年是个虚无主义者 经历了要死要活的抑郁折磨 自己慢慢爬出来后 转变到存在主义 每天像打了鸡血一样积极向上 勇敢面对生活 到现在的荒诞主义 已经完全接受了生命没有意义 并不再纠结于此 剩下的时间里就好好去折腾点荒诞的事情吧
+
+
+## 记录
 
 * a 9-5 job might not be what i wanna do for the rest of my life, so i need to find a new way to pay the bills.
 * all i want is a warm bed, a kind word, and unlimited power.
@@ -21,17 +26,11 @@ date: 2021-09-06
 * when you look long into an abyss, the abyss looks into you.
 * i am not here, you may see me, but i am empty.
 * life is really full of uncertainty.
-
-
-## 日本语
 * さよなら大好きな人
 * 大好きな人 (だいすきなひと)
 * さよなら (sayonara)
 * 大丈夫 (daijobu)
 * お疲れ様です (Otsukaresamadesu)
-
-
-## 中文
 * 我们每分每秒都在接近生命的终点
 * 我们的存在 只不过是永恒长夜之间的一道短暂微光
 * 我们更像是被抛弃到了世界上 这是我们痛苦的根源
