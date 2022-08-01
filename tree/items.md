@@ -57,14 +57,15 @@ date: 2022-06-15
     * Swisse (LIVER DETOX/ GRAPE SEED+/ HAIR SKIN NAILS+/ SKIN REGENERATION+)
     * NOW (Silymarin/ Grape Seed)
 * 面膜 (Swisse MANUKA HONEY)
-* 洗面奶 肌活糙米洁面膏
-* 水 肌活糙米水
+* 洗面奶 肌活糙米洁面膏/ MUJI柔和去角质洁面霜
+* 水 肌活糙米水/ MUJI基础补水化妆水高保湿型
 * 乳 肌活糙米控油乳
 * 霜 精心硅霜
 * 防晒霜 Fancl
 * 牙刷 MINISO
-* 牙膏 RedSeal蜂胶牙膏
-* 剃须刀 吉列
+* 牙膏 RedSeal蜂胶牙膏/ MUJI牙膏
+* 毛巾 速干
+* 剃须刀 吉列威锋/ MUJI剃须刀
 * 指甲剪 777
 * 小剪刀 777
 * 口罩 稳健
