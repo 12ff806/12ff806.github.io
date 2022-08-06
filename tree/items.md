@@ -54,8 +54,8 @@ date: 2022-06-15
 
 ## 日用消耗品
 * 膳食补充
-    * Swisse (LIVER DETOX/ GRAPE SEED+/ HAIR SKIN NAILS+/ SKIN REGENERATION+)
     * NOW (Silymarin/ Grape Seed)
+    * Swisse (LIVER DETOX/ GRAPE SEED+/ HAIR SKIN NAILS+/ SKIN REGENERATION+)
 * 面膜 (Swisse MANUKA HONEY)
 * 洗面奶 肌活糙米洁面膏/ MUJI柔和去角质洁面霜
 * 水 肌活糙米水/ MUJI基础补水化妆水高保湿型
