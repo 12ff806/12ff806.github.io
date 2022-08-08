@@ -50,22 +50,20 @@ date: 2022-06-15
 * 腰带 MUJI卡扣腰带
 * 冰袖 迪卡侬
 * 魔术头巾 Osprey
-* 泳裤泳帽泳镜 迪卡侬
 
 ## 日用消耗品
 * 膳食补充
-    * Swisse (LIVER DETOX/ GRAPE SEED+/ HAIR SKIN NAILS+/ SKIN REGENERATION+)
-    * NOW (Silymarin/ Grape Seed)
-* 面膜 (Swisse MANUKA HONEY)
-* 洗面奶 肌活糙米洁面膏/ MUJI柔和去角质洁面霜
-* 水 肌活糙米水/ MUJI基础补水化妆水高保湿型
+    * NOW (Silymarin/ Glucosamine & MSM/ L-Carnosine/ GRAPE SEED)
+* 水 MUJI基础补水化妆水高保湿型
 * 乳 肌活糙米控油乳
 * 霜 精心硅霜
 * 防晒霜 Fancl
+* 面膜 (Swisse MANUKA HONEY/ Swisse CRANBERRY/ 仁和去黑头撕拉面膜)
+* 洗面奶 MUJI柔和去角质洁面霜
 * 牙刷 MINISO
 * 牙膏 RedSeal蜂胶牙膏/ MUJI牙膏
 * 毛巾 速干
-* 剃须刀 吉列威锋/ MUJI剃须刀
+* 剃须刀 吉列威锋
 * 指甲剪 777
 * 小剪刀 777
 * 口罩 稳健
