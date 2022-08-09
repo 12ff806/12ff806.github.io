@@ -53,7 +53,7 @@ date: 2022-06-15
 
 ## 日用消耗品
 * 膳食补充
-    * NOW (Silymarin/ ADAM/ Glucosamine & MSM/ L-Carnosine)
+    * NOW (ADAM/ Silymarin/ Glucosamine & Chondroitin with MSM/ L-Carnosine)
 * 水 MUJI基础补水化妆水高保湿型
 * 乳 肌活糙米控油乳
 * 霜 精心硅霜
