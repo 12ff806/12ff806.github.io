@@ -58,10 +58,10 @@ date: 2022-06-15
 * 乳 肌活糙米控油乳
 * 霜 精心硅霜
 * 防晒霜 Fancl
-* 面膜 (Swisse MANUKA HONEY/ Swisse CRANBERRY/ 仁和去黑头撕拉面膜)
+* 面膜 (Swisse MANUKA HONEY/ Swisse CRANBERRY)
 * 洗面奶 MUJI柔和去角质洁面霜
 * 牙刷 MINISO
-* 牙膏 RedSeal蜂胶牙膏/ MUJI牙膏
+* 牙膏 RedSeal蜂胶牙膏
 * 毛巾 速干
 * 剃须刀 吉列威锋
 * 指甲剪 777
