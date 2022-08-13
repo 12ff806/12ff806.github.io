@@ -21,8 +21,8 @@ date: 2022-06-15
 * Anker
 
 ## 上衣
-* The North Face 冲锋衣
 * Patagonia 羊羔绒
+* The North Face 冲锋衣
 * GOSOLO 棉服
 * CA 夹克
 * GAP 卫衣
@@ -46,8 +46,8 @@ date: 2022-06-15
 * Osprey 帆布袋
 
 ## 其他
-* 雨伞 MUJI折叠伞
 * 腰带 MUJI卡扣腰带
+* 雨伞 MUJI折叠伞
 
 ## 日用消耗品
 * 膳食补充
