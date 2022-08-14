@@ -12,11 +12,10 @@ date: 2022-06-15
 
 
 ## 电子产品
-* MacBook Pro 13.3
+* MacBook Pro
 * iPad Mini 5
 * iPhone SE 2
 * AirPods
-* Google Pixel 2 xl
 * Raspberry Pi 3B+
 * Anker
 
