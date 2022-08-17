@@ -23,19 +23,14 @@ date: 2021-09-06
 * 微信公众号 (number29)
 * 个人网站 (https://12ff806.github.io)
 
-## 视频
-* Bilibili
-* Youtube
-
 ## 终身成长
-* 学习多语言
+* 语言
 * 跨学科知识
 
 ## 投资理财
 * 极简主义
 * 存款
 * 基金
-* 买房
 * 投资
 
 ## Remote Jobs
