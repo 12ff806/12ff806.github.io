@@ -20,8 +20,9 @@ date: 2022-06-15
 * Anker
 
 ## 上衣
+* The North Face 硬壳
+* Arcteryx Delta LT 抓绒
 * Patagonia 羊羔绒
-* The North Face 冲锋衣
 * GOSOLO 棉服
 * CA 夹克
 * GAP 卫衣
@@ -31,10 +32,10 @@ date: 2022-06-15
 * A chock 抽绳 (春夏秋 2条)
 * GOOGIMS 直筒卫裤 (秋冬 2条)
 * 秋裤 4条
-* 内裤 6条
+* 内裤 7条
 
 ## 鞋袜
-* MUJI帆布鞋
+* MUJI 帆布鞋
 * 长袜 (6双)
 * 船袜 (6双)
 
@@ -49,8 +50,7 @@ date: 2022-06-15
 * 雨伞 MUJI折叠伞
 
 ## 日用消耗品
-* 膳食补充
-    * NOW (ADAM/ Silymarin/ Glucosamine & Chondroitin with MSM/ L-Carnosine)
+* NOW (ADAM/ Silymarin/ Glucosamine & Chondroitin with MSM/ L-Carnosine)
 * 水 MUJI基础补水化妆水高保湿型
 * 乳 肌活糙米控油乳
 * 霜 精心硅霜
@@ -59,7 +59,7 @@ date: 2022-06-15
 * 洗面奶 MUJI柔和去角质洁面霜
 * 牙刷 MINISO
 * 牙膏 RedSeal蜂胶牙膏
-* 毛巾 速干
+* 毛巾 迪卡侬速干
 * 剃须刀 吉列威锋
 * 指甲剪 777
 * 小剪刀 777
