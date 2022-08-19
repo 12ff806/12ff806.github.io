@@ -21,7 +21,7 @@ date: 2022-06-15
 
 ## 上衣
 * The North Face 硬壳
-* Arcteryx Delta LT 抓绒
+* ARCTERYX Delta LT 抓绒
 * Patagonia 羊羔绒
 * GOSOLO 棉服
 * CA 夹克
@@ -29,20 +29,20 @@ date: 2022-06-15
 * T恤 (5件)
 
 ## 裤子
-* A chock 抽绳 (春夏秋 2条)
+* A chock 抽绳 (春夏秋 3条)
 * GOOGIMS 直筒卫裤 (秋冬 2条)
-* 秋裤 4条
+* 秋裤 3条
 * 内裤 7条
 
 ## 鞋袜
 * MUJI 帆布鞋
-* 长袜 (6双)
-* 船袜 (6双)
+* 长袜 (5双)
+* 船袜 (7双)
 
 ## 包
 * Osprey 小鹰 (48寸)
 * Gregory TRANSFER 斜挎包
-* ARC'TERYX INDEX 15 (15寸)
+* ARCTERYX INDEX 15 (15寸)
 * Osprey 帆布袋
 
 ## 其他
