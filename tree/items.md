@@ -51,12 +51,12 @@ date: 2022-06-15
 
 ## 日用消耗品
 * NOW (ADAM/ Silymarin/ Glucosamine & Chondroitin with MSM/ L-Carnosine)
-* 水
+* 水 LAB
 * 乳 肌活糙米控油乳
 * 霜 协和精心硅霜
 * 防晒霜 Fancl
-* 面膜 (Swisse MANUKA HONEY/ Swisse CRANBERRY)
-* 洗面奶 MUJI柔和去角质洁面霜
+* 面膜 (科颜氏白泥/ 美迪惠尔)
+* 洗面奶
 * 牙刷 MINISO
 * 牙膏 RedSeal蜂胶牙膏
 * 毛巾 迪卡侬速干
