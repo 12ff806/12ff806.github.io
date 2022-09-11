@@ -49,13 +49,13 @@ date: 2022-09-03
 
 ## 日用消耗品
 * 膳食补充 NOW ADAM/ NOW Silymarin
-* 洗面奶 NOW gel cleanser
-* 面膜 Swisse MANUKA HONEY/ Swisse CRANBERRY/ Swisse HYALURO-NATURAL
-* 精油 NOW jojoba oil
 * 水 NOW purifying toner
-* 乳 肌活糙米控油乳
+* 精油 NOW jojoba oil
+* 面膜 Swisse MANUKA HONEY/ Swisse CRANBERRY/ Swisse HYALURO-NATURAL
 * 霜 协和精心硅霜
 * 防晒霜 Fancl
+* 洗面奶 NOW gel cleanser
+* 洗发水 KRAUTERHOF
 * 牙刷 MINISO
 * 牙膏 RedSeal蜂胶牙膏
 * 毛巾 迪卡侬速干
