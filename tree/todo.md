@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 任务清单
-date: 2022-04-03
+date: 2022-09-11
 ---
 
 
@@ -54,12 +54,7 @@ date: 2022-04-03
 * NetLogo多主体建模入门
 
 ## 科幻
-* 未来学大会
-* 无敌号
-* 伊甸
-* 索拉里斯星
 * 其主之声
-* 惨败
 * 完美的真空
 * 莱姆狂想曲
 * 机器人大师
