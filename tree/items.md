@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2022-09-03
+date: 2022-09-16
 ---
 
 
@@ -31,6 +31,7 @@ date: 2022-09-03
 * 直筒卫裤 (秋冬 2条)
 * 秋裤 3条
 * 内裤 4条
+* 腰带 MUJI卡扣腰带
 
 ## 鞋袜
 * MUJI 帆布鞋
@@ -42,10 +43,6 @@ date: 2022-09-03
 * Gregory TRANSFER 斜挎包
 * ARCTERYX INDEX 15 (15寸)
 * Osprey 帆布袋
-
-## 其他
-* 腰带 MUJI卡扣腰带
-* 雨伞 MUJI折叠伞
 
 ## 日用消耗品
 * 膳食补充 NOW ADAM/ NOW Silymarin
@@ -63,4 +60,5 @@ date: 2022-09-03
 * 指甲剪 777
 * 小剪刀 777
 * 口罩 稳健
+* 雨伞 MUJI折叠伞
 
