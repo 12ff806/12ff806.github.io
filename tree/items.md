@@ -47,7 +47,7 @@ date: 2022-09-16
 ## 日用消耗品
 * 膳食补充 NOW ADAM/ NOW Silymarin
 * 爽肤水 NOW purifying toner
-* 面膜 科颜氏白泥/ 美迪惠尔
+* 面膜 科颜氏白泥/ Swisse HYALURO-NATURAL
 * 防晒霜 Fancl
 * 霜 协和精心硅霜
 * 洗面奶 NOW gel cleanser
