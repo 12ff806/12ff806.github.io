@@ -45,7 +45,6 @@ date: 2022-09-16
 * Osprey 帆布袋
 
 ## 日用消耗品
-* 膳食补充 NOW ADAM/ NOW Silymarin
 * 水 NOW purifying toner
 * 乳 肌活糙米控油乳
 * 面膜 科颜氏白泥/ Swisse HYALURO-NATURAL
