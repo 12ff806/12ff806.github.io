@@ -28,7 +28,7 @@ date: 2022-09-16
 
 ## 裤子
 * A chock 抽绳 (春夏秋 2条)
-* 直筒卫裤 (秋冬 2条)
+* 太平鸟 卫裤
 * 秋裤 3条
 * 内裤 4条
 * 腰带 MUJI卡扣腰带
@@ -45,11 +45,11 @@ date: 2022-09-16
 * Osprey 帆布袋
 
 ## 日用消耗品
-* 水 NOW purifying toner
-* 乳 肌活糙米控油乳
-* 面膜 科颜氏白泥/ Swisse HYALURO-NATURAL
 * 防晒霜 Fancl
-* 霜 协和精心硅霜
+* 面膜 科颜氏白泥/ Swisse HYALURO-NATURAL
+* 水 NOW purifying toner
+* 面霜 Eucerin
+* 身体乳 Eucerin
 * 洗面奶 NOW gel cleanser
 * 洗发水 KRAUTERHOF
 * 牙刷 MINISO
