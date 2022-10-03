@@ -19,16 +19,18 @@ date: 2022-09-16
 * Raspberry Pi 3B+
 
 ## 上衣
+* Patagonia 羊羔绒
 * The North Face 硬壳
 * ARCTERYX Delta LT 抓绒
 * Uniqlo 薄羽绒服
-* Patagonia 羊羔绒
 * MUJI 衬衫夹克
-* T恤 (4件)
+* 长袖T恤 (2件)
+* 短袖T恤 (4件)
 
 ## 裤子
-* A chock 抽绳 (春夏秋 2条)
+* A chock 抽绳 (2条)
 * 太平鸟 卫裤
+* UR 卫裤
 * 秋裤 3条
 * 内裤 4条
 * 腰带 MUJI卡扣腰带
