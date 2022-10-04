@@ -20,9 +20,9 @@ date: 2022-09-16
 
 ## 上衣
 * Patagonia 羊羔绒
-* The North Face 硬壳
+* 冲锋衣
 * ARCTERYX Delta LT 抓绒
-* Uniqlo 薄羽绒服
+* 轻薄羽绒服
 * MUJI 衬衫夹克
 * 长袖T恤 (2件)
 * 短袖T恤 (4件)
@@ -30,9 +30,8 @@ date: 2022-09-16
 ## 裤子
 * A chock 抽绳 (2条)
 * 太平鸟 卫裤
-* UR 卫裤
 * 秋裤 3条
-* 内裤 4条
+* 内裤 5条
 * 腰带 MUJI卡扣腰带
 
 ## 鞋袜
@@ -43,11 +42,9 @@ date: 2022-09-16
 ## 包
 * Osprey 小鹰 (48寸)
 * Gregory TRANSFER 斜挎包
-* ARCTERYX INDEX 15 (15寸)
-* Osprey 帆布袋
+* ARCTERYX INDEX 15
 
 ## 日用消耗品
-* 防晒霜 Fancl
 * 面膜 科颜氏白泥/ Swisse HYALURO-NATURAL
 * 水 NOW purifying toner
 * 面霜 Eucerin
