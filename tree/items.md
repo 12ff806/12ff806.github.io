@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2022-09-16
+date: 2022-10-05
 ---
 
 
@@ -20,19 +20,20 @@ date: 2022-09-16
 
 ## 上衣
 * Patagonia 羊羔绒
-* 冲锋衣
+* GOSOLO 棉服
+* The North Face 冲锋衣
 * ARCTERYX Delta LT 抓绒
-* 轻薄羽绒服
+* 网易严选 轻薄羽绒服
 * MUJI 衬衫夹克
-* 长袖T恤 (2件)
+* 长袖T恤 (1件)
 * 短袖T恤 (4件)
 
 ## 裤子
 * A chock 抽绳 (2条)
-* 太平鸟 卫裤
+* 太平鸟 卫裤 (2条)
 * 秋裤 3条
 * 内裤 5条
-* 腰带 MUJI卡扣腰带
+* MUJI卡扣腰带
 
 ## 鞋袜
 * MUJI 帆布鞋
@@ -45,7 +46,7 @@ date: 2022-09-16
 * ARCTERYX INDEX 15
 
 ## 日用消耗品
-* 面膜 科颜氏白泥/ Swisse HYALURO-NATURAL
+* 面膜
 * 水 NOW purifying toner
 * 面霜 Eucerin
 * 身体乳 Eucerin
