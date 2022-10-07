@@ -23,7 +23,6 @@ date: 2022-10-05
 * GOSOLO 棉服
 * The North Face 冲锋衣
 * ARCTERYX Delta LT 抓绒
-* 网易严选 轻薄羽绒服
 * MUJI 衬衫夹克
 * 长袖T恤 (1件)
 * 短袖T恤 (4件)
