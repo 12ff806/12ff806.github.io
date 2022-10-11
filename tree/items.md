@@ -48,11 +48,11 @@ date: 2022-10-05
 * 面膜
 * 水 NOW purifying toner
 * 面霜 Eucerin
-* 身体乳 Eucerin
+* 身体乳 Eucerin/ 协和精心硅霜
 * 洗面奶 NOW gel cleanser
-* 洗发水 KRAUTERHOF
+* 洗发水
 * 牙刷 MINISO
-* 牙膏 RedSeal蜂胶
+* 牙膏 NOW XyliWhite
 * 毛巾 迪卡侬速干
 * 剃须刀 吉列威锋
 * 指甲剪 777
