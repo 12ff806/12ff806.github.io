@@ -19,10 +19,10 @@ date: 2022-10-05
 * Raspberry Pi 3B+
 
 ## 上衣
-* Patagonia 羊羔绒
 * GOSOLO 棉服
 * The North Face 冲锋衣
 * ARCTERYX Delta LT 抓绒
+* Patagonia 羊羔绒
 * MUJI 衬衫夹克
 * 长袖T恤 (1件)
 * 短袖T恤 (4件)
@@ -45,12 +45,11 @@ date: 2022-10-05
 * ARCTERYX INDEX 15
 
 ## 日用消耗品
-* 面膜
 * 水 NOW purifying toner
 * 面霜 Eucerin
 * 身体乳 Eucerin/ 协和精心硅霜
 * 洗面奶 NOW gel cleanser
-* 洗发水
+* 洗发水 Giovanni
 * 牙刷 MINISO
 * 牙膏 NOW XyliWhite
 * 毛巾 迪卡侬速干
