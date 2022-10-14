@@ -41,7 +41,6 @@ date: 2022-10-05
 
 ## 包
 * Osprey 小鹰 (48寸)
-* Gregory TRANSFER 斜挎包
 * ARCTERYX INDEX 15
 
 ## 日用消耗品
