@@ -271,8 +271,6 @@ date: 2020-10-06
 * 声音与现象
 * 三体
 * 未来学大会
-* 无敌号
-* 伊甸
 * 索拉里斯星
 * 其主之声
 * 惨败
@@ -350,7 +348,6 @@ date: 2020-10-06
 * The Cash Nexus (金钱关系) - Niall Ferguson
 * Chinese Economic Performance in the Long Run:960-2030 AD (中国经济的长期表现:公元960-2030年) - Angus Maddison
 * The Peasant Economy and Social Change in North China (华北的小农经济与社会变迁) - 黄宗智
-* 万历十五年 - 黄仁宇
 * 十六世纪明代中国之财政与税收 - 黄仁宇
 * Adam's Fallacy:A Guide to Economic Theology - Duncan K. Foley
 * 马克思恩格斯选集（第三卷）- 恩格斯 在马克思墓前的讲话 574-576页 人民出版社 北京1972年版本
@@ -363,21 +360,17 @@ date: 2020-10-06
 * 薄伽梵歌
 * 忏悔录
 * 思想录
-* 申辩篇
+* 柏拉图对话录申辩篇
 * 知识分子与社会
 * 论法的精神
 * 旧制度与大革命
 * 社会契约论
 * 论人类不平等的起源和基础
 * 道德情操论
-* 局外人
 * 人类简史
-* 苏格拉底
-* 西西弗神话
 * 沉思录
-* 一个故事的99种讲法
-* what if
-* how to
+* 局外人
+* 西西弗神话
 
 ## References
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
