@@ -20,16 +20,17 @@ date: 2022-10-05
 
 ## 上衣
 * GOSOLO 棉服
+* Patagonia 羊羔绒
 * The North Face 冲锋衣
 * ARCTERYX Delta LT 抓绒
-* Patagonia 羊羔绒
-* MUJI 衬衫夹克
-* 长袖T恤 (1件)
+* MUJI 薄羽绒服
+* MUJI 衬衫
+* 长袖T恤 (2件)
 * 短袖T恤 (4件)
 
 ## 裤子
 * A chock 抽绳 (2条)
-* 卫裤
+* 休闲裤/ 卫裤
 * 秋裤 3条
 * 内裤 5条
 * MUJI卡扣腰带
