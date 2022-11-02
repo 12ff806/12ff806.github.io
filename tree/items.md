@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2022-10-05
+date: 2022-11-02
 ---
 
 
@@ -20,7 +20,6 @@ date: 2022-10-05
 
 ## 上衣
 * GOSOLO 棉服
-* Patagonia 羊羔绒
 * The North Face 冲锋衣
 * ARCTERYX Delta LT 抓绒
 * MUJI 薄羽绒服
@@ -36,7 +35,7 @@ date: 2022-10-05
 * MUJI卡扣腰带
 
 ## 鞋袜
-* MUJI 帆布鞋
+* MUJI 帆布鞋 (黑/白)
 * 长袜 (4双)
 * 船袜 (4双)
 
