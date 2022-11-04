@@ -22,15 +22,14 @@ date: 2022-11-04
 * GOSOLO 棉服
 * The North Face 冲锋衣
 * ARCTERYX Delta LT 抓绒
-* MUJI 薄羽绒服
 * CA 夹克
 * MUJI 衬衫
 * 长袖T恤 (2件)
 * 短袖T恤 (4件)
 
 ## 裤子
-* A chock 抽绳 (夏/ 2条)
-* 卫裤 (春秋冬/ 2条)
+* A chock 抽绳 (2条/ 夏)
+* 卫裤 (2条/ 春秋冬)
 * 秋裤 (3条)
 * 内裤 (5条)
 * MUJI 卡扣腰带
