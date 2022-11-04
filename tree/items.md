@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2022-11-02
+date: 2022-11-04
 ---
 
 
@@ -23,21 +23,22 @@ date: 2022-11-02
 * The North Face 冲锋衣
 * ARCTERYX Delta LT 抓绒
 * MUJI 薄羽绒服
+* CA 夹克
 * MUJI 衬衫
 * 长袖T恤 (2件)
 * 短袖T恤 (4件)
 
 ## 裤子
-* A chock 抽绳 (2条)
-* 休闲裤/ 卫裤
-* 秋裤 3条
-* 内裤 5条
-* MUJI卡扣腰带
+* A chock 抽绳 (夏/ 2条)
+* 卫裤 (春秋冬/ 2条)
+* 秋裤 (3条)
+* 内裤 (5条)
+* MUJI 卡扣腰带
 
 ## 鞋袜
-* MUJI 帆布鞋 (黑/白)
-* 长袜 (4双)
-* 船袜 (4双)
+* MUJI 帆布鞋 (黑/ 白)
+* 长袜 (5双)
+* 船袜 (5双)
 
 ## 包
 * Osprey 小鹰 (48寸)
@@ -45,8 +46,7 @@ date: 2022-11-02
 
 ## 日用消耗品
 * 水 NOW purifying toner
-* 面霜 Eucerin
-* 身体乳 Eucerin/ 协和精心硅霜
+* 身体乳 协和精心硅霜/ Eucerin
 * 洗面奶 NOW gel cleanser
 * 洗发水 Giovanni
 * 牙刷 MINISO
