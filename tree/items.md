@@ -22,7 +22,6 @@ date: 2022-11-04
 * GOSOLO 棉服
 * The North Face 冲锋衣
 * ARCTERYX Delta LT 抓绒
-* CA 夹克
 * MUJI 衬衫
 * 长袖T恤 (2件)
 * 短袖T恤 (4件)
@@ -44,7 +43,7 @@ date: 2022-11-04
 
 ## 日用消耗品
 * 水 NOW purifying toner
-* 身体乳 协和精心硅霜/ Eucerin
+* 身体乳 协和精心硅霜
 * 洗面奶 NOW gel cleanser
 * 洗发水 Giovanni
 * 牙刷 MINISO
@@ -54,5 +53,4 @@ date: 2022-11-04
 * 指甲剪 777
 * 小剪刀 777
 * 口罩 稳健
-* 雨伞 MUJI折叠伞
 
