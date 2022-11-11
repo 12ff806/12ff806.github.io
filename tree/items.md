@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2022-11-04
+date: 2022-11-11
 ---
 
 
@@ -53,4 +53,5 @@ date: 2022-11-04
 * 指甲剪 777
 * 小剪刀 777
 * 口罩 稳健
+* 雨伞
 
