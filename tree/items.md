@@ -22,6 +22,7 @@ date: 2022-11-11
 * GOSOLO 棉服
 * The North Face 冲锋衣
 * ARCTERYX Delta LT 抓绒
+* 山之道 衬衫
 * MUJI 衬衫
 * 长袖T恤 (2件)
 * 短袖T恤 (4件)
