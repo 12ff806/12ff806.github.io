@@ -20,7 +20,7 @@ date: 2022-11-11
 
 ## 上衣
 * GOSOLO 棉服
-* The North Face 冲锋衣
+* Mountain Hardwear Jacket
 * ARCTERYX Delta LT 抓绒
 * 山之道 衬衫
 * MUJI 衬衫
