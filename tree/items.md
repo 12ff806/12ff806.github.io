@@ -19,9 +19,9 @@ date: 2022-11-11
 * Raspberry Pi 3B+
 
 ## 上衣
-* GOSOLO 棉服
 * Mountain Hardwear Jacket
 * ARCTERYX Delta LT 抓绒
+* 三夫 棉服
 * 山之道 衬衫
 * MUJI 衬衫
 * 长袖T恤 (2件)
@@ -35,7 +35,7 @@ date: 2022-11-11
 * 腰带
 
 ## 鞋袜
-* MUJI 帆布鞋 (黑/ 白)
+* MUJI 帆布鞋 (灰/ 白)
 * 长袜 (5双)
 * 船袜 (5双)
 
