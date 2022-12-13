@@ -19,18 +19,9 @@ date: 2021-09-06
 * AI
 * 游戏
 
-## 写文章/ 写书
-* 微信公众号 (number29)
-* 个人网站 (https://12ff806.github.io)
-
 ## 终身成长
 * 语言
 * 跨学科知识
-
-## 投资理财
-* 存款
-* 基金
-* 投资
 
 ## Remote Jobs
 * stackoverflow （https://stackoverflow.com/jobs）
