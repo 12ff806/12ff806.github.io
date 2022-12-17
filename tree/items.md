@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2022-11-11
+date: 2022-12-17
 ---
 
 
@@ -13,10 +13,8 @@ date: 2022-11-11
 
 ## 电子产品
 * MacBook Pro
-* iPad Mini 5
 * iPhone SE 2
 * AirPods
-* Raspberry Pi 3B+
 
 ## 上衣
 * Mountain Hardwear Jacket
@@ -30,14 +28,13 @@ date: 2022-11-11
 ## 裤子
 * A chock 抽绳 (2条/ 夏)
 * 卫裤 (2条/ 春秋冬)
-* 秋裤 (3条)
+* 秋裤 (2条)
 * 内裤 (5条)
 * 腰带
 
 ## 鞋袜
 * MUJI 帆布鞋 (灰/ 白)
-* 长袜 (5双)
-* 船袜 (5双)
+* 长袜 (5双) / 船袜 (5双)
 
 ## 包
 * Osprey 小鹰 (48寸)
@@ -45,7 +42,7 @@ date: 2022-11-11
 
 ## 日用消耗品
 * 水 NOW purifying toner
-* 身体乳 协和精心硅霜
+* 身体霜 协和精心硅霜
 * 洗面奶 NOW gel cleanser
 * 洗发水 Giovanni
 * 牙刷 MINISO
@@ -54,6 +51,5 @@ date: 2022-11-11
 * 剃须刀 吉列威锋
 * 指甲剪 777
 * 小剪刀 777
-* 口罩 稳健
 * 雨伞
 
