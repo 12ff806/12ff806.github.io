@@ -4,24 +4,12 @@ tree: active
 notes: passive
 projects: passive
 title: 数字游民
-date: 2021-09-06
+date: 2021-12-21
 ---
 
 
 {::options auto_ids="false" /}
 
-
-## 写代码
-* Github
-* IOT
-* Robot
-* 飞行器
-* AI
-* 游戏
-
-## 终身成长
-* 语言
-* 跨学科知识
 
 ## Remote Jobs
 * stackoverflow （https://stackoverflow.com/jobs）
