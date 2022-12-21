@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2022-12-17
+date: 2022-12-21
 ---
 
 
@@ -22,7 +22,7 @@ date: 2022-12-17
 * 三夫 棉服
 * 山之道 衬衫
 * MUJI 衬衫
-* 长袖T恤 (2件)
+* 长袖T恤 (1件)
 * 短袖T恤 (4件)
 
 ## 裤子
@@ -39,17 +39,4 @@ date: 2022-12-17
 ## 包
 * Osprey 小鹰 (48寸)
 * ARCTERYX INDEX 15
-
-## 日用消耗品
-* 水 NOW purifying toner
-* 身体霜 协和精心硅霜
-* 洗面奶 NOW gel cleanser
-* 洗发水 Giovanni
-* 牙刷 MINISO
-* 牙膏 NOW XyliWhite
-* 毛巾 迪卡侬速干
-* 剃须刀 吉列威锋
-* 指甲剪 777
-* 小剪刀 777
-* 雨伞
 

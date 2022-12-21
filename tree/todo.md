@@ -88,6 +88,9 @@ date: 2022-11-11
 * 果壳中的宇宙
 * 生命是什么
 
+## 写作
+* Essay_Writing_Guide - Jordan Peterson
+
 ## 其他
 * 一个故事的99种讲法
 
