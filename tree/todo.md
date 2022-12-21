@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 任务清单
-date: 2022-11-11
+date: 2022-12-21
 ---
 
 
@@ -19,17 +19,16 @@ date: 2022-11-11
 ## 专注
 * 语言
 * 哲学
-* GitHub
+* 复杂性科学
 * 计算机科学
 * 嵌入式
 * IOT
 * 机器人学
 * 飞行器
 * AI
+* GitHub
 * 游戏
 * 科幻
-* 复杂性科学
-* 跨学科知识
 
 ## 语言
 * 英语
@@ -97,7 +96,5 @@ date: 2022-11-11
 
 ## 写作
 * Essay Writing Guide - Jordan Peterson
-
-## 其他
 * 一个故事的99种讲法
 
