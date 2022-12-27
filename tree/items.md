@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2022-12-21
+date: 2022-12-27
 ---
 
 
@@ -26,8 +26,9 @@ date: 2022-12-21
 * 短袖T恤 (4件)
 
 ## 裤子
-* A chock 抽绳 (2条/ 夏)
+* 休闲裤 (1条/ 春秋冬)
 * 卫裤 (2条/ 春秋冬)
+* A chock 抽绳 (2条/ 夏)
 * 秋裤 (2条)
 * 内裤 (5条)
 * 腰带
