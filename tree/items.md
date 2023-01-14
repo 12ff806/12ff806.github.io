@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2022-12-30
+date: 2023-01-14
 ---
 
 
@@ -15,6 +15,7 @@ date: 2022-12-30
 * MacBook Pro
 * iPhone SE 2
 * AirPods
+* iPad mini 5
 
 ## 上衣
 * Mountain Hardwear Jacket
@@ -27,7 +28,6 @@ date: 2022-12-30
 
 ## 裤子
 * 休闲裤 (1条/ 春秋冬)
-* 卫裤 (1条/ 春秋冬)
 * A chock 抽绳 (2条/ 夏)
 * 秋裤 (2条)
 * 内裤 (4条)
