@@ -42,7 +42,7 @@ date: 2023-01-14
 * Osprey 小鹰 (48寸)
 * ARCTERYX INDEX 15
 
-## 消耗品
+## 日用品
 * NOW Purifying Toner
 * 精心硅霜
 
