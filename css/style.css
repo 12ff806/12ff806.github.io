@@ -348,6 +348,7 @@ footer p a:hover{
 .post .post-content table tr td{
     padding: 10px 30px;
     border: solid 1px #eee;
+    text-align: center;
 }
 
 
