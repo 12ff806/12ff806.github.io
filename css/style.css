@@ -342,18 +342,18 @@ footer p a:hover{
 .post .post-content table{
     margin-top: 5px;
     width: 100%;
+    /*
     border-collapse: collapse;
+    */
+    border: solid 1px #eee;
+    text-align: center;
 }
 
 .post .post-content table tr td{
     padding: 10px 30px;
+    /*
     border: solid 1px #eee;
-}
-
-.post .post-content table thead tr th,
-.post .post-content table tbody tr td,
-.post .post-content table tfoot tr td{
-    text-align: center;
+    */
 }
 
 
