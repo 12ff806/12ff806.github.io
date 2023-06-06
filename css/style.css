@@ -345,6 +345,8 @@ footer p a:hover{
     border: solid 1px #888;
 }
 
+.tree .tree-content table tr th,
+.tree .tree-content table tr td,
 .post .post-content table tr th,
 .post .post-content table tr td{
     padding: 10px 30px;
