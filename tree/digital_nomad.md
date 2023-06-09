@@ -4,38 +4,43 @@ tree: active
 notes: passive
 projects: passive
 title: 数字游民
-date: 2021-12-21
+date: 2023-06-09
 ---
 
 
 {::options auto_ids="false" /}
 
 
-## Remote Jobs
-* stackoverflow （https://stackoverflow.com/jobs）
-* remoteok （https://remoteok.io）
-* toptal （https://www.toptal.com）
-* topcoder （https://www.topcoder.com）
-* dribbble（设计）（https://dribbble.com/jobs）
-* 99designs（设计）（https://99designs.com）
-* angellist （https://angel.co/remote）
-* upwork （https://www.upwork.com）
-* freelancer （https://www.freelancer.com）
-* 开源众包 （https://zb.oschina.net）
-* 码市 （https://www.codemart.com）
-* 猪八戒 （https://zbj.com）
-* 实现 （https://shixian.com）
-* 程序员客栈 （https://www.proginn.com）
-* 猿急送 （https://www.yuanjisong.com）
-* 我爱方案网（硬件） （https://www.52solution.com）
-* 人人开发 （http://www.rrkf.com）
-* sxsoft （https://www.sxsoft.com）
-* 英选 （https://www.yingxuan.io）
-* 快码 （https://kuaimacode.com）
-* 智城 （http://www.taskcity.com）
-* 电鸭 （https://eleduck.com）
-* 小蜜蜂云工作 （https://www.xmf.com）
-* 公司列表 （https://github.com/remoteintech/remote-jobs）
-* RingCentral （https://www.ringcentral.com/cn/zh）
-* espressif （https://www.espressif.com）
+| 平台                                                     | 类别        |
+|:---------------------------------------------------------|------------:|
+| stackoverflow （https://stackoverflow.com/jobs）         | Remote Jobs |
+| remoteok （https://remoteok.io）                         |             | 
+| toptal （https://www.toptal.com）                        |             |
+| topcoder （https://www.topcoder.com）                    |             |
+| dribbble（设计）（https://dribbble.com/jobs）            |             |
+| 99designs（设计）（https://99designs.com）               |             |
+| angellist （https://angel.co/remote）                    |             |
+| upwork （https://www.upwork.com）                        |             |
+| freelancer （https://www.freelancer.com）                |             |
+| 开源众包 （https://zb.oschina.net）                      |             |
+| 码市 （https://www.codemart.com）                        |             |
+| 猪八戒 （https://zbj.com）                               |             |
+| 实现 （https://shixian.com）                             |             |
+| 程序员客栈 （https://www.proginn.com）                   |             |
+| 猿急送 （https://www.yuanjisong.com）                    |             |
+| 我爱方案网（硬件） （https://www.52solution.com）        |             |
+| 人人开发 （http://www.rrkf.com）                         |             |
+| sxsoft （https://www.sxsoft.com）                        |             |
+| 英选 （https://www.yingxuan.io）                         |             |
+| 快码 （https://kuaimacode.com）                          |             |
+| 智城 （http://www.taskcity.com）                         |             |
+| 电鸭 （https://eleduck.com）                             |             |
+| 小蜜蜂云工作 （https://www.xmf.com）                     |             |
+| 公司列表 （https://github.com/remoteintech/remote-jobs） |             |
+| RingCentral （https://www.ringcentral.com/cn/zh）        |             |
+| espressif （https://www.espressif.com）                  |             |
+|-----
+| 拍视频                                                   | 自媒体      |
+|=====
+{: rules="groups"}
 
