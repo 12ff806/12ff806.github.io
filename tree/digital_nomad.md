@@ -41,6 +41,11 @@ date: 2023-06-09
 | espressif （https://www.espressif.com）                  |             |
 |-----
 | 拍视频                                                   | 自媒体      |
+| youtube 翻墙                                             |             |
+| bilibili                                                 |             |
+| 抖音                                                     |             |
+| 头条                                                     |             |
+| 西瓜视频                                                 |             |
 |=====
 {: rules="groups"}
 
