@@ -20,7 +20,7 @@ date: 2023-06-08
 |-----
 | 英语 (多邻国/ B站/ 不背单词/ TED)                            | 语言       |
 |-----
-| The C Programming Language                                   | 编程       |
+| The C Programming Language                                   | 编程基础   |
 | Unix/Linux编程实践教程                                       |            |
 | How To Design Programs                                       |            |
 | Structure and Interpretation of Computer Programs            |            |
@@ -33,15 +33,18 @@ date: 2023-06-08
 | Readings in Database Systems                                 |            |
 | Crafting Interpreters                                        |            |
 | 数据密集型应用系统设计                                       |            |
+|-----
+| Python与开源GIS                                              | 编程支线   |
+| Python地理空间分析指南                                       |            |
+| 自行车码表 ios app                                           |            |
 | NetLogo多主体建模入门                                        |            |
 |-----
-| 无人机                                                       | 嵌入式     |
+| 自行车码表                                                   | 嵌入式     |
+| 无人机                                                       |            |
 | 游戏机                                                       |            |
 | Arduino                                                      |            |
 | 树莓派                                                       |            |
 | ESP32                                                        |            |
-| 自行车码表                                                   |            |
-| 自行车码表 ios app                                           |            |
 |-----
 | 莱姆狂想曲                                                   | 跨学科     |
 | 技术大全                                                     |            |
