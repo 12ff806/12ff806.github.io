@@ -34,8 +34,7 @@ date: 2023-06-08
 | Crafting Interpreters                                        |            |
 | 数据密集型应用系统设计                                       |            |
 |-----
-| Python与开源GIS                                              | 编程支线   |
-| 自行车码表 ios app                                           |            |
+| 自行车码表 ios app                                           | 编程支线   |
 | NetLogo多主体建模入门                                        |            |
 |-----
 | 自行车码表                                                   | 嵌入式     |
