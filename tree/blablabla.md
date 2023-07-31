@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: blabla
-date: 2021-09-06
+date: 2023-07-31
 ---
 
 
@@ -19,7 +19,7 @@ date: 2021-09-06
 | 如何让一只蚂蚁崇拜你。 |
 | 调整预期，保持学习 |
 | 所谓正常就是与集体保持一致 |
-| 钱都留给你们去赚了，我流浪去了|
+| 钱都留给你们赚，我去流浪了|
 |-----
 | DEUS |
 | Geronimo |
