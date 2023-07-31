@@ -36,6 +36,8 @@ date: 2021-09-06
 | nothing lasts forever, and it's fine. |
 | to look life in the face, always, to look life in the face, and to know it for what it is. at last to know it, to love it, for what it is. and then, to put it away. Leonard, always the years between us, always the years, always the love, always the hours. |
 | exploring how to live without meaning, is committing suicide the only rational response? |
+| you are too full of life to be half-loved by someone |
+| empty you mind, be formless, shapeless, like water. now you put water into a cup, it becomes the cup. you put water into a bottle, it becomes the bottle. you put it into a teapot, it becomes the teapot. now, water can flow, or it can crash. be water, my friend. |
 | さよなら大好きな人 |
 | 大好きな人 (だいすきなひと) |
 | さよなら (sayonara) |
