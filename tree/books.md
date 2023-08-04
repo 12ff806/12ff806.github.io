@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 书单
-date: 2023-01-07
+date: 2023-08-04
 ---
 
 
@@ -64,7 +64,7 @@ date: 2023-01-07
 |-----
 | [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html) | Computer Architecture |
 | [The Elements of Computing Systems (Nand2Tetris)](https://www.nand2tetris.org/) | |
-| [a Coursera course with accompanying videos](https://www.coursera.org/learn/build-a-computer) | |
+| [A Coursera course with accompanying videos](https://www.coursera.org/learn/build-a-computer) | |
 | [Build an 8-bit computer from scratch](https://eater.net/8bit) | |
 | [Berkeley CS61C (Great Ideas in Computer Architecture)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) | |
 | [Berkeley CS61C (Great Ideas in Computer Architecture)](https://inst.eecs.berkeley.edu//~cs61c/sp15/) | |
