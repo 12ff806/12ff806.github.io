@@ -15,7 +15,6 @@ date: 2023-07-19
 |:-------------------------------------|-----------:|
 | MacBook Pro                          | 电子产品   |
 | iPhone SE 2                          |            |
-| DJI Osmo Action 4                    |            |
 | AirPods                              |            |
 |-----
 | Mountain Hardwear Jacket             | 上衣       |
