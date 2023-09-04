@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: blabla
-date: 2023-07-31
+date: 2023-09-04
 ---
 
 
@@ -20,6 +20,7 @@ date: 2023-07-31
 | 调整预期，保持学习 |
 | 所谓正常就是与集体保持一致 |
 | 钱都留给你们赚，我去流浪了|
+| 不要把自己的生活过成他人生活里的注释 |
 |-----
 | DEUS |
 | Geronimo |
