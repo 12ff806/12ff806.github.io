@@ -18,8 +18,8 @@ date: 2023-07-19
 | AirPods                              |            |
 |-----
 | Mountain Hardwear Jacket             | 上衣       |
+| 优衣库薄羽绒服                       |            |
 | ARCTERYX Delta LT 抓绒               |            |
-| 羽绒服                               |            |
 | 三夫 棉服                            |            | 
 | 无印良品 衬衫                        |            |
 | 长袖T恤 (1件)                        |            |
