@@ -38,6 +38,7 @@ date: 2023-09-04
 | to look life in the face, always, to look life in the face, and to know it for what it is. at last to know it, to love it, for what it is. and then, to put it away. Leonard, always the years between us, always the years, always the love, always the hours. |
 | exploring how to live without meaning, is committing suicide the only rational response? |
 | you are too full of life to be half-loved by someone |
+| you can't wait until life isn't hard anymore, before you decide to be happy. |
 | empty your mind, be formless, shapeless, like water. now you put water into a cup, it becomes the cup. you put water into a bottle, it becomes the bottle. you put it into a teapot, it becomes the teapot. now, water can flow, or it can crash. be water, my friend. |
 | さよなら大好きな人 |
 | 大好きな人 (だいすきなひと) |
@@ -58,9 +59,11 @@ date: 2023-09-04
 | 形如槁木，心如死灰 |
 | 佛为心，道为骨，儒为表 |
 | 要什么果，就种什么因 |
+| 过来人的话，没过来的人听不进去的 |
 | 精神最开始闪烁的微光里面，也包含了历史的全部。(一个人的精神包含他历史的全部) |
 | 我告诉你我喜欢你，并不是一定要和你在一起，只是希望今后的你，在遭遇人生低谷的时候，不要灰心，至少曾今有人被你的魅力所吸引，曾经是，以后也会是。 |
 | 自由不是放纵的自由，自由始终是自律的自由。 |
+| 你的无畏来源于无知 |
 | 弱小和无知不是生存的障碍，傲慢才是。 |
 | 大多数人到死都没有向尘世之外撇一眼。 |
 | 如果你失去一个世界，不要为此悲伤，因为这是微不足道的。如果得到一个世界，不要为此高兴，因为这是微不足道的。苦乐得失都会过去，都会离开这个世界，因为这都是微不足道的。 |
@@ -98,4 +101,6 @@ date: 2023-09-04
 | 当你早晨醒来是否曾仰望天空？在拂晓时分，你难道不想看着太阳冉冉升起？金红相映的落晖，你不想再看了吗？你见过月亮吗？你不想再见到星星？那满月之夜。你不想再看一次？你想就此闭上双眼？选择正确的路吧！ |
 | 站在那头的人们喜欢往这头张望，而你却赶往那头。 |
 | - “快乐有什么不对呢，塔科维亚？为什么你不想要呢？”  - “快乐并没有不对，我想要快乐，只是我并不需要。如果我享用了自己并不需要的东西，那就永远也得不到我真正需要的东西了。” - “那你需要的是什么呢？” - “我需要两个人的结合，真正的结合，肉体、灵魂以及生命中的每一年。我要的就是这个。” |
+| 知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。物有本末，事有始终，知所先后，则近道矣。 |
+| 不是你能控制的事，不要着急；还没发生的事，不要担忧；已经发生的事，不要回头；不能确定的事，那就静观其变 |
 
