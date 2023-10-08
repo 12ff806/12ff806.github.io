@@ -20,15 +20,13 @@ date: 2023-10-07
 | 艾灸                                                                          |            |
 |-----
 | 英语 (不背单词/ 新概念/ TED)                                                  | 自然语言   |
-| 拉丁语                                                                        |            |
-| 希伯来语                                                                      |            |
 |-----
 | C                                                                             | 编程语言   |
 | C++                                                                           |            |
-| Common Lisp                                                                   |            |
-| Scheme                                                                        |            |
-| Erlang                                                                        |            |
 | Rust                                                                          |            |
+| Erlang                                                                        |            |
+| Scheme                                                                        |            |
+| Common Lisp                                                                   |            |
 |-----
 | The C Programming Language                                                    | 编程       |
 | Unix/Linux编程实践教程                                                        |            |
@@ -51,7 +49,7 @@ date: 2023-10-07
 | ESP32                                                                         |            |
 |-----
 | 金刚经                                                                        | 哲学       |
-| 六组坛经                                                                      |            |
+| 六祖坛经                                                                      |            |
 | 传习录                                                                        |            |
 | 道德经                                                                        |            |
 |-----
