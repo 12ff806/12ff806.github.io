@@ -24,7 +24,9 @@ date: 2023-10-07
 | C                                                                             | 编程语言   |
 | C++                                                                           |            |
 | Rust                                                                          |            |
+| Go                                                                            |            |
 | Erlang                                                                        |            |
+| Haskell                                                                       |            |
 | Scheme                                                                        |            |
 | Common Lisp                                                                   |            |
 |-----
