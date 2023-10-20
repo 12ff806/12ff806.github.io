@@ -26,7 +26,6 @@ date: 2023-10-07
 | Scheme                                                                        |                |
 | Common Lisp                                                                   |                |
 | Rust                                                                          |                |
-| Erlang                                                                        |                |
 |-----
 | The C Programming Language                                                    | 编程           |
 | Unix/Linux编程实践教程                                                        |                |
@@ -50,11 +49,11 @@ date: 2023-10-07
 |-----
 | 户外生存                                                                      | Stupid but Fun |
 | 画画                                                                          |                |
-| Blender                                                                       |                |
 | 游戏开发                                                                      |                |
 | 无人机                                                                        |                |
 | 游戏机                                                                        |                |
 | Arduino / 树莓派                                                              |                |
+| Blender                                                                       |                |
 |-----
 |                                                                               | 读书           |
 |=====
