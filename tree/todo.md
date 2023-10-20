@@ -23,12 +23,10 @@ date: 2023-10-07
 |-----
 | C                                                                             | 编程语言       |
 | C++                                                                           |                |
-| Erlang                                                                        |                |
 | Scheme                                                                        |                |
-| Rust                                                                          |                |
-| Go                                                                            |                |
-| Haskell                                                                       |                |
 | Common Lisp                                                                   |                |
+| Rust                                                                          |                |
+| Erlang                                                                        |                |
 |-----
 | The C Programming Language                                                    | 编程           |
 | Unix/Linux编程实践教程                                                        |                |
