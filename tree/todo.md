@@ -44,14 +44,7 @@ date: 2023-10-22
 |-----
 |                                                                               | 阅读           |
 |-----
-| C                                                                             | 编程语言       |
-| C++                                                                           |                |
-| Scheme                                                                        |                |
-| Common Lisp                                                                   |                |
-| Rust                                                                          |                |
-| Lua                                                                           |                |
-|-----
-| The C Programming Language                                                    | 编程基础       |
+| The C Programming Language                                                    | 计算机科学     |
 | Unix/Linux编程实践教程                                                        |                |
 | How To Design Programs                                                        |                |
 | Structure and Interpretation of Computer Programs                             |                |
@@ -64,6 +57,13 @@ date: 2023-10-22
 | Readings in Database Systems                                                  |                |
 | Crafting Interpreters                                                         |                |
 | 数据密集型应用系统设计                                                        |                |
+|-----
+| C                                                                             | 编程语言       |
+| C++                                                                           |                |
+| Scheme                                                                        |                |
+| Common Lisp                                                                   |                |
+| Rust                                                                          |                |
+| Lua                                                                           |                |
 |=====
 {: rules="groups"}
 
