@@ -13,12 +13,15 @@ date: 2023-10-26
 
 | 书                                                                                                                                                                                 | 类别                           |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------:|
-| [500 Lines or Less](https://www.aosabook.org/en/index.html)                                                                                                                        | Just Do It                     |
-| [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)                                                                                                             |                                |
-| [Project Based Learning](https://github.com/tuvtran/project-based-learning)                                                                                                        |                                |
-| [Nifty Assignments](http://nifty.stanford.edu)                                                                                                                                     |                                |
-|-----
-| [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)                                                                                               | System Design                  |
+| [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)                                                    | Programming                    |
+| [Brian Harvey’s SICP lectures (61A course at Berkeley)](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)                                        |                                |
+| [Brian Harvey 开设的 SICP 课程(英文字幕)](https://www.bilibili.com/video/av40460492/)                                                                                              |                                |
+| [MIT video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)  |                                |
+| [MIT的免费视频课程(中英字幕)](https://www.bilibili.com/video/av8515129/)                                                                                                           |                                |
+| [SICP学习相关资源](https://github.com/DeathKing/Learning-SICP)                                                                                                                     |                                |
+| [Composing Programs](https://composingprograms.com/)                                                                                                                               |                                |
+| [How To Design Programs](http://htdp.org/)                                                                                                                                         |                                |
+| Concepts, Techniques, and Models of Computer Programming                                                                                                                           |                                |
 |-----
 | C程序设计语言                                                                                                                                                                      | Linux Programming              |
 | C和指针                                                                                                                                                                            |                                |
@@ -34,16 +37,6 @@ date: 2023-10-26
 | Linux Kernel Programming                                                                                                                                                           |                                |
 | Mastering Embedded Linux Programming                                                                                                                                               |                                |
 |-----
-| [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)                                                    | Programming                    |
-| [Brian Harvey’s SICP lectures (61A course at Berkeley)](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)                                        |                                |
-| [Brian Harvey 开设的 SICP 课程(英文字幕)](https://www.bilibili.com/video/av40460492/)                                                                                              |                                |
-| [MIT video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)  |                                |
-| [MIT的免费视频课程(中英字幕)](https://www.bilibili.com/video/av8515129/)                                                                                                           |                                |
-| [SICP学习相关资源](https://github.com/DeathKing/Learning-SICP)                                                                                                                     |                                |
-| [Composing Programs](https://composingprograms.com/)                                                                                                                               |                                |
-| [How To Design Programs](http://htdp.org/)                                                                                                                                         |                                |
-| Concepts, Techniques, and Models of Computer Programming                                                                                                                           |                                |
-|-----
 | [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)                                                                                               | Computer Architecture          |
 | [The Elements of Computing Systems (Nand2Tetris)](https://www.nand2tetris.org/)                                                                                                    |                                |
 | [A Coursera course with accompanying videos](https://www.coursera.org/learn/build-a-computer)                                                                                      |                                |
@@ -51,16 +44,18 @@ date: 2023-10-26
 | [Berkeley CS61C (Great Ideas in Computer Architecture)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)                                         |                                |
 | [Berkeley CS61C (Great Ideas in Computer Architecture)](https://inst.eecs.berkeley.edu//~cs61c/sp15/)                                                                              |                                |
 | Computer Organization and Design                                                                                                                                                   |                                |
+| [What every programmer should know about memory](https://lwn.net/Articles/250967/)                                                                                                 |                                |
 |-----
 | How to solve it                                                                                                                                                                    | Algorithms and Data Structures |
 | 数据结构与算法分析 C语言描述                                                                                                                                                       |                                |
+| 算法导论                                                                                                                                                                           |                                |
+| The Art of Computer Programming                                                                                                                                                    |                                |
 | 算法设计与分析基础                                                                                                                                                                 |                                |
 | 算法引论                                                                                                                                                                           |                                |
 | 编程原本                                                                                                                                                                           |                                |
 | Writing Efficient Programs                                                                                                                                                         |                                |
 | 编程珠玑                                                                                                                                                                           |                                |
 | 编程珠玑续                                                                                                                                                                         |                                |
-| 算法导论                                                                                                                                                                           |                                |
 | The Science of Programming                                                                                                                                                         |                                |
 |-----
 | Discrete Mathematics lecture notes by László Lovász                                                                                                                                | Mathematics                    |
@@ -76,7 +71,7 @@ date: 2023-10-26
 | Lion's commentary on Unix                                                                                                                                                          |                                |
 | The Design and Implementation of the FreeBSD Operating System                                                                                                                      |                                |
 | Mac OS X Internals                                                                                                                                                                 |                                |
-| [xv6](https://pdos.csail.mit.edu/6.828/2016/xv6.html)                                                                                                                              |                                |
+| [xv6](https://pdos.csail.mit.edu/6.828/2020/xv6.html)                                                                                                                              |                                |
 | [xv6 MIT course](https://pdos.csail.mit.edu/6.828/2020/)                                                                                                                           |                                |
 | [lab projects xv6](http://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf)                                                                                                     |                                |
 | Operating System Concepts (操作系统概念 恐龙书)                                                                                                                                    |                                |
@@ -85,7 +80,6 @@ date: 2023-10-26
 | Computer Networking: A Top-Down Approach (计算机网络: 自顶向下方法)                                                                                                                | Computer Networking            |
 | [Wireshark labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm)                                                                                                              |                                |
 | [Stanford: Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)                                                          |                                |
-| HTTP服务器/ 基于UDP的聊天APP/ 迷你TCP栈/ 代理/ 负载均衡器/ 分布式哈希表                                                                                                            |                                |
 |-----
 | [Joe Hellerstein’s databases course at Berkeley CS186](https://www.youtube.com/user/CS186Berkeley/videos)                                                                          | Databases                      |
 | [Architecture of a Database System](db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)                                                                                            |                                |
@@ -108,15 +102,26 @@ date: 2023-10-26
 | [MIT's 6.824 readings](https://pdos.csail.mit.edu/6.824/schedule.html)                                                                                                             |                                |
 | [论文列表](http://dsrg.pdos.csail.mit.edu/papers/)                                                                                                                                 |                                |
 |-----
+| [System Design Primer (Github)](https://github.com/donnemartin/system-design-primer)                                                                                               | System Design                  |
+|-----
+| [500 Lines or Less](https://www.aosabook.org/en/index.html)                                                                                                                        | Just Do It                     |
+| [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)                                                                                                             |                                |
+| [Project Based Learning](https://github.com/tuvtran/project-based-learning)                                                                                                        |                                |
+| [Nifty Assignments](http://nifty.stanford.edu)                                                                                                                                     |                                |
+|-----
+| Computer Graphics: Principles and Practice                                                                                                                                         | Computer Graphics              |
+| [Berkeley’s CS 184](https://inst.eecs.berkeley.edu//~cs184/fa12/onlinelectures.html)                                                                                               |                                |
+|-----
 | [IoT For Beginners](https://github.com/microsoft/IoT-For-Beginners)                                                                                                                | 嵌入式/ IOT                    |
 | Arduino                                                                                                                                                                            |                                |
 | Raspberry Pi                                                                                                                                                                       |                                |
 |-----
-| 深入浅出统计学                                                                                                                                                                     | 统计学                         |
-| 可汗学院统计学视频                                                                                                                                                                 |                                |
-| 商务与经济统计                                                                                                                                                                     |                                |
-|-----
 | [Berkeley’s intro to AI course](http://ai.berkeley.edu/home.html)                                                                                                                  | 人工智能                       |
+| Artificial Intelligence: A Modern Approach                                                                                                                                         |                                |
+|-----
+| 机器人学 建模 规划与控制                                                                                                                                                           | 机器人学                       |
+| 机器人技术手册                                                                                                                                                                     |                                |
+| Handbook of Robotics                                                                                                                                                               |                                |
 |-----
 | [Data Science For Beginners](https://github.com/microsoft/Data-Science-For-Beginners)                                                                                              | 机器学习与深度学习             |
 | [ML For Beginners](https://github.com/microsoft/ML-For-Beginners)                                                                                                                  |                                |
@@ -156,10 +161,6 @@ date: 2023-10-26
 | 推荐系统 Dietmar jannach                                                                                                                                                           |                                |
 | 推荐系统实战 项亮                                                                                                                                                                  |                                |
 | Recommender Systems Specialization                                                                                                                                                 |                                |
-|-----
-| 机器人学 建模 规划与控制                                                                                                                                                           | 机器人学                       |
-| 机器人技术手册                                                                                                                                                                     |                                |
-| Handbook of Robotics                                                                                                                                                               |                                |
 |-----
 | 中国哲学史 - 冯友兰                                                                                                                                                                | 跨学科                         |
 | 中国哲学十九讲                                                                                                                                                                     |                                |
