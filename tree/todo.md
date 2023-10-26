@@ -51,19 +51,13 @@ date: 2023-10-22
 | 深入理解计算机系统                                                            |                |
 | How to solve it                                                               |                |
 | The Algorithm Design Manual                                                   |                |
+| 普林斯顿微积分读本                                                            |                |
 | 计算机科学中的数学                                                            |                |
 | 操作系统导论                                                                  |                |
 | 计算机网络 自顶向下方法                                                       |                |
 | Readings in Database Systems                                                  |                |
 | Crafting Interpreters                                                         |                |
 | 数据密集型应用系统设计                                                        |                |
-|-----
-| C                                                                             | 编程语言       |
-| C++                                                                           |                |
-| Scheme                                                                        |                |
-| Common Lisp                                                                   |                |
-| Rust                                                                          |                |
-| Lua                                                                           |                |
 |=====
 {: rules="groups"}
 
