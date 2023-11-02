@@ -19,8 +19,6 @@ date: 2023-10-22
 | 运动 适量 饭后间隔一小时再运动                                                |                      |
 | 艾灸                                                                          |                      |
 |-----
-| 英语                                                                          | 自然语言             |
-|-----
 | 美术                                                                          | Stupid but Fun       |
 | Aseprite像素画                                                                |                      |
 | 音乐                                                                          |                      |
@@ -34,11 +32,13 @@ date: 2023-10-22
 | 长途骑行                                                                      |                      |
 | 野外生存                                                                      |                      |
 |-----
+| 英语                                                                          | 自然语言             |
+|-----
 | 道德经                                                                        | 哲学 艺术 宗教       |
 | 庄子                                                                          |                      |
 | 传习录                                                                        |                      |
 |-----
-| The C Programming Language                                                    | 计算机科学           |
+| The C Programming Language                                                    | 科学技术             |
 | Unix/Linux编程实践教程                                                        |                      |
 | How To Design Programs                                                        |                      |
 | Structure and Interpretation of Computer Programs                             |                      |
