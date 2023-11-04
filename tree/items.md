@@ -18,7 +18,6 @@ date: 2023-11-02
 |-----
 | Jacket Mountain Hardwear             | 上衣       |
 | 薄羽绒服 优衣库                      |            |
-| 薄羽绒服 拓路者                      |            |
 | 抓绒 ARCTERYX Delta LT               |            |
 | 抓绒 拓路者                          |            |
 | 衬衫 MUJI                            |            |
