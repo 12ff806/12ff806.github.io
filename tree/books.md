@@ -3,8 +3,8 @@ layout: tree
 tree: active
 notes: passive
 projects: passive
-title: 书单
-date: 2023-10-26
+title: 计算机科学书单
+date: 2023-11-16
 ---
 
 
@@ -161,98 +161,6 @@ date: 2023-10-26
 | 推荐系统 Dietmar jannach                                                                                                                                                           |                                |
 | 推荐系统实战 项亮                                                                                                                                                                  |                                |
 | Recommender Systems Specialization                                                                                                                                                 |                                |
-|-----
-| 中国哲学史 - 冯友兰                                                                                                                                                                | 跨学科                         |
-| 中国哲学十九讲                                                                                                                                                                     |                                |
-| 大学                                                                                                                                                                               |                                |
-| 中庸                                                                                                                                                                               |                                |
-| 论语                                                                                                                                                                               |                                |
-| 孟子                                                                                                                                                                               |                                |
-| 周易                                                                                                                                                                               |                                |
-| 道德经                                                                                                                                                                             |                                |
-| 庄子                                                                                                                                                                               |                                |
-| 列子                                                                                                                                                                               |                                |
-| 金刚经                                                                                                                                                                             |                                |
-| 六组坛经                                                                                                                                                                           |                                |
-| 佛教逻辑                                                                                                                                                                           |                                |
-| 传习录                                                                                                                                                                             |                                |
-| 近思录                                                                                                                                                                             |                                |
-| 论衡                                                                                                                                                                               |                                |
-| 山海经                                                                                                                                                                             |                                |
-| 西方哲学史 - 罗素                                                                                                                                                                  |                                |
-| 你的第一本哲学书                                                                                                                                                                   |                                |
-| 苏菲的世界                                                                                                                                                                         |                                |
-| 大问题                                                                                                                                                                             |                                |
-| 幸福之路                                                                                                                                                                           |                                |
-| 哲学的故事                                                                                                                                                                         |                                |
-| 哲学的慰藉                                                                                                                                                                         |                                |
-| 理想国                                                                                                                                                                             |                                |
-| 形而上学                                                                                                                                                                           |                                |
-| 第一哲学沉思集                                                                                                                                                                     |                                |
-| 谈谈方法                                                                                                                                                                           |                                |
-| 人类理解论                                                                                                                                                                         |                                |
-| 纯粹理性批判                                                                                                                                                                       |                                |
-| 小逻辑                                                                                                                                                                             |                                |
-| 作为意志和表象的世界                                                                                                                                                               |                                |
-| 查拉图斯特拉如是说                                                                                                                                                                 |                                |
-| 权利意志                                                                                                                                                                           |                                |
-| 悲剧的诞生                                                                                                                                                                         |                                |
-| 偶像的黄昏                                                                                                                                                                         |                                |
-| 奥义书                                                                                                                                                                             |                                |
-| 创造进化论                                                                                                                                                                         |                                |
-| 心的分析                                                                                                                                                                           |                                |
-| 物的分析                                                                                                                                                                           |                                |
-| 哲学问题                                                                                                                                                                           |                                |
-| 人性论                                                                                                                                                                             |                                |
-| 存在与时间                                                                                                                                                                         |                                |
-| 存在与虚无                                                                                                                                                                         |                                |
-| 逻辑哲学论                                                                                                                                                                         |                                |
-| 疯癫与文明                                                                                                                                                                         |                                |
-| 声音与现象                                                                                                                                                                         |                                |
-| 索拉里斯星                                                                                                                                                                         |                                |
-| 其主之声                                                                                                                                                                           |                                |
-| 惨败                                                                                                                                                                               |                                |
-| 完美的真空                                                                                                                                                                         |                                |
-| 莱姆狂想曲                                                                                                                                                                         |                                |
-| 机器人大师                                                                                                                                                                         |                                |
-| 技术大全                                                                                                                                                                           |                                |
-| 复杂 一门诞生于秩序与混沌边缘的科学                                                                                                                                                |                                |
-| 复杂                                                                                                                                                                               |                                |
-| 失效的科学                                                                                                                                                                         |                                |
-| What is a Complex System (Paper) - Wiesner                                                                                                                                         |                                |
-| 认知科学揭秘 认识科学与广义进化论                                                                                                                                                  |                                |
-| 信息简史 - 格雷克                                                                                                                                                                  |                                |
-| 隐秩序 适应性造就复杂性                                                                                                                                                            |                                |
-| 链接 商业 科学 与生活的新思维                                                                                                                                                      |                                |
-| 宇宙为家                                                                                                                                                                           |                                |
-| 预知社会 群体行为的内在法则                                                                                                                                                        |                                |
-| 不论                                                                                                                                                                               |                                |
-| Thinking in Complexity (复杂性思维)                                                                                                                                                |                                |
-| Thinking in Systems: A Primer (系统之美)                                                                                                                                           |                                |
-| 混沌与分形 科学的新疆界                                                                                                                                                            |                                |
-| 系统科学 - 许国志                                                                                                                                                                  |                                |
-| 网络 群体与市场                                                                                                                                                                    |                                |
-| 网络科学引论                                                                                                                                                                       |                                |
-| 从抛物线谈起                                                                                                                                                                       |                                |
-| 热力学与统计物理学 - 林宗涵                                                                                                                                                        |                                |
-| 复杂性与临界现象                                                                                                                                                                   |                                |
-| 信息论基础 - THOMAS M.COVER                                                                                                                                                        |                                |
-| 非线性动力学与混沌 - 史蒂芬                                                                                                                                                        |                                |
-| Handbook of Stochastic Methods (随机方法手册) - Crispin Gardiner                                                                                                                   |                                |
-| From being to becoming (从存在到演化) - 普里戈金                                                                                                                                   |                                |
-| Order Out of Chaos (从混沌到有序) - 普里戈金                                                                                                                                       |                                |
-| What is Life (生命是什么) - 薛定谔                                                                                                                                                 |                                |
-| 科学与假设 - 彭加勒                                                                                                                                                                |                                |
-| 确定性的终结 - 普里戈金                                                                                                                                                            |                                |
-| Cybernetics (控制论) - 维纳                                                                                                                                                        |                                |
-| A New Kind of Science                                                                                                                                                              |                                |
-| Stability and Complexity in Model Ecosystems - Robert M. May                                                                                                                       |                                |
-| Evolutionary Ecology - Eric R. Pianka                                                                                                                                              |                                |
-| Models in Ecology - John Maynard Smith                                                                                                                                             |                                |
-| Investigations on the Theory of the Brownian Movement - Einstein Albert                                                                                                            |                                |
-| John Maynard Keynes - Hyman Minsky                                                                                                                                                 |                                |
-| The World in Depression, 1929-1939 - Charles P. Kindleberger                                                                                                                       |                                |
-| Adam's Fallacy:A Guide to Economic Theology - Duncan K. Foley                                                                                                                      |                                |
 |-----
 | [Teach Yourself Computer Science](https://teachyourselfcs.com)                                                                                                                     | References                     |
 | [What Every Computer Science Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)                                                                        |                                |
