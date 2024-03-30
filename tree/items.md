@@ -17,8 +17,8 @@ date: 2023-11-02
 | AirPods                              |            |
 |-----
 | Jacket Mountain Hardwear             | 上衣       |
-| 棉服 三夫                            |            |
 | 薄羽绒服 优衣库                      |            |
+| 棉服 三夫                            |            |
 | 抓绒 ARCTERYX Delta LT               |            |
 | 衬衫 MUJI                            |            |
 | 短袖T恤 速干 (4件)                   |            |
@@ -31,7 +31,7 @@ date: 2023-11-02
 | 腰带 MUJI                            |            |
 |-----
 | 帆布鞋 MUJI 白色 (2双)               | 鞋袜       |
-| 长袜 (4双)                           |            |
+| 长袜 迪卡侬 (4双)                    |            |
 | 船袜 (4双)                           |            |
 |-----
 | OSPREY KESTREL (48L)                 | 包         |
