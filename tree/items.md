@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2024-03-30
+date: 2024-06-10
 ---
 
 
@@ -32,7 +32,7 @@ date: 2024-03-30
 |-----
 | 帆布鞋 MUJI 白色 (2双)               | 鞋袜       |
 | 长袜 迪卡侬 (4双)                    |            |
-| 船袜 迪卡侬 (4双)                           |            |
+| 船袜 迪卡侬 (4双)                    |            |
 |-----
 | OSPREY KESTREL (48L)                 | 包         |
 | ARCTERYX INDEX 15                    |            |
