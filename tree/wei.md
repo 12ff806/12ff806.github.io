@@ -18,11 +18,9 @@ date: 2024-08-14
 | 开跨/ 马步/ 八段锦/ 八部金刚功/ 八部长寿功/ 骑车                              |                      |
 | 吃 各种天然草/ 各种素食/ 少量坚果/ 少量低糖水果/ 中医食疗                     |                      |
 |-----
-| 修道                                                                          | Stupid but Fun       |
-| 野外生存                                                                      |                      |
-| 长途骑行                                                                      |                      |
-|-----
-| 英语                                                                          | 自然语言             |
+| 修道                                                                          | 修行                 |
+| 丹道                                                                          |                      |
+| 武术                                                                          |                      |
 |-----
 | 周易                                                                          | 哲学 宗教 艺术       |
 | 山海经                                                                        |                      |
@@ -71,20 +69,10 @@ date: 2024-08-14
 | 疯癫与文明                                                                    |                      |
 | 声音与现象                                                                    |                      |
 |-----
-| The C Programming Language                                                    | 科学技术             |
-| Unix/Linux编程实践教程                                                        |                      |
-| How To Design Programs                                                        |                      |
-| Structure and Interpretation of Computer Programs                             |                      |
-| 深入理解计算机系统                                                            |                      |
-| How to solve it                                                               |                      |
-| The Algorithm Design Manual                                                   |                      |
-| 普林斯顿微积分读本                                                            |                      |
-| 计算机科学中的数学                                                            |                      |
-| 操作系统导论                                                                  |                      |
-| 计算机网络 自顶向下方法                                                       |                      |
-| Readings in Database Systems                                                  |                      |
-| Crafting Interpreters                                                         |                      |
-| 数据密集型应用系统设计                                                        |                      |
+| 英语                                                                          | 自然语言             |
+|-----
+| 长途骑行                                                                      | Stupid but Fun       |
+| 野外生存                                                                      |                      |
 |=====
 {: rules="groups"}
 

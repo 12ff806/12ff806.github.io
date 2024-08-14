@@ -4,15 +4,30 @@ tree: active
 notes: passive
 projects: passive
 title: 计算机科学书单
-date: 2023-11-16
+date: 2024-08-14
 ---
 
 
 {::options auto_ids="false" /}
 
 
-| 书                                                                                                                                                                                 | 类别                           |
+| 计算机科学书单                                                                                                                                                                     | 类别                           |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------:|
+| The C Programming Language                                                                                                                                                         | Foundations                    |
+| Unix/Linux编程实践教程                                                                                                                                                             |                                |
+| How To Design Programs                                                                                                                                                             |                                |
+| Structure and Interpretation of Computer Programs                                                                                                                                  |                                |
+| 深入理解计算机系统                                                                                                                                                                 |                                |
+| How to solve it                                                                                                                                                                    |                                |
+| The Algorithm Design Manual                                                                                                                                                        |                                |   
+| 普林斯顿微积分读本                                                                                                                                                                 |                                |
+| 计算机科学中的数学                                                                                                                                                                 |                                |
+| 操作系统导论                                                                                                                                                                       |                                |
+| 计算机网络 自顶向下方法                                                                                                                                                            |                                |
+| Readings in Database Systems                                                                                                                                                       |                                |
+| Crafting Interpreters                                                                                                                                                              |                                |
+| 数据密集型应用系统设计                                                                                                                                                             |                                |
+|-----
 | [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)                                                    | Programming                    |
 | [Brian Harvey’s SICP lectures (61A course at Berkeley)](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)                                        |                                |
 | [Brian Harvey 开设的 SICP 课程(英文字幕)](https://www.bilibili.com/video/av40460492/)                                                                                              |                                |
