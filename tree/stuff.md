@@ -4,7 +4,7 @@ tree: active
 notes: passive
 projects: passive
 title: 物品清单
-date: 2025-08-25
+date: 2025-09-02
 ---
 
 
@@ -37,19 +37,6 @@ date: 2025-08-25
 |-----
 | OSPREY KESTREL (48L)                 | 包         |
 | ARCTERYX INDEX 15                    |            |
-|-----
-| Gravel                               | 自行车     |
-| 骑行手电 尾灯 GIYO                   |            |
-| 修车工具                             |            |
-| 注油工具                             |            |
-| 补胎工具                             |            |
-| 打气筒 GIYO                          |            |
-| 来令片 TOOPRE TL-01S * 2             |            |
-| 备用内胎 建大                        |            |
-| 链条快扣                             |            |
-| 链条油 WD40 干性                     |            |
-| 备用螺丝 M5*16 M5*70                 |            |
-| 备用尾勾                             |            |
 |-----
 | 充气垫 迪卡侬                        | 户外用品   |
 | 铝箔垫                               |            |
