@@ -3,7 +3,7 @@ layout: tree
 tree: active
 notes: passive
 projects: passive
-title: 种菜
+title: 种植
 date: 2026-07-15
 ---
 
@@ -33,6 +33,10 @@ date: 2026-07-15
 | 芋头                                                                                                                                                                  |                      |
 | 毛豆                                                                                                                                                                  | 4月中旬              |
 | 黄豆                                                                                                                                                                  | 芒种前后种植         |
+| 黄花                                                                                                                                                                  |                      |
+| 韭菜                                                                                                                                                                  |                      |
+| 甜瓜                                                                                                                                                                  |                      |
+| 西瓜                                                                                                                                                                  |                      |
 | 鱼腥草                                                                                                                                                                | 5月1日采摘           |
 | 蓝莓                                                                                                                                                                  |                      |
 | 树莓                                                                                                                                                                  |                      |
